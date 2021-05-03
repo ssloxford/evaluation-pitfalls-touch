@@ -7,11 +7,18 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.utils import shuffle
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-dataset', default="../data/data.csv")
-parser.add_argument('-random_state', default=42, type=int) # random state for reproducability
+parser.add_argument("-dataset", default="../data/features.csv")
+parser.add_argument(
+    "-random_state", default=42, type=int
+)  # random state for reproducability
 args = parser.parse_args()
 
-users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(dataset_path=args.dataset, game="swipe", direction="left", random_state=args.random_state)
+users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
+    dataset_path=args.dataset,
+    game="swipe",
+    direction="left",
+    random_state=args.random_state,
+)
 
 EERS = []
 user_eer_map = {}
@@ -28,7 +35,14 @@ for user in users:
     users_copy.remove(user)
     user_groups = utils.partition_list(users_copy)
 
-    X_train, y_train, X_test, y_test = utils.combined_sessions(user_touches, user_touches_shuffled, user, train_users=user_groups[0], test_users=user_groups[1], randomized=True)
+    X_train, y_train, X_test, y_test = utils.combined_sessions(
+        user_touches,
+        user_touches_shuffled,
+        user,
+        train_users=user_groups[0],
+        test_users=user_groups[1],
+        randomized=True,
+    )
 
     X_train, y_train = shuffle(X_train, y_train, random_state=args.random_state)
     X_test, y_test = shuffle(X_test, y_test, random_state=args.random_state)
@@ -37,11 +51,11 @@ for user in users:
     X_train = scaler.fit_transform(X_train)
     X_test = scaler.transform(X_test)
 
-    clf = svm.SVC(gamma='scale')
+    clf = svm.SVC(gamma="scale")
     clf.fit(X_train, y_train)
     y_pred = clf.decision_function(X_test)
 
     eer = utils.calculate_eer(y_test, y_pred)
     EERS.append(eer)
 
-utils.export_csv('../results/p3_training_selection/randomized.csv', EERS)
+utils.export_csv("../results/p3_training_selection/randomized.csv", EERS)
