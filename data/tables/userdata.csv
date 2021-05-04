@@ -1,0 +1,487 @@
+uuid,phone_model,country,gender,handedness,weight,height,doby,dobm,dobd
+00a17b1f-ee60-474a-97f8-e2fb9448d022,iPhone 8,United States,female,right,61,162,1982,4,28
+01c5fe3f-ba4f-43e0-8dd2-644e6323408d,iPhone 8 Plus,Brazil,male,left,93,172,1996,5,5
+01c9cbfd-2274-406e-a677-7749feb04f96,iPhone XS,United States,female,right,5,37000,1972,5,22
+02872a68-522f-4b98-ab93-805d5c406c5c,iPhone 7,Central African Republic,male,right,9,255,1988,12,31
+02ef59ef-d901-4a94-b081-9c8b68309a65,iPhone 6s,United States,male,right,7,5,1998,4,18
+0324841c-d457-4541-8fca-d1ff3530faed,iPhone XS Max,United States,female,right,95,175,1993,5,1
+038014cc-1283-4112-b59b-f5e829b2da23,iPhone 6s,United States,male,right,6,173,2002,5,25
+03e57cee-3530-44e6-9dfb-40fea4448152,iPhone 7 Plus,India,female,right,58,173,1990,3,21
+06203d43-e594-43d5-acc7-3eb74631d0cb,iPhone X,India,female,right,62,171,1966,7,21
+06b53f82-5b79-4a29-9c3e-fe03fd904e80,iPhone 6s,United States,other,right,83,183,1985,1,18
+06b8887b-0bd4-4a8e-ba68-5123991c741e,iPhone 8 Plus,Italy,male,right,56,160,2000,3,10
+06ffee5d-8a74-4ec8-b90e-32bff0ff02e6,iPhone XS Max,United States,male,right,210,72,1980,12,27
+074b36d1-b8dd-4d36-91ee-004db9541c82,iPhone XS Max,United States,male,right,175,180,1996,8,6
+07b52f47-63c7-4514-9bdf-5b2af6d17958,iPhone 8,United States,other,right,68,154,1979,10,24
+07dd44e1-41d2-4bdd-9451-f926a88f5860,iPhone 7,United States,female,right,74,165,1970,2,8
+085e7583-d820-430c-ac69-fb78a4fc51ff,iPhone 8 Plus,United States,male,right,1584,178,1999,12,21
+08800724-c415-4ad9-a453-27ea35af5aa6,iPhone 6s,United States,male,right,99,183,1981,5,29
+0895bbb7-5b1b-4e69-a06c-2b704723c281,iPhone 7 Plus,United States,female,left,135,66,1981,6,14
+09c892b4-67aa-4fff-b27f-d4197e15fc9c,iPhone 6s,United States,male,right,89,180,1986,2,6
+09fd6cef-db84-4b44-988a-f7c0cc278f8c,iPhone XS,United States,male,right,72,178,1982,10,14
+0a0a1ea3-d6f9-4985-8f04-e5a8de63b364,iPhone 6s Plus,United States,male,right,165,120,1993,6,6
+0b86cee2-fa14-4cb0-a598-07e87613648b,iPhone XS Max,United States,female,right,2,5,1979,5,28
+0bc465d4-0b26-4448-9d85-1cac7fba4de3,iPhone 7,India,male,right,75,175,1989,3,6
+0bfec10e-0a4f-4f6a-913e-c6e18279b9ba,iPhone 7,India,male,right,74,182,1988,10,5
+0c61e675-8f8e-4efa-9f9a-4463907aecb9,iPhone 6s,United States,female,right,76,163,1964,12,30
+0d65acad-4341-4f0e-bb6a-7a1213d78a1e,iPhone 7 Plus,United States,male,right,70,185,1989,10,21
+0de9b627-2655-496a-bdcd-a94e1a831f0b,iPhone X,India,male,right,80,175,1993,8,21
+0e46d2ff-cfda-4af4-84e3-161d95fcd576,iPhone 6s,United States Minor Outlying Islands,female,right,56,165,1975,3,19
+0fb4a46c-5a0c-4c0b-9ec7-94a7748ca28c,iPhone 7 Plus,United States,female,right,81,182,1992,5,13
+10196d93-f470-40d9-9b02-dae3c9130c60,iPhone X,United States,female,right,49,164,1982,4,18
+10703ee7-a15d-46a2-8317-9181e7bac658,iPhone 7,Bulgaria,male,right,82,183,1995,7,11
+10b062db-92d4-4535-aec5-5a3697c24e6e,iPhone X,Mexico,male,right,60,170,2000,7,12
+10c51d28-953b-4ff4-8fde-c04cc6bfd0cf,iPhone 8 Plus,United States,other,right,74,168,1970,12,14
+10da63dc-a519-4393-9a0c-b8e6f956fe7a,iPhone 8 Plus,United States,male,right,70,169,1996,7,1
+113868df-fb3a-4b41-afe0-d74a43d372de,iPhone 8,United States,male,right,63,175,1996,11,22
+117aeac0-a568-4be9-856b-284b76a40041,iPhone 8,United States,female,right,54,155,2001,5,18
+117feab3-84ad-4b86-80e8-2be20be2f9d2,iPhone 6s,Italy,male,right,79,180,1985,6,27
+11d034f0-9adb-4e7d-a79f-b5e168a56168,iPhone 7,United States,female,left,115,64,1989,2,10
+1208be9a-6174-4250-a87d-2ee389a590d2,iPhone 7 Plus,United States,male,right,60,64,1983,9,1
+12440557-218b-4e1b-ab6c-e8349128cdc5,iPhone 8,United States,male,right,79,170,1962,7,11
+12742894-c2c4-46af-8c24-4b7a8f886d37,iPhone 8,Canada,female,right,50,170,1998,9,13
+1340b0c0-49d8-4302-b13e-b98976273402,iPhone 7,United States,male,right,100,182,1970,12,23
+134a4876-a063-49ba-a2e2-ec359eb71611,iPhone X,Italy,male,right,83,194,1991,9,30
+14182784-2849-4ce6-bbac-a24efbc8f11b,iPhone 8,United States,other,right,79,165,1988,3,21
+15287875-c3a2-432f-a6da-515e0f0edcc2,iPhone XS Max,United States,female,right,50,165,2001,12,5
+1558d5a4-800a-491d-91b5-ad0bcaa3d073,iPhone 7 Plus,United States,female,right,63,160,1986,6,22
+15683670-dbb6-4319-bdbf-deb866cef967,iPhone XS,United States,female,left,67,157,1991,2,11
+167a61ff-d744-40e8-8b6a-1c0211ef0655,iPhone 6s,United States,female,right,56,157,1988,6,9
+1689deb0-0e71-4180-8472-e3b028617c71,iPhone X,Germany,male,right,95,185,2003,10,30
+16e3211d-dc37-454e-aaef-d2d3b3334065,iPhone 7,United States,male,right,57,178,1991,3,3
+16e94fdb-c9a5-496b-b7dc-22b5ebd63a7b,iPhone 8,United States,female,right,62,157,1990,6,15
+173f257b-3868-4018-a25c-384647525829,iPhone 6s Plus,United States,female,right,20008,172,1990,2,17
+17638641-bc5f-4fd8-9ada-51da113deaf5,iPhone 8 Plus,United States,male,right,100,103,1994,2,20
+18a2a742-cba6-4f9d-9b37-b0bfd591135b,iPhone XS Max,United States,female,right,68,157,1967,9,5
+18c6ffdd-0021-4868-b112-6c97898a0cab,iPhone X,United States,other,right,45,170,1996,9,5
+198e1205-e9ad-4134-87d9-71fdb1d8c273,iPhone 6s,United States,female,left,55,79,1988,8,26
+1a61a209-01a3-474b-b7e0-670aaff8db49,iPhone 8,United States,female,right,60,160,1988,4,16
+1a85dcfe-eb68-49ab-9e56-29b6b7f77625,iPhone 7 Plus,United States,female,right,63,162,1975,8,4
+1b0833d5-44d8-4efe-b829-15e9590f3c89,iPhone 6s Plus,United States,male,right,95,182,1989,7,29
+1bcedca0-d04b-439d-9bd5-224cf1e0efdb,iPhone 8,United States,male,right,145,168,2000,9,26
+1be2f134-b293-4f70-9cfe-0e08bf85867a,iPhone X,Finland,male,right,85,180,1981,1,22
+1c3eee66-65a4-4ab9-b386-1ca901d9431e,iPhone 8,United States,female,right,6,158,1982,3,24
+1d0fd6a0-8914-4608-97ae-2a89af3d4d85,iPhone XS,United States,male,right,80,163,1991,12,20
+1d3d57c6-d639-44dd-a3e1-60c6d047a4bd,iPhone 8,United States,male,right,83,193,2004,6,10
+1db3f758-0916-4b25-bd1c-ba4fa5fb938c,iPhone 8 Plus,United States,male,right,190,178,1976,12,9
+1dbf0d82-e565-416d-b51b-5b80e1273955,iPhone X,United States,female,right,2,5,1989,7,1
+1de614c1-09f9-430a-9fd6-f4f59e6a8f97,iPhone 7,France,female,left,88,156,1973,3,3
+1e0ff76c-e58e-423d-88e3-29139c3b7a3e,iPhone 7 Plus,United States,male,right,62,179,1978,1,16
+1e11adfa-1860-4c43-89a3-04086b3de874,iPhone 8,United States,male,left,73,188,1992,7,27
+1eb8a2df-fd56-4a95-aa98-2d3f5f958747,iPhone X,Nepal,male,left,84,176,1988,12,8
+1ff34149-daee-435e-8a5f-7121075981f7,iPhone 7 Plus,United States,male,left,98,178,1956,6,25
+21612582-822c-4a7a-98f8-e153e809c6b9,iPhone 6s,United Kingdom,female,right,60,154,1997,2,10
+21db4638-ef21-42c3-b993-318a4477fcdd,iPhone 6s,United States,female,right,48,166,1983,11,30
+22783ffb-e915-4beb-9b63-dd71005e0247,iPhone 6s,United Kingdom,male,right,70,170,1989,7,1
+22bd6d31-ea6c-4161-a86a-5c75b121201f,iPhone 6s,United States,female,right,81,160,1987,12,8
+22ede569-defc-450f-9913-b58dd5bace02,iPhone 6s Plus,United States,male,left,82,180,1968,10,12
+23c98c75-fbef-4574-a464-88f749cd1f1f,iPhone XS Max,United States,male,left,107,183,1975,12,21
+23f83bd7-4be8-4aab-bac7-52942b312b4d,iPhone X,United States,male,right,54,177,1989,5,1
+2429a120-7f28-4430-90d8-69b73b5c6e0b,iPhone 6s,United States,male,right,55,181,1985,5,15
+24454b4a-fbe0-40f5-ac13-f07d6e499654,iPhone 7 Plus,United States,male,right,120,190,1991,4,23
+27980cf8-b384-449c-9dba-0a534fe6db9e,iPhone 7,United States,female,left,118,160,1975,11,1
+27c27770-c120-4b4f-b6f3-0bd3c102483b,iPhone 8 Plus,United States,male,right,8,5,1993,9,14
+27f772b4-4ed4-4a2b-ab0c-941e7bdf3ed6,iPhone 7,United States,female,right,45,153,1983,5,22
+281ddae4-27f4-4a16-ae90-a4ca41778829,iPhone 8,United States,female,right,87,167,1990,11,12
+28cf6cbe-ce1b-458e-b3aa-51643786138c,iPhone 7 Plus,United States,female,right,112,152,1988,11,21
+29462da4-0285-45b4-9953-88e6e5e900d8,iPhone 8,United States,female,right,583,167,1963,11,20
+297ab9ed-2403-480f-8de6-01e24b3aeb4c,iPhone 7 Plus,Egypt,male,right,73,173,1997,2,20
+2afb32e9-92b6-4b64-be2e-e0e14e4c3cd1,iPhone 8,United States,male,left,500,188,1969,10,25
+2b189336-5fd9-4340-9d1c-8b2e293a7921,iPhone 7 Plus,United States,male,right,57,173,1982,11,24
+2bc4c09a-d598-48db-a9e2-e5651f54991a,iPhone 7 Plus,United States,male,right,225,70,1985,2,16
+2c5895b5-de1f-4a4a-9cf1-88847415d850,iPhone 7 Plus,"Taiwan, Province of China",female,right,62,170,1975,4,4
+2d6251dc-2cb8-4701-9a00-41a31eb1cee2,iPhone 7,Mexico,male,right,120,190,1986,8,31
+2d81cccf-733b-47db-b9b2-df56d985c7b2,iPhone X,United States,female,right,113,165,1990,9,10
+2d8867b8-20cc-4144-ad47-3ef26af84cfb,iPhone 6s,India,male,right,68,180,1971,8,15
+2e247911-70e0-486b-93cb-95eb8a49e1d4,iPhone 7 Plus,United States,female,right,52,165,1970,11,4
+2e517a09-5dbf-46bb-8ecd-8349d5a8d1a0,iPhone 7,United States,female,right,72,170,1989,11,14
+2e597ef6-c71e-4e0e-a311-a926c7e3072d,iPhone 7 Plus,United States,male,right,108,191,1982,1,14
+2f5b7e48-d5ad-429a-af01-069a108c8fa6,iPhone 8,United States,female,right,6,162,1982,4,28
+3288ef6d-a022-4f7a-9459-332ef6813111,iPhone X,United States,male,right,108,182,1982,5,19
+32b71ec3-1967-4617-9b97-676dfc43b075,iPhone XS,United States,male,right,52,162,1998,9,14
+33b88e2f-0f95-4ec6-8e12-b02d2e978a26,iPhone X,India,male,right,73,172,1988,12,22
+361e59ae-4e44-4bab-8d2d-0bed35c57c7b,iPhone X,Nepal,male,right,85,176,1988,12,8
+3811aaa6-c219-4268-9713-0692cd76ae06,iPhone X,United States,female,right,54,66,1991,11,20
+38988d09-1d20-4a2c-8d93-1f2ea1038f36,iPhone 7 Plus,United States,female,right,79,160,1976,6,14
+38c1ad6c-6bc3-4093-9856-e00acab70f4d,iPhone 8,United States,female,right,1,166,1982,3,26
+38e67a9b-eb6c-44dd-8ddd-66c005d6b710,iPhone 7 Plus,United States,female,left,6,140,1989,10,4
+390d8122-f4b8-4557-8538-55c2527e4494,iPhone 8 Plus,United States,female,right,91,163,1973,9,20
+3910651f-e508-4fd8-beb5-1816b1e8b535,iPhone 8 Plus,United States,female,left,50,150,1993,8,7
+3923be53-b16e-442b-b475-2256c21aa0c2,iPhone 7,United States,male,right,100,188,1994,3,5
+39998fda-4cec-4078-af90-81a6aa274c6b,iPhone 8 Plus,United States,male,right,78,178,1983,8,22
+3a281a44-de12-44f8-9c4b-399da112358c,iPhone 8,United States,male,right,240,190,1986,2,16
+3be5b2d7-3074-4c42-b77f-46e3b55303be,iPhone X,United States,male,right,70,170,1957,7,1
+3c5787e0-d30b-4943-9d0d-477ecc74334b,iPhone 6s Plus,United States,male,right,70,178,1952,6,5
+3cf5d0ec-6f76-4c5d-9820-27366ec52e80,iPhone 8,United States,male,right,79,152,1982,4,7
+3d2191ce-c439-4d91-8c3d-3ff0b79c8cd1,iPhone XS Max,United States,female,right,46,150,1983,1,13
+3dc8945c-543f-45f4-8c6c-aa863726db78,iPhone 7,Canada,male,right,75,170,1993,10,24
+3e562a99-f58d-4ec8-9bb9-25e386be42d7,iPhone 8,France,male,right,80,182,1961,4,15
+3eb93cda-14ce-48ec-89d8-2437c1e89a71,iPhone 8 Plus,United States,male,right,104,193,1979,9,20
+3f9f6564-0e74-4d6f-87d8-ec9ff2906d94,iPhone 6s Plus,United States,male,right,104,183,1981,10,9
+3fa6d89e-96e2-4f73-a630-53f057e90649,iPhone 7,United States,female,right,172,65,1964,1,2
+4065064e-509b-42df-afb7-bbffb016532a,iPhone X,Canada,male,right,70,171,1988,12,14
+40779e41-5e97-42fb-886c-5717de381af7,iPhone 7,United States,male,left,9,5,1991,6,30
+40c5ecd5-3b16-48b3-96ec-e1b97851ba46,iPhone 6s,United States,female,right,55,165,1983,8,28
+4180a706-f16d-4b50-b3ce-722506a1e0f3,iPhone XS,United States,male,right,88,185,1998,5,7
+41a5fab4-71c8-4f1d-bcfd-d7dd4c073a99,iPhone 7 Plus,United States,female,left,46,67,1998,9,28
+423c8115-682f-40ad-b648-ff6a2885d5b5,iPhone XS,Germany,male,right,75,185,1997,8,20
+428b04c7-5e17-4a47-9180-898ab90e3018,iPhone 8,United States,female,right,59,172,1997,4,11
+42c1372d-bb18-4907-b75c-f51b09215be4,iPhone XS Max,United States,male,right,89,180,1993,2,10
+43200a1b-e44b-4372-b3ee-aac293dcc20f,iPhone 7,United States,female,left,150,155,1990,8,10
+43239854-90c4-4a97-84c1-5470822ef4e6,iPhone X,United States,female,right,190,64,1963,9,24
+4459f0f6-86b9-48be-b30c-5de65f5e393b,iPhone 7 Plus,United States,female,right,50,163,1990,10,31
+458fb474-7efd-48ae-b105-32e14042a45e,iPhone 6s Plus,United States,male,right,136,183,1990,7,11
+45993964-bf5b-4e66-a900-d01018f9aee7,iPhone 7 Plus,United States,male,right,190,72,1998,2,10
+4719dae3-786f-49fd-a4e6-c441a2738f67,iPhone XS Max,Netherlands,male,right,73,183,1985,1,1
+48ae3bdf-2152-4583-847d-e5957203acbd,iPhone 7 Plus,United States,female,left,63,164,2007,12,31
+48f55905-8aff-431a-9511-c637552517e9,iPhone 6s,United States,female,right,60,164,1984,8,23
+4913fbd9-aaf9-4097-bff2-f1286e8895d7,iPhone 8 Plus,United States,male,right,55,180,1998,12,1
+4957e9a7-b1d0-4380-b35d-8940c491732d,iPhone 7,United States,male,right,96,180,1992,12,7
+496c81fc-bad9-4481-bb74-1b48099ddf4a,iPhone XS Max,United States,female,right,57,166,1998,1,5
+4983567e-d502-41fd-83e5-74657c14235f,iPhone 6s,Venezuela,female,right,61,160,1990,10,11
+49ef8e88-03fb-426a-bdfb-13e7f7dd379d,iPhone X,India,male,right,89,175,1989,7,6
+4aeccb67-b1b4-4c47-a4e5-95401382b75a,iPhone XS,United States,female,right,150,65,1997,6,3
+4aeecd7d-08da-467c-af2e-4b29782d829d,iPhone XS,United States,male,right,212,195,1998,1,26
+4b281f2b-3c91-46d0-8249-648ac561c978,iPhone X,United States,male,right,84,179,2001,5,20
+4b5367ac-46d0-46a3-9558-7cf9315f9b7f,iPhone 7,Zimbabwe,female,right,54,168,1989,7,9
+4b8280ba-1b36-4474-904e-5d3b7c8922c5,iPhone 8,United States,female,right,88,168,1987,12,28
+4bad3c04-725c-43f1-ad14-1241cfd51978,iPhone X,United States,male,right,74,178,1978,9,2
+4c12ad59-2f5c-4277-941f-7e4937f050f1,iPhone 7,United States,female,right,88,170,1988,12,31
+4c3bf371-6020-4c68-be18-bee35fee42fe,iPhone 6s,United States,female,right,70,152,1979,2,13
+4ca416f5-222c-4765-9723-14cb0841bb3a,iPhone 7,United Kingdom,male,left,68,173,1998,3,31
+4d01ae21-e579-4002-b761-a0d6f3da0439,iPhone 6s,United States Minor Outlying Islands,male,right,88,180,2007,12,31
+4d38eece-af3d-48b1-b8e8-dfd8b9f1bb36,iPhone 7,India,female,right,81,165,1993,12,1
+4d5a175b-b309-4b83-a7a2-5025b3a6a952,iPhone XS Max,United States,male,left,92,177,1983,1,19
+4d7fe3aa-6f51-4ba7-94e9-01906ec109cc,iPhone X,United States,female,right,219,66,1983,12,25
+4ef425de-27fc-4486-8d84-1b68423166a3,iPhone 6s,United States,male,left,7,5,1993,3,25
+4fa73dce-3f19-416e-942a-105fbed3f63f,iPhone XS,Spain,male,right,7,179,1985,1,29
+50b0e53e-3eb8-42a0-b0c3-1143296f98c1,iPhone 6s,Brazil,male,right,7,174,1995,2,24
+5133d7d2-1374-462e-842b-4c9f98236bbe,iPhone 8,United States,female,right,7,158,1998,8,17
+5188e028-7978-437a-b309-b8213b124894,iPhone 7,United Kingdom,female,right,68,170,1971,10,17
+51f96257-ce50-4167-970a-0f6773b24c75,iPhone 8 Plus,Canada,male,right,70,176,1995,9,22
+529f8ebf-acd3-4130-b6ab-8199da6723a3,iPhone X,United States,female,right,83,16,1982,9,16
+52b262ce-2572-43df-96b7-982365a6391f,iPhone 8 Plus,Iraq,female,right,65,172,1986,6,20
+52b8e62f-92ec-4103-9061-f59fdc313931,iPhone 8 Plus,United States,male,right,84,196,1978,10,30
+5383b587-b179-41c6-a504-cdf565857282,iPhone 6s,United States,female,right,220,53,1985,12,11
+545f2eed-61d1-4ff4-9af7-f45a969b3ffc,iPhone 6s,Canada,male,right,115,183,1976,1,19
+548e53f4-627f-4497-8131-938ec6c7a997,iPhone X,United States,female,right,48,165,1996,3,6
+55353b4a-bcca-4b76-be8e-e3e43f8aeda1,iPhone X,Germany,male,right,64,186,1997,7,22
+55d6028a-0f9c-4030-abcd-cec58955490d,iPhone 8 Plus,United States,female,right,12,154,1984,4,13
+5668a9cd-6acb-4c22-a8d6-aa30bb98ac8e,iPhone XS,Canada,female,right,49,165,2001,8,21
+56691e36-84e3-4f41-9429-320717160996,iPhone 6s Plus,United States,male,right,75,170,1985,1,12
+56b14f89-2b73-4374-96bb-2c252920fedf,iPhone XS Max,United States,male,right,80,170,1991,1,10
+57d768e4-9c29-4ad2-98e5-6570c7a313e4,iPhone 7,Spain,male,right,70,178,1986,9,16
+58183486-54eb-498d-86d8-9c3f6bc49cc4,iPhone X,United States,female,right,58,64,1985,10,31
+58298ff5-082f-4e78-ac9a-0cdf5c01b68d,iPhone 7,United Kingdom,male,left,82,180,1998,11,12
+59166124-c59b-4d3a-aa61-25f7bc537077,iPhone X,United States,male,right,215,181,1980,9,19
+59d41024-5042-40e6-b2cf-e2481ac0512d,iPhone 6s Plus,United States,female,right,30,30,1975,7,8
+5a839c8a-4ef3-47ad-bebb-507ca4bd0993,iPhone 6s,United States,male,right,80,182,1991,11,11
+5ad24054-a3cc-4700-a961-f095cbd778e5,iPhone 8,United States,female,right,61,188,1957,1,18
+5b0b03f8-9adc-458e-bad9-057cc1900657,iPhone X,Portugal,female,right,58,153,1981,12,2
+5baf4919-5629-4805-beb1-d381f5ad10c9,iPhone XS,Netherlands,male,right,100,175,1988,6,2
+5c5fb9f2-ea64-4344-add4-6791e34a287f,iPhone 8,United States,female,right,79,165,1950,12,21
+5cba3a45-502e-418d-9954-84eb8c343014,iPhone 8 Plus,United States,female,right,191,183,1995,7,31
+5d9965d4-d498-4c42-9ecc-09e7c87bc04e,iPhone 6s,United States,female,right,58,165,1986,12,13
+5f9bfe90-f4ac-4dac-9747-e855081e82cc,iPhone XS,United States,female,right,43,165,2001,6,11
+600e4914-538f-4161-b609-449b325e9cd3,iPhone X,Canada,male,right,70,177,1992,1,10
+604c8955-2b26-4783-bd8b-7b463fb99b27,iPhone 6s,Italy,male,right,65,180,2002,6,15
+605278b9-d1e8-4dfe-8b47-2aa2c900c174,iPhone 7,United States,female,right,53,70,1984,2,22
+6057af6a-705b-455a-b013-70049bde5f3c,iPhone X,United States,male,left,50,165,1997,2,14
+60fbd894-5539-4881-9275-972fd2b6260c,iPhone 6s Plus,United States,male,right,68,170,1991,9,9
+6164983d-f4be-400c-9dcb-e90676843d3f,iPhone X,Spain,female,right,57,164,1999,7,15
+6258907c-d9b9-4a88-a693-32930843c36e,iPhone 6s,United States,female,right,90,162,1977,7,24
+62693515-03d8-4b53-aba0-3f81df14753f,iPhone XS,United States,male,right,83,182,1982,3,1
+634bf7c1-d298-4f7c-b745-fd986ccc3d20,iPhone 6s,United States,male,right,260,6,1988,7,5
+63908f06-ea9f-4930-9041-5b4c2009d462,iPhone 6s,United States,male,right,104,170,1984,4,30
+645f73d4-ad0a-45bd-a92b-113b674b6d33,iPhone 7,United States,female,right,56,157,1994,12,22
+64976c95-2911-4ba1-ac65-74e60b28439e,iPhone 7,Pakistan,male,right,165,180,1969,5,22
+65380266-4bc5-47f5-aa86-5cd03df7b51b,iPhone 7,Brazil,female,right,74,158,1987,10,15
+654a163a-487e-49df-8eb3-b54c00d217d5,iPhone 6s Plus,United States,female,right,54,160,1986,10,6
+65594887-9f73-481b-8186-86f9bc55a4f4,iPhone XS,United States,female,right,9,170,1996,7,2
+65a71ada-063a-42e0-981f-cdbdd544abd8,iPhone X,United States,male,left,105,170,1984,6,30
+663ae25c-8fc5-4ba3-875c-14a864540972,iPhone X,United Kingdom,female,right,70,155,1982,3,6
+664950ff-48f9-413b-8dda-6f788015edd7,iPhone 7,Canada,female,right,88,160,1974,5,13
+67027bc8-29d1-423b-accd-d89e3f89cc5f,iPhone 7 Plus,United States,male,left,84,185,1960,4,1
+678e00da-c003-4f55-b0fb-911f087ac8da,iPhone 8,United States,female,left,70,154,1975,12,10
+679979b0-bc97-4e85-8040-b1fe578f5954,iPhone 7,Faroe Islands,male,right,65,165,1991,10,17
+6943de51-3250-4bce-aeb2-80dfffc1334c,iPhone 6s,United States,male,right,80,175,1991,7,28
+6958cb07-5e7b-4400-a545-cc3c82d6bd9f,iPhone 8,United States,female,right,82,168,1980,4,20
+6a10b3ea-7860-41f4-aa05-2ba9c8a096e2,iPhone X,United States,male,right,65,169,1986,4,18
+6ba37e20-1db7-4dbd-b3a4-41cb842151f4,iPhone 7,United States,male,right,98,183,1974,1,24
+6bd6fa91-c761-4dc5-a60e-af9cc2c1c7c1,iPhone 8,United States,male,right,113,191,1978,6,11
+6c616a92-30b9-44e8-9207-0bf2b9ef5b48,iPhone 8 Plus,United States,male,right,77,178,1988,8,25
+6e184da1-45f9-4b0a-880a-72d96675af9e,iPhone 6s,Peru,male,right,68,165,1991,6,13
+6ecd17c3-d1fe-4dca-9589-04c01501ad95,iPhone X,United States,male,right,79,190,1979,11,15
+6ee7302c-c61b-4ce9-818c-3427dfc03d3e,iPhone 8,United States,male,left,77,178,1988,3,7
+6fe1b7a5-6e56-4203-9611-0f27bd9fbac1,iPhone 7 Plus,United States,male,right,82,183,1971,12,30
+6ff20634-7d0a-4144-a212-dffd0a85244d,iPhone X,United States,female,left,69,165,1980,7,2
+700b8e3c-0cd7-420f-8e2e-c8ee4bdf1f8a,iPhone 6s,United States,male,right,59,165,1989,3,23
+700ea478-2925-4dbe-b845-118561bc51f1,iPhone XS,United States,male,right,68,185,2000,1,14
+70810a64-72e7-4cae-9153-a967e5d002df,iPhone 8 Plus,United States,female,left,170,154,1968,9,24
+71781e8f-eb8d-4ac9-8620-487b48436ebe,iPhone 8,United States,female,right,49,155,1995,10,13
+71b70297-f9b9-4b93-8e82-35589dd3f165,iPhone 7,United States,female,right,49,158,1972,1,15
+72e853c3-e1cd-4f50-a84b-48c3e5b13109,iPhone XS Max,United States,male,left,99,191,1982,12,16
+73507093-7bc0-4a20-84bd-3b7e5ef108f6,iPhone 7,United States,male,right,79,172,1991,11,3
+735f1018-1e39-44d1-b868-68130688c7bd,iPhone 8 Plus,United States,female,right,175,65,1989,3,24
+7365ba7e-17a7-4814-a844-46c176c35da4,iPhone 6s Plus,United States,male,right,135,180,1985,9,25
+74893f27-f735-4704-b9f2-21d6ddded2bc,iPhone X,China,male,right,72,168,1992,5,12
+749e0e55-d620-4e59-9f00-311281bfada4,iPhone 6s,United States,female,right,85,177,1989,3,28
+7581d91f-1404-4c70-a836-441115fb6102,iPhone 8,United States,female,right,989,172,1987,12,27
+75a3db3f-29a9-49b5-9deb-6d86dedc5bc2,iPhone 8 Plus,United States,female,left,113,157,1987,6,18
+75ed6aa4-9856-4905-b42d-5e35a1eaed0f,iPhone 8,United States,male,right,80,190,1988,6,10
+7619366f-cbff-4a59-8cb7-606014d9e260,iPhone 6s Plus,India,male,right,72,174,1992,9,5
+777857c6-f03e-419b-94d7-a7e1351e885d,iPhone 8,United States,male,right,59,132,1988,6,11
+78886b06-2de9-4c39-a435-310dce4f503b,iPhone 8,United States,male,right,11,193,1984,10,27
+78f17a96-347d-46e9-8ddd-b70e14781138,iPhone 8 Plus,United States,female,right,130,160,1983,9,20
+79785fe4-116d-46fc-9866-c5a7f64bf3fc,iPhone 7,United States,female,right,7,170,1985,7,17
+7a14eeda-18df-48be-b2c5-dcaf1b2508d8,iPhone 7 Plus,United States,female,right,48,163,1990,11,16
+7a3752ea-68a0-498c-b047-b33dc40ad695,iPhone 8 Plus,United States,female,right,67,163,1978,8,23
+7a699dd2-915e-4468-bb99-7668fdbcc1bc,iPhone X,United States,male,right,80,175,1970,4,12
+7abfa2e2-5189-4f09-a835-8488dba4fd12,iPhone 6s,United States,male,left,72,176,1982,3,16
+7b6216af-1209-4c7f-ac68-c2ea448d327f,iPhone 6s,United States,female,left,71,155,1997,11,5
+7cc0dcae-19fb-42cd-af4c-0a73545c1bfb,iPhone 8,United States,male,right,86,178,1985,2,1
+7ccc94ee-853a-420d-975d-f23b150d0c60,iPhone 7 Plus,United Kingdom,male,right,90,189,1986,12,12
+7d72b819-d581-40ab-8c95-87d977cf6141,iPhone 8 Plus,United States,male,right,102,162,1980,11,26
+7e2ab4ec-f369-4415-8761-014f7db380b8,iPhone X,United States,female,right,70,164,1990,5,13
+7e5018c3-903f-4b30-8963-684cbb2eb7c2,iPhone 6s,United States,female,left,5,172,1993,12,24
+7f2bba5b-2067-43b7-ba4b-3e425c2d4832,iPhone 8,United States,male,right,81,173,1980,1,11
+80e5e493-a3c5-47c4-a317-f16245850e92,iPhone 6s,United States,male,left,75,178,1967,11,20
+81c21b37-4fb4-44df-87ae-c1631d3df19a,iPhone X,Nepal,male,right,85,176,1988,12,8
+81ddb0d5-6ddc-47ad-a347-c33afdaab6f3,iPhone X,United States,male,right,61,218,1994,10,15
+81f8ac6e-3304-43a3-9703-e2642ade7253,iPhone X,United States,female,left,130,172,1992,12,7
+82df8f0c-4aae-4631-8d84-6d9670c2cd4f,iPhone 7,United Kingdom,male,right,84,190,1988,8,24
+8386755b-c120-4060-a585-fa09401d92d6,iPhone 6s,Canada,male,left,72,172,1985,9,30
+843b0369-ffb6-4be9-a87d-b1148872431f,iPhone X,United States,male,right,127,177,1970,7,24
+844c9908-f5fd-417e-b81c-139b1ba103d9,iPhone 7 Plus,United States,female,right,653,173,1981,5,4
+84b383c8-1173-415d-a18b-58ed2a7159bd,iPhone 7,United States,male,right,70,170,1989,4,7
+84c06c11-3253-4a27-beab-a75713006e3d,iPhone 7,United States,female,right,49,57,2000,2,13
+859d47e7-6a4e-4436-9e0b-0095a14d2b4e,iPhone 6s Plus,United States,female,right,55,67,1997,9,1
+8777320b-7a53-464f-a3d9-03aa30da68c6,iPhone 6s Plus,United States,female,left,60,175,1962,12,23
+8873cf1f-7bee-479f-aa7d-f8e8e66dbaca,iPhone XS Max,Brazil,male,right,83,1790,1977,3,23
+88c4d083-3355-493f-9595-1a542e2c5a94,iPhone XS,United States,female,right,59,165,1985,8,9
+891d511a-97f8-4141-9ecb-7845db65d1b0,iPhone 6s,United States,female,right,64,167,1982,9,14
+893614e1-1c56-45ec-a559-bd1e33799486,iPhone 8 Plus,United States,female,right,58,155,1995,6,2
+899cccf0-db84-46b7-afa4-2648d1405f98,iPhone X,United States,male,right,70,180,1989,12,6
+89cfe464-f45c-452b-a549-0246d804c178,iPhone 8,United States,female,left,62,65,1973,1,1
+89f48c52-f35d-4887-b7a2-96ba9f99a982,iPhone 8,United States,male,right,82,185,1976,6,8
+8a59de25-57e7-46cf-a34f-6db9669d7524,iPhone 6s,United States,female,left,60,160,1995,1,19
+8a648e96-9ea7-4646-bb43-c2b5b94a0c83,iPhone 7 Plus,Spain,male,right,79,182,1987,12,6
+8aa62e5f-b4a0-4e97-8a04-fa33371cef42,iPhone X,United States,female,right,9500,158,1989,3,1
+8abcca1a-fb09-4dbf-bf94-e13585bfd2af,iPhone XS Max,"Korea, Republic of",female,right,57,165,1993,10,7
+8ac42f3f-de75-4b82-8ce7-47e5e2d03e0d,iPhone 6s,United States,female,right,61,173,1976,3,17
+8b2a6b58-499e-43ba-b61d-1fc4656b4a6c,iPhone 8 Plus,United States,male,left,102,172,1994,7,14
+8b4840f8-41c4-4675-8b3c-f9d9151e2390,iPhone 7,United States,female,right,88,64,1976,6,23
+8bb36997-0612-4643-9946-6647441eba6d,iPhone 8,United States,male,right,220,76,1991,12,31
+8c89aafe-d3a8-4b95-959c-205efa5e0053,iPhone 7,Ireland,male,right,76,176,1996,3,21
+8ca7e2f3-ebb7-481d-bbea-ad1a0bfff54c,iPhone 6s,Canada,male,right,67,165,1989,6,17
+8d1e78d5-10b6-4bd7-8d33-f4c1d211bbc6,iPhone 8 Plus,United States,female,right,48,167,2000,5,17
+8da482dd-e4a2-49bb-a151-32e4300018f7,iPhone 6s,United States,female,right,68,168,1992,2,5
+8dcfa9a9-b03e-4457-b6f2-8bf3fd14f8f9,iPhone 8,United States,male,right,80,160,1967,11,21
+8e1f2a4f-ccd4-496f-a6da-1d340d01734b,iPhone 7,Italy,female,right,50,162,1990,7,1
+8e784f7f-dbc5-44e0-bea6-3817453237c1,iPhone 6s,United States,male,right,96,162,1986,2,10
+8eb26ffd-3177-4585-a140-62aa7e4ca9d9,iPhone 8,United States,male,right,79,179,1994,7,1
+8ec0cd96-bf4e-42c6-abe9-d0bc10e1952c,iPhone XS,United States,male,right,108,185,1988,3,7
+8eca7cfb-9561-4bcf-b5d3-761f7d07b579,iPhone XS Max,United States,female,right,62,166,1968,8,25
+8f366ac7-6d9e-49a5-ae95-c9320e3c432b,iPhone 7,Germany,female,right,67,171,1971,11,19
+9088c2a1-10df-456d-9020-1c0f0399ed41,iPhone 7 Plus,United States,female,right,61,165,1984,10,31
+90be61c6-91d3-418d-acb5-cd12f792d021,iPhone 6s,Egypt,female,right,74,175,1995,1,7
+90f3f0d1-2fda-4a8b-bb72-456ef420b26a,iPhone 7,United States,male,right,65,182,1994,12,13
+91eac0c4-b548-4f59-b650-8a57922127d9,iPhone X,United States,male,right,81,180,1996,5,25
+92b7959b-12c0-4837-a144-932500c624fe,iPhone X,United States,male,right,290,59,1991,5,23
+93199792-6551-43d4-babc-00d23c11414e,iPhone 8,United States,male,right,89,190,1949,12,25
+942d85d3-5194-4ca7-805a-e8532e43a11a,iPhone 8,United States,male,right,49,178,1994,8,4
+953637c6-f2d0-48d8-8bee-c2ae5691da9f,iPhone 6s,United States,female,right,4,5,1980,12,9
+9573112a-03b2-4ef3-9242-8f819f166852,iPhone 6s,United States,male,right,79,180,1991,11,19
+95b55bf6-f41b-46b0-9ebf-4c8df9317d0e,iPhone 8 Plus,United States,male,right,73,177,1995,5,4
+966ab9fc-e8a1-4995-8103-cb79f439fbff,iPhone 7,United States,male,left,235,182,1985,4,30
+9703023e-c470-49b5-91f2-91b7d0270c75,iPhone XS Max,India,female,right,153,5,1991,2,1
+97f50da5-75d2-4dac-87ad-f746e440b2cd,iPhone 8 Plus,United States,male,left,138,178,1974,8,30
+98b9979f-33b9-4d4d-83cf-8e96e34277d3,iPhone 7,United Kingdom,male,right,82,182,1978,6,29
+992087cc-48af-4243-ac11-7c5b012b9ffe,iPhone 7,Russian Federation,female,right,73,183,1983,10,2
+99a99446-1930-407e-b3f7-f2bd89ed9596,iPhone 6s,United States,male,right,92,178,1998,2,24
+9a41b244-67ff-4ba4-953a-04629c63a1f9,iPhone 7,United States,female,right,62,164,1983,3,12
+9a9e6e19-4372-40ff-8a42-9516112e03a2,iPhone 7 Plus,India,female,right,56,160,1987,7,1
+9b118249-d61c-4993-93e7-5d5aa66fdfcb,iPhone XS,United States,female,right,55,170,1998,1,27
+9b345d4b-dbb6-48e5-b9cf-cf8ebc829807,iPhone 8,United States,male,right,79,180,1967,7,31
+9bf7c0aa-5daa-4e44-a950-8a3208a0f47f,iPhone 8 Plus,United States,female,right,56,155,2001,3,3
+9cb70695-a96e-4c8a-b51e-5244910c922a,iPhone XS Max,Netherlands,male,right,80,183,1988,8,1
+9cd74a2d-f65e-4fed-bb09-7ba1b2fc6a9e,iPhone 8,United States,female,right,62,175,1975,11,20
+9d2423fa-a574-4c95-81f7-51c1a7bdf3bb,iPhone 7,United States,male,left,68,178,1983,10,10
+9d282262-7803-415e-b7cb-3895f3232b3e,iPhone 8,United States,male,right,88,173,1984,9,26
+9d6fba84-cdf9-4dfa-857d-096ade76f253,iPhone XS,United States,female,right,72,167,1986,4,1
+9d780e93-e62b-4477-af8c-5977081484a6,iPhone 7,United States,male,right,79,170,1998,5,19
+9df71be9-9967-4664-b999-d206ee50c01c,iPhone 7,United States,female,left,69,175,1986,10,16
+9e5641ee-c8ca-44ba-8d74-367f2b51dd16,iPhone 7,Canada,male,right,79,180,1983,5,5
+9ea6caf2-2ccb-4ad3-809d-b6c7d0553b4a,iPhone 8,United States,female,right,65,168,1981,3,13
+9efb1ec6-297e-48a2-9ad8-507e1d05da6d,iPhone 7,United States,male,left,88,183,1983,10,1
+9f3136e5-6992-4cd1-b0fb-b3f6e6d3c008,iPhone 6s,United States,female,left,108,173,1979,5,1
+9fc0cbf9-6cc7-4ec5-aa58-ff43b45bcf1f,iPhone 8 Plus,United States,female,right,124,160,1980,11,7
+a01ee727-340b-4336-bbf7-efbb2705c9f0,iPhone 6s,Nigeria,male,right,59,182,1993,6,18
+a07f6089-bff8-43e3-be73-30c0a0186712,iPhone 8,Canada,female,left,62,168,2002,1,29
+a211b4ab-5363-4493-9af0-15884cd9e7d1,iPhone 7,United States,male,right,6,6,1964,8,25
+a3559262-55b4-4789-9770-24da8530086a,iPhone 8 Plus,United States,male,left,81,180,1996,7,12
+a41197cd-db73-4a8f-9515-805679e5743c,iPhone 6s,Germany,female,right,60,170,1993,3,22
+a4cb1aa6-3405-4fd5-b5c1-751d4df03598,iPhone X,United Kingdom,female,right,76,168,1988,5,23
+a4ce0da4-9919-40b3-9b2f-5e5f970d825c,iPhone 6s,Germany,female,right,61,170,1993,3,22
+a57c3a61-1889-4284-9a1e-52103d16bd56,iPhone 7 Plus,United States,female,right,150,160,1970,6,1
+a5c8f246-d4d2-442b-91ad-233f7f7c21e9,iPhone 8,Spain,female,right,64,165,1994,7,12
+a60d2281-3e09-45e1-a144-367d549a08f8,iPhone 7 Plus,United States,male,right,130,185,1995,3,6
+a67c2e4f-135f-4850-bb55-1c60448cd734,iPhone 6s,United States,male,left,17,185,1991,2,27
+a6ba60df-c885-46a4-adb6-8daf4f2ed4d3,iPhone X,Italy,male,left,65,180,1997,8,1
+a79e0bb6-f9df-43c3-87e2-32cd80588bf6,iPhone X,United Kingdom,female,left,9,168,1972,1,30
+a8708e18-5f02-416f-a5e1-5a263ce6d51f,iPhone X,India,male,right,65,175,1996,11,25
+a87f58cd-e5c3-46fa-bc41-906269caea88,iPhone 7,United States,male,right,75,188,1987,1,13
+a8cfa7a7-8e02-4a6c-b00f-20142a64d5bc,iPhone 8,Canada,male,right,64,175,1986,4,9
+a966d7da-122b-4746-a7ce-b6e90677f667,iPhone 7 Plus,India,male,right,64,168,1971,12,15
+a971ab70-dedd-41d5-b4da-2d25ec1b4d56,iPhone 8 Plus,United States,male,right,80,169,1988,9,9
+a9c043c3-dab1-47c3-aadd-687c03f1d9c6,iPhone X,United States,male,left,77,175,1977,2,24
+ab10c082-d948-4733-9b12-87006a2d0aa9,iPhone 6s,United States,female,right,77,179,1972,6,21
+ab7facfa-60d2-4bf2-8fc8-cf937ebcb209,iPhone X,United States,female,right,54,162,1981,7,11
+ac401ada-643e-4bc1-af8a-bf0b2ff229fb,iPhone XS,United States,female,right,86,168,1969,11,13
+ad320b65-f81b-454a-8b72-c508cb4c87d0,iPhone 7,United States,male,left,72,178,1974,11,13
+add5a75f-63d6-45b7-8904-e8972ea6c0dd,iPhone 7,United States,female,right,95,170,1981,4,30
+ae481c75-6e9d-4fc0-ac95-bf5ca91756fd,iPhone 8 Plus,United States,male,right,111,190,1988,4,13
+ae70d93b-4a17-4188-a673-c932a1283313,iPhone 8,United States,female,right,49,155,2000,4,8
+afa54c26-8cdf-4bde-843c-439845c924bf,iPhone X,United States,female,right,67,172,1994,1,7
+affdf5ff-1b52-4545-ac70-c4469654ce89,iPhone XS,Italy,male,right,68,180,1999,9,2
+b014269e-a489-4524-8fad-946a6b104025,iPhone 7 Plus,United States,female,right,7,165,1964,8,25
+b24734c9-dc17-4cb4-81dc-12b594592a7e,iPhone X,United States,male,right,95,188,1990,4,18
+b26c40c4-bdbb-47e8-bb5d-4f61f7c7c57a,iPhone 6s,United States,female,left,98,163,1968,9,30
+b28dd611-9f69-4bb3-8d3e-66ae0a5ca50a,iPhone X,Vietnam,male,right,77,180,1997,10,11
+b2d1bd1a-82f5-4e04-b5ca-e68085394cd2,iPhone 7 Plus,India,female,right,148,65,1982,3,31
+b34fb383-37da-41e1-865d-1b29d24b6582,iPhone X,Kenya,male,right,62,167,2001,2,15
+b3a489f4-e21e-473d-9857-baffd959b7dc,iPhone 7 Plus,United States,female,right,55,153,1968,8,4
+b3c3f745-0e7f-4875-a2b1-fbe730df6fd3,iPhone 8 Plus,United States,male,right,85,180,1997,7,19
+b45efc02-cf95-4e8d-a8cb-b497562fc3b2,iPhone XS Max,United States,female,left,63,157,1971,3,3
+b880c8ee-83c4-4d7d-ac75-ee6630e454eb,iPhone 6s,United States,male,right,86,175,1974,9,13
+b882de3c-ba5c-4573-b0e5-5d7ab89dd5a4,iPhone 8,United States,female,right,138,68,1986,7,21
+b9c1cca1-cabc-44a5-ab90-84a9dd9108e4,iPhone 8,United States,female,right,65,168,1986,12,19
+b9eceba3-570e-4ef2-925c-fe563e294edf,iPhone 8,United States,female,right,135,160,1989,3,7
+bb04411a-e148-4cdb-801a-fa97d95ca023,iPhone XS,United States,male,right,95,175,1990,9,28
+bb8dd386-fd04-4251-99fa-8f8f25ef8dca,iPhone 7 Plus,India,female,right,58,13,1984,9,16
+bc987272-efee-4dd5-9bfa-5f651a30f79a,iPhone XS Max,United States,female,right,69,177,1986,6,18
+bd0441da-b7f6-41b3-880c-eaef286e2ec9,iPhone X,United States,female,right,80,160,1995,2,2
+bd11ef39-c5d4-44bb-b8ff-29d52d3ee0d5,iPhone 8 Plus,United States,female,left,105,152,1990,12,5
+bd34883d-ec16-42f5-bade-c288892e8f34,iPhone 8,United States,male,right,66,157,1963,12,29
+bd3cc948-fa23-4364-9cd2-d0968a2b08c7,iPhone 8 Plus,United States,male,right,93,175,1990,4,16
+bdacc6c5-b8e1-4038-b776-be6ac3b6a866,iPhone XS Max,United States,male,right,124,183,1986,8,28
+bdf6e2c4-f442-4917-8524-817cfcf68a84,iPhone 8 Plus,United States,male,right,104,188,1976,12,30
+be053a5b-9c10-4e80-9000-4ca298a8ccd9,iPhone 7,United States,male,right,91,184,1990,1,2
+be17b092-0c42-41fc-9165-215716c61cf7,iPhone 7,United States,male,right,8,191,1985,9,13
+bf35be24-6347-4be0-987b-ac89f49378f2,iPhone 6s Plus,United States,male,right,88,188,1965,10,1
+c0fc642b-dddf-4bf6-ad83-a8c485fdc988,iPhone XS,United States,male,left,64,153,1973,7,28
+c15c717a-4ef4-4d2c-b53e-09958e549bf3,iPhone 7,United States,male,right,77,185,1990,2,9
+c236beac-bdca-49b4-8aa4-dc634f7d390c,iPhone 8,United States,female,right,79,173,1975,11,11
+c25d7299-c87b-4580-819e-adc6a42aded5,iPhone 8,United States,female,right,63,165,1996,8,26
+c26ad492-6535-49ab-a953-6c7c4fe8d96e,iPhone 8,United States,male,right,93,178,1988,7,1
+c44e71f8-0f8d-4310-975b-bddc7c2ba5bc,iPhone 7,United States,female,right,74,167,1987,8,31
+c4c5dc2e-2781-4391-9d61-ef3f8f3d4d47,iPhone X,United States,female,right,58,177,1996,5,21
+c4d71771-f911-4e26-9b5a-282b5ff2694e,iPhone 8,United States,female,right,91,1524,1974,7,13
+c4ef42a8-66f1-450d-99a5-0c15879497c4,iPhone 8 Plus,United States,female,right,130,160,1973,9,11
+c4f5dfff-6043-4af6-9023-c8acd7490a04,iPhone XS,United States,female,right,72,162,1987,9,10
+c50a1883-650a-4184-ba10-e15abc40b9d9,iPhone 6s,United States,female,right,61,160,1970,12,18
+c54779ab-c221-4c62-9118-70e7a09424f5,iPhone 6s,United States,female,right,5,5,1991,2,17
+c61bda0d-99a7-4612-a1a1-02226ab4c7bf,iPhone 7 Plus,United States,male,right,102,180,1992,6,8
+c67a629d-af0d-401d-a290-d1e4ad6bb6bb,iPhone 7 Plus,United States,male,right,65,181,1998,3,23
+c699150f-e7cb-408c-877f-6d560a24b072,iPhone 8,Ireland,female,right,107,175,1985,9,23
+c6a23288-0a7a-4d12-a84f-f5f118a284f3,iPhone X,Italy,female,right,55,160,1980,1,27
+c6cc3162-16d8-462d-8e3e-3c8db6ef0961,iPhone XS Max,United States,female,right,155,62,1954,11,14
+c780e0ee-3944-47f1-a5a4-82cafdda81dd,iPhone 8 Plus,United States,female,right,71,183,1967,10,25
+c7a54e6c-9a0c-43c1-b662-d1ee5295aaf7,iPhone 8,United States,male,right,92,175,1993,6,10
+c892f3ca-a484-4c74-ac57-affb49de5bd5,iPhone 7 Plus,United States,female,left,6,5,1984,8,22
+c9527cf0-f055-4e57-85e6-0fa1fc7dc399,iPhone XS,Brazil,female,right,120,172,1992,5,28
+ca7ca3b5-3a6e-4871-941d-a86395cb4852,iPhone 6s Plus,United States,female,right,167,112,1983,6,6
+cb986279-d068-4e95-b97e-1577935f6226,iPhone X,United States,female,left,108,182,1988,1,16
+cbabc8ce-d284-4f94-b940-99888df0a9a8,iPhone XS,United States,female,right,41,160,1998,4,15
+cbad24ac-23e3-4e28-b576-4b6630e6efe3,iPhone 8 Plus,United States,female,right,81,155,1979,5,31
+cbe8ade6-8188-45e9-80c4-4644ec45940c,iPhone 8,United States,male,right,8,5,1990,3,27
+cd2d6835-2759-4285-a77a-a5234f546a01,iPhone 6s,United States,female,right,86,167,2000,8,12
+cd41db96-6421-498c-a167-e7ad03a73693,iPhone XS Max,United States,female,right,49,168,1990,12,19
+ce2a721b-05e8-4e7a-9e2a-d71cbdd89b6b,iPhone 7,United States,male,left,78,178,1997,2,21
+ce4b39da-aef7-48eb-a581-af0842e1b29e,iPhone 8 Plus,United States,female,right,185,65,1963,6,21
+ce7e909c-1e68-4893-9464-02d33d443106,iPhone 6s,United States,male,right,61,168,1987,12,1
+cee53f6b-aba6-4884-aab2-1581ed2ee129,iPhone X,United States,female,right,50,163,1989,12,5
+cf1a1e08-1d29-46d8-ad8f-34e52682ac88,iPhone 7 Plus,United States,male,right,84,170,1984,11,22
+cf94a466-1b2b-4783-9254-66081449e047,iPhone 6s,Brazil,female,right,83,156,1999,5,29
+d08c64b2-a616-4195-8d42-bccf2a360671,iPhone XS Max,United States Minor Outlying Islands,female,right,150,65,1992,12,31
+d0a6380b-1013-4800-8221-28b86b04b27d,iPhone 6s,Italy,male,right,92,175,1990,2,16
+d15edba8-9c73-4c4a-996e-5230ff13fbd2,iPhone 8,United States,female,right,65,67,1982,9,27
+d17db9cc-439e-462b-98b2-e8db838628bc,iPhone 7,United States,female,right,84,170,1977,7,5
+d270a973-6d48-4a4e-9858-606d5f6be386,iPhone 6s Plus,Morocco,male,right,70,175,1998,9,29
+d3467935-41eb-4caa-bb7c-1ab8cf88b039,iPhone XS Max,India,male,right,72,189,1992,5,13
+d3588ea2-f48a-4954-8723-bdd2c3c4a82c,iPhone 7 Plus,United States,female,right,54,162,1962,2,18
+d3cced3a-3aa0-4f96-9f6d-8402d55b6a6e,iPhone 8 Plus,United States,female,right,74,165,1982,7,11
+d3e527ae-066c-4a8a-a518-b057853dee53,iPhone 6s,United States,female,right,68,162,1991,3,1
+d482edd8-9b06-4277-8799-2576cc5b70db,iPhone 8 Plus,United States,male,right,90,182,1978,9,4
+d48ec9be-c66f-4210-805d-ee4a72a0a2f5,iPhone 6s,United States,female,right,50,160,1998,8,1
+d4936a6f-e735-482e-ad14-ad497a74d5c8,iPhone X,United States,female,right,75,165,1981,5,13
+d4d24d1e-8983-4b1b-9a8d-60ecea4087f0,iPhone 6s,United States,male,right,160,182,1996,8,10
+d53693a5-39f6-4cc6-9ca8-116e654131ce,iPhone 7 Plus,United States,female,left,72,65,1987,2,24
+d54b5641-c733-4643-80e4-bcf3f9f85e66,iPhone X,United States,female,right,85,170,1989,12,18
+d5949288-5ecb-48de-8798-ddc4f5c5c31e,iPhone XS,United States,male,right,82,175,1984,11,21
+d756fb47-cb74-4610-9c96-b1e141e70c30,iPhone XS,India,male,right,69,173,1999,5,19
+d7679e42-6f81-40eb-bcbf-61626fb46d65,iPhone XS,United States,female,right,45,129,1991,12,11
+d8c2afa0-77b7-4640-abf2-d98d13950684,iPhone 7,United States,female,right,93,180,1973,6,1
+d8c2e01c-008e-46e4-b3a6-cdc3d7d3bbe3,iPhone 7 Plus,India,male,right,90,160,1982,11,8
+d9592037-c2c0-4b10-afde-7c51b32d916b,iPhone XS Max,United States,female,right,1,5,1985,10,30
+d9ea2766-c2f6-410a-9631-55e391990be2,iPhone X,United States,female,right,135,167,1998,1,19
+da2ac5c6-94a8-41e8-bc52-30b60f4f2ee4,iPhone 8 Plus,United States,male,left,1203799999,200,1954,8,26
+da5730a7-82b6-4a93-9fbf-4a28215ed07d,iPhone 6s Plus,China,female,right,60,163,1990,10,1
+dac19a0f-26bb-4020-92a5-01eb8a269df3,iPhone X,United States,male,right,183,180,1994,11,2
+db20daf7-aabe-4e7b-b8da-8bbe5f88f575,iPhone 8 Plus,United States,female,right,89,170,1994,5,21
+db25fbf9-21f4-4922-8bcd-df5a4d9c38a0,iPhone X,United States,male,right,70,182,1991,8,8
+db2ab6f4-61e1-4542-9073-9ab07eb87d5f,iPhone 7,United States,female,right,65,65,1990,9,30
+db36f9b1-0285-421f-a6cc-b08a5b229e09,iPhone XS,United States,male,right,160,180,1998,8,11
+db6d3a12-92ea-40ba-8fae-fbdf2abf31e2,iPhone 8 Plus,United States,male,right,81,177,1974,7,5
+db6fe6d6-12a3-4566-a97c-1a51a4db71a5,iPhone 7 Plus,United States,female,right,579,165,1985,9,10
+dd091ee3-5c76-4dab-b869-8efa69cd0cc4,iPhone 8 Plus,United Kingdom,male,right,83,188,1999,6,15
+dd3118c7-3d1b-4641-966c-d66926ed46e4,iPhone 8 Plus,United States,male,right,86,144,1986,12,3
+dd772892-b299-47e7-8590-ebdcc8c2d18f,iPhone 7,United States,male,right,80,175,1993,7,8
+de14c638-b2fe-44a1-8b87-eab3cde07b12,iPhone X,United States,female,right,68,170,1996,5,21
+de28232b-d9e5-4746-8985-7fdc948b6e67,iPhone 7,India,female,right,51,5,1980,4,16
+de63fbe5-e0b8-411a-8023-d9e567710b37,iPhone 8,United States,female,right,73,165,1981,7,9
+de92e8ee-db1c-42ad-822f-3ea55dfb9641,iPhone 7,United States,female,right,7,157,1991,5,18
+deaa36f7-5560-4ffe-aeec-81d85e8070c2,iPhone XS Max,United States,male,right,104,182,1971,9,5
+dfdc9727-6199-4819-8ff7-05a761728b31,iPhone X,United States,male,right,61,170,1993,5,10
+dfeb8ab0-344d-494e-9236-f564bc05c4a5,iPhone 8,United States,male,right,95,180,1987,2,2
+e06b1343-6e8e-45d4-b19b-edf804f5fefb,iPhone X,Venezuela,male,right,70,170,1998,7,9
+e143c8e3-9a2f-49c9-b41b-ef0db08fe2ff,iPhone 8,United States,female,right,56,152,1998,12,25
+e16cb4a2-10e9-4ff3-9aa3-0d9abc941019,iPhone 6s Plus,United States,female,right,68,160,1957,9,14
+e42eba65-37cf-4666-b6d4-c8e847d7316b,iPhone 7,United States,male,right,68,183,1996,7,13
+e446484a-6dab-4a89-b3fd-d427049775ad,iPhone 8 Plus,United States,female,right,77,165,1994,1,6
+e52a1b4f-f34e-4629-8340-36ed3cae071d,iPhone 8 Plus,United States,male,right,100,185,1977,10,20
+e548ddc3-8c67-43da-aed5-e277d29bd756,iPhone XS,United States,male,right,86,170,1978,11,11
+e5e67fd8-5b2f-4d34-b484-3942d774b296,iPhone X,United Kingdom,female,right,56,160,1999,5,7
+e6718e92-15b6-4e4e-b590-0f0eaee88f92,iPhone 7,United States,female,right,65,162,1987,3,1
+e8957041-b2be-4423-8252-0db33f903a07,iPhone 6s,Italy,male,right,60,178,1995,2,14
+e89c14ec-9282-4908-9bc7-df4bf679d744,iPhone 7,India,male,right,68,175,1985,2,11
+e8c0ce66-5db0-42b3-96e7-21cf6bf2069d,iPhone XS Max,United States,female,right,62,168,1997,9,10
+e8d1631c-88fa-4165-bd47-e89cb106421d,iPhone 8,United States,female,right,49,162,1996,10,16
+ea09c8e3-3aab-44de-b486-78d315e4bf79,iPhone 7,United States,male,right,140,168,1990,2,2
+ead59c1e-f5e2-47aa-92e5-e3ea851406eb,iPhone 7,United Kingdom,male,right,84,190,1988,8,24
+eb7df6b6-3f02-4c36-b151-2e120d100f58,iPhone 6s,United Kingdom,male,right,70,170,1992,11,19
+ee1f783d-0e73-49e5-83e4-a4d592b91d6b,iPhone X,India,male,right,90,173,1983,12,25
+ee8c9bc7-4e00-4235-8db1-db2003d7fc2e,iPhone X,Spain,male,right,70,177,1981,12,5
+ee95a50e-8881-4f19-9b27-fc5163137e8c,iPhone 7,United States,male,right,68,168,1988,6,21
+ef3889ce-0c53-4564-bae5-5599ffe59a83,iPhone 7 Plus,United States,female,right,81,164,1958,5,9
+f0372d96-e08a-4347-b82a-d0114ce8346d,iPhone 6s,United States,male,right,96,177,1952,3,14
+f0e5d350-af15-471a-8a6a-f0a44c97f605,iPhone 8 Plus,United States,female,right,66,153,1983,11,28
+f1882292-ff43-49cb-be01-c0287c65ae10,iPhone X,United States,male,right,79,73,1995,8,6
+f1c79568-5432-42cf-bbbe-dc78f986c8db,iPhone 8 Plus,United States,female,right,70,173,1981,7,17
+f23d824c-7b96-4911-9465-98c9503e62d0,iPhone 8,United States,male,right,230,183,1986,6,6
+f4115382-224f-4baf-8470-320bbec3d71f,iPhone 8 Plus,United States,female,right,68,162,1965,1,1
+f528fa06-0073-40a1-a28f-0cbe2af522fc,iPhone XS,United States,male,right,155,178,1998,5,28
+f5e9148d-bcb2-4e5c-b891-24d5176f62dd,iPhone 8 Plus,United States,female,left,150,170,1989,12,20
+f5fb4149-7561-4c33-8db6-3e201267bfc4,iPhone XS,United States,male,right,86,152,1978,12,28
+f65b6bff-7fa5-4eec-b322-1674a400aaa9,iPhone 7 Plus,United States,male,right,54,160,1996,11,21
+f7a285c2-b43f-450e-8d93-0a413d643132,iPhone 7 Plus,Brazil,male,right,74,182,1997,7,5
+f7cf36a7-3de9-47a2-a42e-91730910fd59,iPhone 8,United States,female,right,66,163,2000,5,31
+f8a59e30-f194-4a9c-b828-705095add221,iPhone 7 Plus,United States,male,right,30,70,1961,10,18
+f9816339-5a5b-4f5c-b98e-3f2a342de461,iPhone 6s,India,male,right,79,172,1987,5,2
+f9cf0fdc-e3c5-40cb-8495-eca77774d1bf,iPhone 7,United States,female,right,58,163,1990,4,23
+fa087240-868b-455d-be47-0d32ae0ef613,iPhone 8 Plus,United States,male,left,104,172,1992,8,9
+fa4440db-1ca9-4f5a-a43c-120d53d5ee66,iPhone 6s,United States,female,right,40,150,1962,1,8
+faa08caa-609a-4a74-a85d-cdcf94b901b3,iPhone 7,United States,female,right,54,132,1984,5,16
+fc9d1ef1-6e0b-4b7b-bebf-a42fe5638441,iPhone XS Max,United States,male,left,95,176,1982,6,3
+fc9d8e44-f9c5-4209-b50d-739b1982f258,iPhone X,United States,male,right,75,170,1986,11,11
+fd7e7c31-c05b-41c4-b876-904542efe38a,iPhone XS Max,United States,male,right,65,22,1996,10,1
