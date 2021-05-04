@@ -1,0 +1,4802 @@
+[
+{
+"id": 1,
+"iPost": "news1",
+"title": "Don't Make These Mistakes after A Collision",
+"post": "In the U.S. alone, there are 10 million car accidents every year!",
+"question": "Tap an article about car collision",
+"isImagePost": true
+},
+{
+"id": 2,
+"iPost": "news6",
+"title": "Tech Guru Shares Top Gift Ideas for Dads and Grads",
+"post": "June is the month of dads and grads. This year, try skipping the usual suspects and opt for tech gifts!",
+"question": "Tap an article about gift ideas for graduate students and dads",
+"isImagePost": true
+},
+{
+"id": 3,
+"iPost": "empty",
+"title": "empty",
+"post": "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty!",
+"question": "Tap a user post that contains the words 'The Optimist Sees Opportunity'",
+"isImagePost": false
+},
+{
+"id": 4,
+"iPost": "empty",
+"title": "empty",
+"post": "You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character!",
+"question": "Tap a user post that contains the words 'Don’t Let It Stop You'",
+"isImagePost": false
+},
+{
+"id": 5,
+"iPost": "news5",
+"title": "Most Seniors Want to Age at Home, but More Are Moving to Make it a Reality",
+"post": "Most older adults - about 94 percent - want to stay at home as they age.",
+"question": "Tap an article about seniors ageing at home",
+"isImagePost": true
+},
+{
+"id": 6,
+"iPost": "news11",
+"title": "Fix a Leak Week Reminds Us to Evaluate our Home Plumbing",
+"post": "Plumbing leaks are rampant and such a problem that the Enironmental Protection Agency (EPA) has a Fix a Leak Week campaign.",
+"question": "Tap an article about plumbing",
+"isImagePost": true
+},
+{
+"id": 7,
+"iPost": "empty",
+"title": "empty",
+"post": "Don't be afraid of your fears. They're not there to scare you. They're there to let you know that something is worth it.",
+"question": "Tap a user post that contains the words 'They're not there to scare you'",
+"isImagePost": false
+},
+{
+"id": 8,
+"iPost": "empty",
+"title": "empty",
+"post": "It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.",
+"question": "Tap a user post that contains the words 'It’s Whether You Get Up'",
+"isImagePost": false
+},
+{
+"id": 9,
+"iPost": "news2",
+"title": "Move Over Meat - Vegetables are taking center stage on your plate",
+"post": "Historically, American dinner plates have featured meat as its star...",
+"question": "Tap an article about vegetables being the star of the plate",
+"isImagePost": true
+},
+{
+"id": 10,
+"iPost": "news7",
+"title": "The Big Appeal of Small City Vacations",
+"post": "Vacations are great",
+"question": "Tap an article about vacations in small cities",
+"isImagePost": true
+},
+{
+"id": 11,
+"iPost": "empty",
+"title": "empty",
+"post": "Failure Will Never Overtake Me If My Determination To Succeed Is Strong Enough.",
+"question": "Tap a user post that contains the words 'Failure Will Never Overtake Me'",
+"isImagePost": false
+},
+{
+"id": 12,
+"iPost": "empty",
+"title": "empty",
+"post": "People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do",
+"question": "Tap a user post that contains the words 'The Ones Who Do'",
+"isImagePost": false
+},
+{
+"id": 13,
+"iPost": "news20",
+"title": "Avoid the Seasonal Splurge with Healthy Protein Snacks",
+"post": "From family gatherings to cookie exchanges, the holiday season is delicious--and can do a number on a typically balanced diet...",
+"question": "Tap an article about healthy protein snacks",
+"isImagePost": true
+},
+{
+"id": 14,
+"iPost": "news21",
+"title": "Noodles to the Rescue: Make Dinner In a Snap",
+"post": "You want to provide a wholesome, flavorful, home-cooked meal, but really, who has the time?",
+"question": "Tap an article about noodles",
+"isImagePost": true
+},
+{
+"id": 15,
+"iPost": "empty",
+"title": "empty",
+"post": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+"question": "Tap a user post that contains the words 'We Must Not Be Defeated'",
+"isImagePost": false
+},
+{
+"id": 16,
+"iPost": "empty",
+"title": "empty",
+"post": "The harder you work for something, the greater you'll feel when you achieve it. Dream bigger!",
+"question": "Tap a user post that contains the words 'Dream bigger!'",
+"isImagePost": false
+},
+{
+"id": 17,
+"iPost": "news4",
+"title": "Florida Orange Juice Fuels Your Fun This Spring",
+"post": "Spring is full of fun celebrations and holidays, but did you know that May 4th is National Orange Juice Day?",
+"question": "Tap an article about orange juice",
+"isImagePost": true
+},
+{
+"id": 18,
+"iPost": "news22",
+"title": "Tech Tools That Can Help Your Small Business Grow",
+"post": "This year, the week of May 5 through May 11 will recognize entrepreneurship and innovation.",
+"question": "Tap an article about tools to grow you small business",
+"isImagePost": true
+},
+{
+"id": 19,
+"iPost": "empty",
+"title": "empty",
+"post": "Push yourself, because no one else is going to do it for you.",
+"question": "Tap a user post that contains the words 'no one else is going to do it for you'",
+"isImagePost": false
+},
+{
+"id": 20,
+"iPost": "empty",
+"title": "empty",
+"post": "Entrepreneurs Are Great At Dealing With Uncertainty And Also Very Good At Minimizing Risk. That’s The Classic Entrepreneur.",
+"question": "Tap a user post that contains the words 'That’s The Classic Entrepreneur'",
+"isImagePost": false
+},
+{
+"id": 21,
+"iPost": "news9",
+"title": "Seven Mistakes to Avoid When Buying a New Mattress",
+"post": "A mattress is one of the most important purchases you'll ever make.",
+"question": "Tap an article about mattresses",
+"isImagePost": true
+},
+{
+"id": 22,
+"iPost": "news10",
+"title": "Why Your New Year's Resolution Should Be to Eat More Fiber",
+"post": "The start of a new year is a great time to check in with yourself and think about how you want to improve for the year ahead.",
+"question": "Tap an article about eating fiber",
+"isImagePost": true
+},
+{
+"id": 23,
+"iPost": "empty",
+"title": "empty",
+"post": "To See What Is Right And Not Do It Is A Lack Of Courage.",
+"question": "Tap a user post that contains the words 'A Lack Of Courage'",
+"isImagePost": false
+},
+{
+"id": 24,
+"iPost": "empty",
+"title": "empty",
+"post": "Fake It Until You Make It! Act As If You Had All The Confidence You Require Until It Becomes Your Reality.",
+"question": "Tap a user post that contains the words 'Fake It Until You Make It'",
+"isImagePost": false
+},
+{
+"id": 25,
+"iPost": "news13",
+"title": "One Small House in Boise, One Big Step in Homeownership",
+"post": "There came a point in Meghanne's 29-year-old life when she decided it was time to - be an adult and buy a house.",
+"question": "Tap an article about buying a house and homeownership",
+"isImagePost": true
+},
+{
+"id": 26,
+"iPost": "news14",
+"title": "Pets-Come-First Trend Unleashes Happy Results For Homeowner",
+"post": "Some dog lovers show their puppy love with fancy dog food, a special spot on the sofa or toys and outfits.",
+"question": "Tap an article with a title containing the words 'Pets-Come-First'",
+"isImagePost": true
+},
+{
+"id": 27,
+"iPost": "empty",
+"title": "empty",
+"post": "The Future Belongs To The Competent. Get Good, Get Better, Be The Best!",
+"question": "Tap a user post that contains the words 'Get Good, Get Better'",
+"isImagePost": false
+},
+{
+"id": 28,
+"iPost": "empty",
+"title": "empty",
+"post": "For Every Reason It’s Not Possible, There Are Hundreds Of People Who Have Faced The Same Circumstances And Succeeded.",
+"question": "Tap a user post that contains the words 'There Are Hundreds Of People'",
+"isImagePost": false
+},
+{
+"id": 29,
+"iPost": "news15",
+"title": "Get Ready to Roll This Spring By Cleaning Up the Garage",
+"post": "As spring blooms and temperatures warm up, it's time to open up the windows and go outside.",
+"question": "Tap an article about cleaning up the garage",
+"isImagePost": true
+},
+{
+"id": 30,
+"iPost": "news16",
+"title": "Teen Driver Contest Highlights Tire Safety",
+"post": "Teaching teens to drive can be a hair-raising experience for any parent.",
+"question": "Tap an article about the safety of car tires",
+"isImagePost": true
+},
+{
+"id": 31,
+"iPost": "empty",
+"title": "empty",
+"post": "Things Work Out Best For Those Who Make The Best Of How Things Work Out.",
+"question": "Tap a user post that contains the words 'Things Work Out'",
+"isImagePost": false
+},
+{
+"id": 32,
+"iPost": "empty",
+"title": "empty",
+"post": "One Of The Lessons That I Grew Up With Was To Always Stay True To Yourself And Never Let What Somebody Else Says Distract You From Your Goals.",
+"question": "Tap a user post that contains the words 'Distract You From Your Goals'",
+"isImagePost": false
+},
+{
+"id": 33,
+"iPost": "news3",
+"title": "How to Avoid Losing Power this Hurricane Season",
+"post": "Hurricane Preparedness Week runs from May 5-11, 2019 and the hurricane season starts June 1st!",
+"question": "Tap an article about power outages during hurricane",
+"isImagePost": true
+},
+{
+"id": 34,
+"iPost": "news18",
+"title": "Thought You Knew Canned Fish? You Don't Know Mackerel",
+"post": "Mackerel offers the same firm texture of tuna, with a mild taste and a powerful punch of nutrition.",
+"question": "Tap an article about canned fish",
+"isImagePost": true
+},
+{
+"id": 35,
+"iPost": "empty",
+"title": "empty",
+"post": "Today’s Accomplishments Were Yesterday’s Impossibilities.",
+"question": "Tap a user post that contains the words 'Yesterday’s Impossibilities'",
+"isImagePost": false
+},
+{
+"id": 36,
+"iPost": "empty",
+"title": "empty",
+"post": "The Only Way To Do Great Work Is To Love What You Do. If You Haven’t Found It Yet, Keep Looking. Don’t Settle.",
+"question": "Tap a user post that contains the words 'If You Haven’t Found It Yet'",
+"isImagePost": false
+},
+{
+"id": 37,
+"iPost": "news23",
+"title": "How to Keep Your Health in Check This Holiday Season",
+"post": "The holidays are known for taking a toll on our bodies.",
+"question": "Tap an article about health during holiday season",
+"isImagePost": true
+},
+{
+"id": 38,
+"iPost": "news24",
+"title": "3 Tips (Including Virtual Reality) For Avoiding Home Improvement Blunders",
+"post": "Want proof of how carefully you need to weigh the alternatives before making upgrades to your home?",
+"question": "Tap an article about avoiding home improvement mistakes",
+"isImagePost": true
+},
+{
+"id": 39,
+"iPost": "empty",
+"title": "empty",
+"post": "You Don’t Have To Be Great To Start, But You Have To Start To Be Great.",
+"question": "Tap a user post that contains the words 'You Have To Start To Be Great'",
+"isImagePost": false
+},
+{
+"id": 40,
+"iPost": "empty",
+"title": "empty",
+"post": "A Clear Vision, Backed By Definite Plans, Gives You A Tremendous Feeling Of Confidence And Personal Power.",
+"question": "Tap a user post that contains the words 'Backed By Definite Plans'",
+"isImagePost": false
+},
+{
+"id": 41,
+"iPost": "news61",
+"title": "Bringing the Family Together At the Dinner Table",
+"post": "However, with a little planning and some cooperation, even the busiest family can find time to sit down and enjoy a meal together.",
+"question": "Tap an article about having the family together for dinner",
+"isImagePost": true
+},
+{
+"id": 42,
+"iPost": "news62",
+"title": "Take Preventive Steps to Avoid Frozen Pipes",
+"post": "Winter is officially upon us and that means many homeowners will be paying a hefty price for not protecting their property against frozen pipes.",
+"question": "Tap an article about avoiding frozen pipes",
+"isImagePost": true
+},
+{
+"id": 43,
+"iPost": "empty",
+"title": "empty",
+"post": "The question isn’t who is doing to let me, it’s who is going to stop me. ",
+"question": "Tap a user post that contains the words 'it’s who is going to stop me'",
+"isImagePost": false
+},
+{
+"id": 44,
+"iPost": "empty",
+"title": "empty",
+"post": "I wasn’t there to compete. I was there to win. - Arnold Schwarzenegger",
+"question": "Tap a user post that contains the words 'Arnold Schwarzenegger'",
+"isImagePost": false
+},
+{
+"id": 45,
+"iPost": "news63",
+"title": "Teeth Grinding Can Be A Real Headache",
+"post": "Did you know that if you suffer from nagging headaches - including migraines, tension headaches and behind-the-eye pain - your teeth could be the root of your problem?",
+"question": "Tap an article about teeth grinding",
+"isImagePost": true
+},
+{
+"id": 46,
+"iPost": "news64",
+"title": "Football Helmet Safety in Three Simple Steps",
+"post": "Keep these three simple steps in mind:",
+"question": "Tap an article about the safety of football helmets",
+"isImagePost": true
+},
+{
+"id": 47,
+"iPost": "empty",
+"title": "empty",
+"post": "The place between your comfort zone and your dream is where life takes place.",
+"question": "Tap a user post that contains the words 'between your comfort zone and your dream'",
+"isImagePost": false
+},
+{
+"id": 48,
+"iPost": "empty",
+"title": "empty",
+"post": "To be a star, you must shine your own light, follow your own path, and don’t worry about darkness, for that is when the stars shine brightest. ",
+"question": "Tap a user post that contains the words 'you must shine your own light'",
+"isImagePost": false
+},
+{
+"id": 49,
+"iPost": "news65",
+"title": "Three Surprising Ways to Save Money on Pet Care",
+"post": "Owning a pet comes with a lot of benefits -- but caring for a pet can also have an unwelcome impact on your budget.",
+"question": "Tap an article about saving money on pet care",
+"isImagePost": true
+},
+{
+"id": 50,
+"iPost": "news66",
+"title": "Think Your Data is Safe? Think Again",
+"post": "No matter who you are or what business you are in, you're vulnerable to a cyber attack.",
+"question": "Tap an article about data safety",
+"isImagePost": true
+},
+{
+"id": 51,
+"iPost": "empty",
+"title": "empty",
+"post": "Never bend your head. Hold it high. Look the world straight in the eye.",
+"question": "Tap a user post that contains the words 'Never bend your head'",
+"isImagePost": false
+},
+{
+"id": 52,
+"iPost": "empty",
+"title": "empty",
+"post": "Learn to be comfortable in the uncomfortable. Learn to be peaceful, not bored. Learn to be inspired, not scared.",
+"question": "Tap a user post that contains the words 'Learn to be peaceful'",
+"isImagePost": false
+},
+{
+"id": 53,
+"iPost": "news67",
+"title": "Black Friday Deals Abound for Orlando",
+"post": "As winter and the holidays approach, it's time to start planning warm-weather destination trips.",
+"question": "Tap an article about black friday",
+"isImagePost": true
+},
+{
+"id": 54,
+"iPost": "news68",
+"title": "Big Swings in The Market Haven't Dampened People's Optimism",
+"post": "Despite the recent wild swings in the stock market, most people predict they'll be better off financially this year.",
+"question": "Tap an article about people's optimism about the stock market",
+"isImagePost": true
+},
+{
+"id": 55,
+"iPost": "empty",
+"title": "empty",
+"post": "It’s not what you say out of your mouth that determines your life, it’s what you whisper to yourself that has the most power.",
+"question": "Tap a user post that contains the words 'it’s what you whisper to yourself'",
+"isImagePost": false
+},
+{
+"id": 56,
+"iPost": "empty",
+"title": "empty",
+"post": "Do what you have to do until you can do what you want to do.",
+"question": "Tap a user post that contains the words 'what you want to do'",
+"isImagePost": false
+},
+{
+"id": 57,
+"iPost": "news69",
+"title": "Eco-Friendly Paving Revives Park Pathways",
+"post": "Yellowstone National Park alone experiences more than 4 million visits annually.",
+"question": "Tap an article about paving in national parks",
+"isImagePost": true
+},
+{
+"id": 58,
+"iPost": "news70",
+"title": "Cultural Center Breathes Life into Historic School",
+"post": "A former Nevada school for Indian children continues its mission of education, but now as a museum and educational center for tribal arts and culture.",
+"question": "Tap an article about a culture center in historic school",
+"isImagePost": true
+},
+{
+"id": 59,
+"iPost": "empty",
+"title": "empty",
+"post": "You’re probably on the right track if you feel like a sidewalk worm during a rainstorm.",
+"question": "Tap a user post that contains the words 'a sidewalk worm during a rainstorm'",
+"isImagePost": false
+},
+{
+"id": 60,
+"iPost": "empty",
+"title": "empty",
+"post": "Always ask yourself if what you’re doing today is getting you closer to where you want to be tomorrow.",
+"question": "Tap a user post that contains the words 'closer to where you want to be'",
+"isImagePost": false
+},
+{
+"id": 61,
+"iPost": "news91",
+"title": "Youth Learn the Dollars and Cents of Agriculture this Fair Season",
+"post": "For students around the country, summer vacation may be in full swing, but for many, that hasn't kept them from learning - especially those interested in a career in agriculture.",
+"question": "Tap an article about young people in agriculture",
+"isImagePost": true
+},
+{
+"id": 62,
+"iPost": "news92",
+"title": "Key Ingredients for a Healthy Heart",
+"post": "Here are some tips for keeping your meals and snacks heart healthy in the summer months:",
+"question": "Tap an article about indgridents for heart health",
+"isImagePost": true
+},
+{
+"id": 63,
+"iPost": "empty",
+"title": "empty",
+"post": "With the new day comes new strength and new thoughts.",
+"question": "Tap a user post that contains the words 'new strength and new thoughts'",
+"isImagePost": false
+},
+{
+"id": 64,
+"iPost": "empty",
+"title": "empty",
+"post": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+"question": "Tap a user post that contains the words 'we are challenged to change ourselves'",
+"isImagePost": false
+},
+{
+"id": 65,
+"iPost": "news93",
+"title": "Reverse Mortgages Benefit Younger Seniors",
+"post": "Homeowners who are 62 (the youngest eligible age for a reverse mortgage) have an advantage over older seniors when it comes to getting a reverse mortgage:",
+"question": "Tap an article about reverse mortgages",
+"isImagePost": true
+},
+{
+"id": 66,
+"iPost": "news94",
+"title": "The Health Perks of Our National Parks",
+"post": "Most Americans agree that spending time outdoors can enhance their physical and mental health.",
+"question": "Tap an article about health benefits of national parks",
+"isImagePost": true
+},
+{
+"id": 67,
+"iPost": "empty",
+"title": "empty",
+"post": "What you’re afraid is not the sea but to lose sight of the shore. Remember: the promised land is on the other side.",
+"question": "Tap a user post that contains the words 'he promised land is on the other side'",
+"isImagePost": false
+},
+{
+"id": 68,
+"iPost": "empty",
+"title": "empty",
+"post": "No matter how hard the past is, you can always begin again.",
+"question": "Tap a user post that contains the words 'you can always begin again'",
+"isImagePost": false
+},
+{
+"id": 69,
+"iPost": "news95",
+"title": "Streaming Content Box Cuts Your Cable and Costs",
+"post": "These days, consumers are opting to cut the cable cord and stream their TV live.",
+"question": "Tap an article about streaming content which helps reduce costs",
+"isImagePost": true
+},
+{
+"id": 70,
+"iPost": "news96",
+"title": "Biotech Company Files Two More Patents for Proprietary Cancer Cure",
+"post": "It is the disease that cost more than 8 million people their lives in 2012",
+"question": "Tap an article about patents related to cancer cure",
+"isImagePost": true
+},
+{
+"id": 71,
+"iPost": "empty",
+"title": "empty",
+"post": "If you dare nothing, then when the day is over, nothing is all you will have gained.",
+"question": "Tap a user post that contains the words 'nothing is all you will have gained'",
+"isImagePost": false
+},
+{
+"id": 72,
+"iPost": "empty",
+"title": "empty",
+"post": "Very often a change of self is needed more than a change of scene. ",
+"question": "Tap a user post that contains the words 'a change of self'",
+"isImagePost": false
+},
+{
+"id": 73,
+"iPost": "news97",
+"title": "Gadgets to Make Your Commute More Comfortable",
+"post": "Americans spend a lot of time on the road and getting to work, be it in a car, on a train or on a bus.",
+"question": "Tap an article about commuting gadgets",
+"isImagePost": true
+},
+{
+"id": 74,
+"iPost": "news98",
+"title": "Want to Create a Bookworm? Start Reading Early and Often",
+"post": "Most parents know the best way to get kids to read later in life is to read to them early and often.",
+"question": "Tap an article about making kids reading early and often",
+"isImagePost": true
+},
+{
+"id": 75,
+"iPost": "empty",
+"title": "empty",
+"post": "If you want a future that makes you happy, if you want a world that you’re excited about, get your ass out there and earn it.",
+"question": "Tap a user post that contains the words 'a future that makes you happy'",
+"isImagePost": false
+},
+{
+"id": 76,
+"iPost": "empty",
+"title": "empty",
+"post": "We must be willing to let go of the life we planned so as to have the life that is waiting for us.",
+"question": "Tap a user post that contains the words 'the life we planned'",
+"isImagePost": false
+},
+{
+"id": 77,
+"iPost": "news99",
+"title": "Five Common Misconceptions About Cats Debunked",
+"post": "There are some things that everybody knows about cats, such as they purr when they're happy.",
+"question": "Tap an article about misconceptions about cats",
+"isImagePost": true
+},
+{
+"id": 78,
+"iPost": "news100",
+"title": "Gauging Internet Marketing Efforts and Results",
+"post": "It's tempting to slack off on certain business ventures as the weather heats up, but we all know businesses don't get the luxury of a summer break.",
+"question": "Tap an article about internet marketing",
+"isImagePost": true
+},
+{
+"id": 79,
+"iPost": "empty",
+"title": "empty",
+"post": "The biggest risk is not taking any risk. In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+"question": "Tap a user post that contains the words 'world that’s changing really quickly'",
+"isImagePost": false
+},
+{
+"id": 80,
+"iPost": "empty",
+"title": "empty",
+"post": "Fear is the biggest disability of all. And will paralyze you more than being in a wheelchair.",
+"question": "Tap a user post that contains the words 'will paralyze you more'",
+"isImagePost": false
+},
+{
+"id": 81,
+"iPost": "news121",
+"title": "From Bark to Wine Stopper to Footwear -- the Story of Cork",
+"post": "While it might seem counterintuitive, the best way to ensure that there is no shortage of cork is to use more cork.",
+"question": "Tap an article about cork wood",
+"isImagePost": true
+},
+{
+"id": 82,
+"iPost": "news122",
+"title": "Why Every Home Should Be Tested for Radon",
+"post": "In American homes, smoke detectors and carbon monoxide detectors are common devices.",
+"question": "Tap an article about testing for radon",
+"isImagePost": true
+},
+{
+"id": 83,
+"iPost": "empty",
+"title": "empty",
+"post": "The more you give, the more comes back to you.",
+"question": "Tap a user post that contains the words 'the more comes back to you'",
+"isImagePost": false
+},
+{
+"id": 84,
+"iPost": "empty",
+"title": "empty",
+"post": "I have no special talents. I am only passionately curious.",
+"question": "Tap a user post that contains the words 'I am only passionately curious'",
+"isImagePost": false
+},
+{
+"id": 85,
+"iPost": "news123",
+"title": "Landfills: An Unexpected Source of Renewable Energy",
+"post": "Did you know that the garbage you throw out every day is a source of green energy?",
+"question": "Tap an article about renewable energy from landfills",
+"isImagePost": true
+},
+{
+"id": 86,
+"iPost": "news124",
+"title": "Family Has a Home: TV Network Has Something for Everyone",
+"post": "Research suggests that 42 million adults are looking for programming with family in mind",
+"question": "Tap an article about 'Family Has a Home'",
+"isImagePost": true
+},
+{
+"id": 87,
+"iPost": "empty",
+"title": "empty",
+"post": "By failing to prepare, you are preparing to fail.",
+"question": "Tap a user post that contains the words 'By failing to prepare'",
+"isImagePost": false
+},
+{
+"id": 88,
+"iPost": "empty",
+"title": "empty",
+"post": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
+"question": "Tap a user post that contains the words 'not by the desire to beat others'",
+"isImagePost": false
+},
+{
+"id": 89,
+"iPost": "news125",
+"title": "Student Athletes Emulate the Pros in Abusing Prescription Painkillers",
+"post": "And, yes, that does mean college and even high-school sports.",
+"question": "Tap an article about student athletes",
+"isImagePost": true
+},
+{
+"id": 90,
+"iPost": "news126",
+"title": "How to Boost Your Cell Phone's Signal for Safer Winter Travel",
+"post": "It's the bane of every cell phone user -- conversations that become garbled and calls that drop.",
+"question": "Tap an article about boosting cell phone signal",
+"isImagePost": true
+},
+{
+"id": 91,
+"iPost": "empty",
+"title": "empty",
+"post": "Learn to be happy with the endless try/fail/learn approach. True growth is slow and steady.",
+"question": "Tap a user post that contains the words 'True growth is slow and steady'",
+"isImagePost": false
+},
+{
+"id": 92,
+"iPost": "empty",
+"title": "empty",
+"post": "Nothing ever comes to one, that is worth having, except as a result of hard work.",
+"question": "Tap a user post that contains the words 'except as a result of hard work'",
+"isImagePost": false
+},
+{
+"id": 93,
+"iPost": "news127",
+"title": "A Playbook to Help the U.S. Regain Its Innovative Edge",
+"post": "America has lost its competitive edge in science, technology, engineering and math (STEM)",
+"question": "Tap an article about helping the US regain its innovation",
+"isImagePost": true
+},
+{
+"id": 94,
+"iPost": "news128",
+"title": "Green Living: A Plus For Our Planet",
+"post": "How green is your world?",
+"question": "Tap an article about 'Green Living' being a plus for our planet",
+"isImagePost": true
+},
+{
+"id": 95,
+"iPost": "empty",
+"title": "empty",
+"post": "If you shut the door to all errors, truth will be shut out.",
+"question": "Tap a user post that contains the words 'truth will be shut out'",
+"isImagePost": false
+},
+{
+"id": 96,
+"iPost": "empty",
+"title": "empty",
+"post": "My goal is not to be better than anyone else, but to be better than I used to be.",
+"question": "Tap a user post that contains the words 'My goal is not to be better'",
+"isImagePost": false
+},
+{
+"id": 97,
+"iPost": "news129",
+"title": "Mobile Devices Call for Security",
+"post": "With the wealth of Internet activity and connected communications offered by smartphones and tablets, our laptops and desktop computers are practically becoming passé.",
+"question": "Tap an article about security of mobile devices",
+"isImagePost": true
+},
+{
+"id": 98,
+"iPost": "news130",
+"title": "Gifts That Wow, and What They Say About You",
+"post": "Unless you're living in some alternative universe, that's the reaction you're likely shooting for when others open your holiday presents",
+"question": "Tap an article about 'Gifts That Wow'",
+"isImagePost": true
+},
+{
+"id": 99,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t ask for what the world needs. Ask what makes you come alive, and go do it.",
+"question": "Tap a user post that contains the words 'Ask what makes you come alive'",
+"isImagePost": false
+},
+{
+"id": 100,
+"iPost": "empty",
+"title": "empty",
+"post": "I am just a child who has never grown up. I still keep asking these ‘how’ and ‘why’ questions. Occasionally, I find an answer.",
+"question": "Tap a user post that contains the words 'I am just a child'",
+"isImagePost": false
+},
+{
+"id": 101,
+"iPost": "news151",
+"title": "A Food Ingredient in the Thick of Holidays Past and Present",
+"post": "Preparing your celebratory feasts.",
+"question": "Tap an article about a food ingredient involved in past and present holidays",
+"isImagePost": true
+},
+{
+"id": 102,
+"iPost": "news152",
+"title": "Make the Most of Your Backyard This Summer",
+"post": "It's time to relax and enjoy your patio.",
+"question": "Tap an article about backyard during the summer",
+"isImagePost": true
+},
+{
+"id": 103,
+"iPost": "empty",
+"title": "empty",
+"post": "A lot of people will just stop because they’re dead tired. You gotta do that extra one. That’s when you improve.",
+"question": "Tap a user post that contains the words 'You gotta do that extra one'",
+"isImagePost": false
+},
+{
+"id": 104,
+"iPost": "empty",
+"title": "empty",
+"post": "No matter how far you think you are ahead of me, I’m going to catch you. That’s my mentality that I go out there with.",
+"question": "Tap a user post that contains the words 'No matter how far you think'",
+"isImagePost": false
+},
+{
+"id": 105,
+"iPost": "news153",
+"title": "Sustainability -- Engineers Like It, Too",
+"post": "From professional MEs to students, the field reports heightened interest in sustainability.",
+"question": "Tap an article about engineers liking sustainability",
+"isImagePost": true
+},
+{
+"id": 106,
+"iPost": "news154",
+"title": "Musicians Fighting Back Against Big Radio for Performance Royalties",
+"post": "Ronnie Spector, Cyndi Lauper and Elvis Costello have joined forces.",
+"question": "Tap an article about musicians fighting big radio",
+"isImagePost": true
+},
+{
+"id": 107,
+"iPost": "empty",
+"title": "empty",
+"post": "You don’t get any medal for trying something, you get medals for results.",
+"question": "Tap a user post that contains the words 'you get medals for results'",
+"isImagePost": false
+},
+{
+"id": 108,
+"iPost": "empty",
+"title": "empty",
+"post": "I didn’t want to just be a body building champion. I wanted to be the best body builder of all time.",
+"question": "Tap a user post that contains the words 'the best body builder of all'",
+"isImagePost": false
+},
+{
+"id": 109,
+"iPost": "news155",
+"title": "Extinct plants can be resurrected",
+"post": "I have seen this happen before",
+"question": "Tap an article about extinct plants",
+"isImagePost": true
+},
+{
+"id": 110,
+"iPost": "news156",
+"title": "The Talk Just Got a Little Easier",
+"post": "Talk to your teen about safe driving, including the risks of distraction.",
+"question": "Tap an article about 'the talk'",
+"isImagePost": true
+},
+{
+"id": 111,
+"iPost": "empty",
+"title": "empty",
+"post": "Every adversity, every failure, and every heartache, carries with it the seed of an equivalent or greater benefit.",
+"question": "Tap a user post that contains the words 'Every adversity, every failure'",
+"isImagePost": false
+},
+{
+"id": 112,
+"iPost": "empty",
+"title": "empty",
+"post": "Without ambition, one starts nothing. Without work, one finishes nothing. The prize will not be sent to you. You have to win it.",
+"question": "Tap a user post that contains the words 'Without work, one finishes nothing'",
+"isImagePost": false
+},
+{
+"id": 113,
+"iPost": "news157",
+"title": "3 Ways to Encourage Your Child to Read",
+"post": "The first step toward encouraging your child to read is to read with them.",
+"question": "Tap an article about ways to encourage a child to read",
+"isImagePost": true
+},
+{
+"id": 114,
+"iPost": "news158",
+"title": "Are Your Kids Savvy About Internet Safety?",
+"post": "Parents should know where their children go when they're online.",
+"question": "Tap an article about internet safety and kids",
+"isImagePost": true
+},
+{
+"id": 115,
+"iPost": "empty",
+"title": "empty",
+"post": "The two most important days in your life are the day you are born and the day you find out why.",
+"question": "Tap a user post that contains the words 'the day you are born'",
+"isImagePost": false
+},
+{
+"id": 116,
+"iPost": "empty",
+"title": "empty",
+"post": "You can find a better you inside of you. Why don’t you search for that?",
+"question": "Tap a user post that contains the words 'Why don’t you search for that'",
+"isImagePost": false
+},
+{
+"id": 117,
+"iPost": "news159",
+"title": "Gifts for Geeks: What to Get the Techie on Your List",
+"post": "These five ideas are sure to please the tech lover on your holiday gift list.",
+"question": "Tap an article about gifts for techie people",
+"isImagePost": true
+},
+{
+"id": 118,
+"iPost": "news160",
+"title": "Real Talk -- When Was The Last Time You Enjoyed Your Business Trip?",
+"post": "It's hard to believe that 2017 is more than halfway over and that fall is in the air.",
+"question": "Tap an article about business trip enjoyment",
+"isImagePost": true
+},
+{
+"id": 119,
+"iPost": "empty",
+"title": "empty",
+"post": "Give up on being perfect and start working on becoming yourself.",
+"question": "Tap a user post that contains the words 'Give up on being perfect'",
+"isImagePost": false
+},
+{
+"id": 120,
+"iPost": "empty",
+"title": "empty",
+"post": "Do something today that your future self will thank you for.",
+"question": "Tap a user post that contains the words 'Do something today'",
+"isImagePost": false
+},
+{
+"id": 121,
+"iPost": "news181",
+"title": "Recipes to Fill Up Without Filling Out",
+"post": "For anyone looking to embrace a healthy physique this bathing suit season, it helps to stick to fresh fruits and veggies.",
+"question": "Tap an article about recipies which fill up but don't fill out",
+"isImagePost": true
+},
+{
+"id": 122,
+"iPost": "news182",
+"title": "Turning Mountains of Plastic Into Gallons of Fuel",
+"post": "One company can convert waste plastic into clean, low-sulfur fuel.",
+"question": "Tap an article about creating fuel from plastic",
+"isImagePost": true
+},
+{
+"id": 123,
+"iPost": "empty",
+"title": "empty",
+"post": "The dream is free. The hustle is sold separately",
+"question": "Tap a user post that contains the words 'The dream is free'",
+"isImagePost": false
+},
+{
+"id": 124,
+"iPost": "empty",
+"title": "empty",
+"post": "You can’t use up creativity. The more you use, the more you have.",
+"question": "Tap a user post that contains the words 'You can’t use up creativity'",
+"isImagePost": false
+},
+{
+"id": 125,
+"iPost": "news183",
+"title": "Skydiving Vikings to Deliver Minnesota's Game Ball",
+"post": "How to Train Your Dragon 2 characters will parachute into Minnesota Vikings stadium.",
+"question": "Tap an article about skydivers delivering game ball",
+"isImagePost": true
+},
+{
+"id": 126,
+"iPost": "news184",
+"title": "Americans Favor Investment in Cancer Cure",
+"post": "As divisive as American politics can be, most Americans want their next president to pursue cancer cures, based on the results of a survey",
+"question": "Tap an article about americans supporting investment in cancer cure",
+"isImagePost": true
+},
+{
+"id": 127,
+"iPost": "empty",
+"title": "empty",
+"post": "Challenges are gifts that force us to search for a new center of gravity. Don’t fight them. Just find a new way to stand.",
+"question": "Tap a user post that contains the words 'Challenges are gifts'",
+"isImagePost": false
+},
+{
+"id": 128,
+"iPost": "empty",
+"title": "empty",
+"post": "You cannot afford to live in potential for the rest of your life; at some point, you have to unleash the potential and make your move.",
+"question": "Tap a user post that contains the words 'You cannot afford to live in potential'",
+"isImagePost": false
+},
+{
+"id": 129,
+"iPost": "news185",
+"title": "Wireless Technology Improves Road Safety",
+"post": "With wireless tech, drivers are automatically warned of bad traffic ahead of time.",
+"question": "Tap an article about technology improving road safety",
+"isImagePost": true
+},
+{
+"id": 130,
+"iPost": "news186",
+"title": "Celebrate Science With At-Home Chemistry Experiments",
+"post": "Chemistry experiments help children learn and grow.",
+"question": "Tap an article about home chemistry experiments",
+"isImagePost": true
+},
+{
+"id": 131,
+"iPost": "empty",
+"title": "empty",
+"post": "Twenty years from now you will be more disappointed by the things you didn’t do than by the things you did.",
+"question": "Tap a user post that contains the words 'Twenty years from now'",
+"isImagePost": false
+},
+{
+"id": 132,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+"question": "Tap a user post that contains the words 'Be led by the dreams in your heart'",
+"isImagePost": false
+},
+{
+"id": 133,
+"iPost": "news187",
+"title": "Once Again, Buying Diamonds Is Cool",
+"post": "Rough champagne diamonds from the Argyle mine.",
+"question": "Tap an article about diamonds",
+"isImagePost": true
+},
+{
+"id": 134,
+"iPost": "news188",
+"title": "Entrepreneurs Provide TIPS! Monthly Yield Now Makes Sense",
+"post": "The ability to invest in cash-flowing and profitable entrepreneurs has disappeared.",
+"question": "Tap an article about tips from entrepreneurs",
+"isImagePost": true
+},
+{
+"id": 135,
+"iPost": "empty",
+"title": "empty",
+"post": "If you set goals and go after them with all the determination you can muster, your gifts will take you places that will amaze you.",
+"question": "Tap a user post that contains the words 'you set goals and go after them'",
+"isImagePost": false
+},
+{
+"id": 136,
+"iPost": "empty",
+"title": "empty",
+"post": "Learn, learn learn! Set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.",
+"question": "Tap a user post that contains the words 'Learn, learn learn'",
+"isImagePost": false
+},
+{
+"id": 137,
+"iPost": "news189",
+"title": "What Goes Into Determining Risk?",
+"post": "Mechanical engineers use a complex technical process called risk assessment to design safer systems.",
+"question": "Tap an article about determining risk",
+"isImagePost": true
+},
+{
+"id": 138,
+"iPost": "news190",
+"title": "Foodies Flock to Greater Fort Lauderdale's Dining Destinations",
+"post": "The Greater Fort Lauderdale, Florida area has become a hotbed of new dining options",
+"question": "Tap an article about 'Fort Lauderdale' dining destinations",
+"isImagePost": true
+},
+{
+"id": 139,
+"iPost": "empty",
+"title": "empty",
+"post": "Set a goal so big that you can’t achieve it until you grow into the person who can.",
+"question": "Tap a user post that contains the words 'Set a goal so big'",
+"isImagePost": false
+},
+{
+"id": 140,
+"iPost": "empty",
+"title": "empty",
+"post": "Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible.",
+"question": "Tap a user post that contains the words 'start by doing what’s necessary'",
+"isImagePost": false
+},
+{
+"id": 141,
+"iPost": "news191",
+"title": "Home Cooking May Help Prevent Childhood Obesity",
+"post": "Chino-Latino Chicken Lettuce Wraps make for a quick, healthy homemade meal",
+"question": "Tap an article about home cooking",
+"isImagePost": true
+},
+{
+"id": 142,
+"iPost": "news192",
+"title": "Start Saving With Energy-Efficient Upgrades",
+"post": "Energy-efficient HVAC systems can save you money with purchase rebates on top of monthly savings on utility bills.",
+"question": "Tap an article about saving with energy-efficient upgrades",
+"isImagePost": true
+},
+{
+"id": 143,
+"iPost": "empty",
+"title": "empty",
+"post": "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+"question": "Tap a user post that contains the words 'if we use our imaginations'",
+"isImagePost": false
+},
+{
+"id": 144,
+"iPost": "empty",
+"title": "empty",
+"post": "What the mind can conceive and believe, and the heart desire, you can achieve.",
+"question": "Tap a user post that contains the words 'What the mind can conceive'",
+"isImagePost": false
+},
+{
+"id": 145,
+"iPost": "news193",
+"title": "NUHO Offers Unique Film Festival Experience to the Masses",
+"post": "Now you can bring the film festival experience inside your home.",
+"question": "Tap an article about NUHO film festival",
+"isImagePost": true
+},
+{
+"id": 146,
+"iPost": "news194",
+"title": "Light Up the Grill: Three Creative Tips for a Leaner Barbeque Menu",
+"post": "Fire up the grill for a healthier barbecue.",
+"question": "Tap an article about tips on leaner barbeque",
+"isImagePost": true
+},
+{
+"id": 147,
+"iPost": "empty",
+"title": "empty",
+"post": "Success doesn’t just come and find you, you have to go out and get it.",
+"question": "Tap a user post that contains the words 'you have to go out'",
+"isImagePost": false
+},
+{
+"id": 148,
+"iPost": "empty",
+"title": "empty",
+"post": "Push yourself, because you are not your best self.",
+"question": "Tap a user post that contains the words 'you are not your best self'",
+"isImagePost": false
+},
+{
+"id": 149,
+"iPost": "news195",
+"title": "Prepare Yourself and Your Vehicle for Driving at Night",
+"post": "Nighttime driving presents new threats to road safety. Make sure you're prepared.",
+"question": "Tap an article about preparing for driving at night",
+"isImagePost": true
+},
+{
+"id": 150,
+"iPost": "news196",
+"title": "Students Use Engineering to Work Toward Sustainable Future",
+"post": "High-tech engineers are in high demand as the need for sustainability increases.",
+"question": "Tap an article about students using enginnering for sustainable future",
+"isImagePost": true
+},
+{
+"id": 151,
+"iPost": "empty",
+"title": "empty",
+"post": "Our greatest glory is not in never falling, but in rising every time we fall.",
+"question": "Tap a user post that contains the words 'rising every time we fall'",
+"isImagePost": false
+},
+{
+"id": 152,
+"iPost": "empty",
+"title": "empty",
+"post": "You will never always be motivated. You have to learn to be disciplined.",
+"question": "Tap a user post that contains the words 'never always be motivated'",
+"isImagePost": false
+},
+{
+"id": 153,
+"iPost": "news197",
+"title": "Tis the Season to Make the Switch to Long-Lasting LED Holiday Lights",
+"post": "Holiday lights are a must-use element in nearly all homeowners' seasonal decorating schemes.",
+"question": "Tap an article about long lasting holiday lights",
+"isImagePost": true
+},
+{
+"id": 154,
+"iPost": "news198",
+"title": "The Importance of Protecting Patents",
+"post": "Voip-Pal and other emerging telecom companies are fighting to protect their patents",
+"question": "Tap an article about protecting patents",
+"isImagePost": true
+},
+{
+"id": 155,
+"iPost": "empty",
+"title": "empty",
+"post": "When you know what you want, and want it bad enough, you’ll find a way to get it.",
+"question": "Tap a user post that contains the words 'you’ll find a way to get it'",
+"isImagePost": false
+},
+{
+"id": 156,
+"iPost": "empty",
+"title": "empty",
+"post": "The best way to gain self-confidence is to do what you are afraid to do.",
+"question": "Tap a user post that contains the words 'best way to gain self-confidence'",
+"isImagePost": false
+},
+{
+"id": 157,
+"iPost": "news199",
+"title": "Tips for Stress-Free Air Travel",
+"post": "Planning ahead may help you get around unexpected delays at the airport.",
+"question": "Tap an article about tips for stress-free air travel",
+"isImagePost": true
+},
+{
+"id": 158,
+"iPost": "news200",
+"title": "Dare to Pair Pinot and Plover on Vacation",
+"post": "Wine lover? Nature enthusiast? Both? Argentina and Chile",
+"question": "Tap an article about trying pinot and plover on vacation",
+"isImagePost": true
+},
+{
+"id": 159,
+"iPost": "empty",
+"title": "empty",
+"post": "Motivation is what gets you started. Habit is what keeps you going.",
+"question": "Tap a user post that contains the words 'Habit is what keeps you going'",
+"isImagePost": false
+},
+{
+"id": 160,
+"iPost": "empty",
+"title": "empty",
+"post": "Never stop trying. Never stop believing. Never give up. Your day will come.",
+"question": "Tap a user post that contains the words 'Never stop believing'",
+"isImagePost": false
+},
+{
+"id": 161,
+"iPost": "news241",
+"title": "Is Your Smile Unforgettable?",
+"post": "Smile with confidence.",
+"question": "Tap an article about unforgettable smile",
+"isImagePost": true
+},
+{
+"id": 162,
+"iPost": "news242",
+"title": "Chefs, Feed Thyself With Hearty Breakfast Recipes",
+"post": "Breakfast dishes like Viking Soul Food Gratin are hearty and nutritious.",
+"question": "Tap an article about hearty breakfast recipes",
+"isImagePost": true
+},
+{
+"id": 163,
+"iPost": "empty",
+"title": "empty",
+"post": "Ten years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.",
+"question": "Tap a user post that contains the words 'Explore, Dream, Discover'",
+"isImagePost": false
+},
+{
+"id": 164,
+"iPost": "empty",
+"title": "empty",
+"post": "I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.",
+"question": "Tap a user post that contains the words 'I can adjust my sails'",
+"isImagePost": false
+},
+{
+"id": 165,
+"iPost": "news243",
+"title": "Search for Benefits Packages That Go Above and Beyond the Usual",
+"post": "As health care costs continue to shift to consumers, it's important to consider benefits packages that provide more holistic support outside the usual health, dental and vision policies.",
+"question": "Tap an article about benefit packages",
+"isImagePost": true
+},
+{
+"id": 166,
+"iPost": "news244",
+"title": "Travelers May Turn to Road Trips as Airfare Climbs",
+"post": "Family road trips might come back in style as airfare keeps climbing.",
+"question": "Tap an article about travelers on road trips instead of air",
+"isImagePost": true
+},
+{
+"id": 167,
+"iPost": "empty",
+"title": "empty",
+"post": "A person who never made a mistake never tried anything new.",
+"question": "Tap a user post that contains the words 'A person who never made a mistake'",
+"isImagePost": false
+},
+{
+"id": 168,
+"iPost": "empty",
+"title": "empty",
+"post": "A winner is a dreamer who never gives up.",
+"question": "Tap a user post that contains the words 'A winner is a dreamer'",
+"isImagePost": false
+},
+{
+"id": 169,
+"iPost": "news245",
+"title": "Riding While Female: The New Peril in the Age of Uber",
+"post": "It's the new shorthand for the potential danger faced by women using app-based, ride-hailing services like Uber and Lyft.",
+"question": "Tap an article about females riding Uber",
+"isImagePost": true
+},
+{
+"id": 170,
+"iPost": "news246",
+"title": "The Great Divide: Balancing Travel and Protecting Delicate Ecosystems",
+"post": "Photograph giant tortoises in the wilds of Galapagos.",
+"question": "Tap an article about travel and protecting ecosystems",
+"isImagePost": true
+},
+{
+"id": 171,
+"iPost": "empty",
+"title": "empty",
+"post": "Nothing is impossible, the word itself says “I’m possible”!",
+"question": "Tap a user post that contains the words 'Nothing is impossible'",
+"isImagePost": false
+},
+{
+"id": 172,
+"iPost": "empty",
+"title": "empty",
+"post": "No one can make you feel inferior without your consent.",
+"question": "Tap a user post that contains the words 'No one can make you feel inferior'",
+"isImagePost": false
+},
+{
+"id": 173,
+"iPost": "news247",
+"title": "Forget That Facelift - Wrap Your Face into Shape",
+"post": "A non-surgical technique for lifting double chins, reducing puffiness around the eyes",
+"question": "Tap an article about facelift",
+"isImagePost": true
+},
+{
+"id": 174,
+"iPost": "news248",
+"title": "Incubators Help Florida Small Businesses Bloom",
+"post": "For neophyte companies, business incubators can offer economic space and experienced leadership for entrepreneurs in their critical first years.",
+"question": "Tap an article about incubators and small businesses",
+"isImagePost": true
+},
+{
+"id": 175,
+"iPost": "empty",
+"title": "empty",
+"post": "Whether you think you can or you think you can’t, you’re right.",
+"question": "Tap a user post that contains the words 'you think you can or you think you can’t'",
+"isImagePost": false
+},
+{
+"id": 176,
+"iPost": "empty",
+"title": "empty",
+"post": "The most common way people give up their power is by thinking they don’t have any.",
+"question": "Tap a user post that contains the words 'The most common way'",
+"isImagePost": false
+},
+{
+"id": 177,
+"iPost": "news249",
+"title": "Study Refutes Link Between Strokes, Chiropractic Care",
+"post": "Studies show doctors of chiropractic provide safe and effective care.",
+"question": "Tap an article about link between strokes and chirporactic care",
+"isImagePost": true
+},
+{
+"id": 178,
+"iPost": "news250",
+"title": "Women Say They're Ready to Put Their Money to Work for Them",
+"post": "More women than ever before are realizing they need to make their money grow for them.",
+"question": "Tap an article about women and putting money to work",
+"isImagePost": true
+},
+{
+"id": 179,
+"iPost": "empty",
+"title": "empty",
+"post": "Be thankful for what you have; you’ll end up having more. If you concentrate on what you don’t have, you will never, ever have enough.",
+"question": "Tap a user post that contains the words 'Be thankful for what you have'",
+"isImagePost": false
+},
+{
+"id": 180,
+"iPost": "empty",
+"title": "empty",
+"post": "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.",
+"question": "Tap a user post that contains the words 'one door of happiness closes'",
+"isImagePost": false
+},
+{
+"id": 181,
+"iPost": "news251",
+"title": "Use Family Favorites to Inspire New Cornbread Recipes",
+"post": "The Monte Cristo Cornbread Skillet is one variation of cornbread recipes.",
+"question": "Tap an article about cornbread recipes",
+"isImagePost": true
+},
+{
+"id": 182,
+"iPost": "news252",
+"title": "Keep After-School Hunger at Bay by Reaching for Raisins",
+"post": "New research shows raisins are a healthy after-school snack, like these California Raisin Rice Cake Doodles.",
+"question": "Tap an article about eating raisins to fight after-school hunger",
+"isImagePost": true
+},
+{
+"id": 183,
+"iPost": "empty",
+"title": "empty",
+"post": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.",
+"question": "Tap a user post that contains the words 'Have faith in your abilities'",
+"isImagePost": false
+},
+{
+"id": 184,
+"iPost": "empty",
+"title": "empty",
+"post": "Do not wait; the time will never be ‘just right.’ Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.",
+"question": "Tap a user post that contains the words 'Start where you stand'",
+"isImagePost": false
+},
+{
+"id": 185,
+"iPost": "news253",
+"title": "The Secret to Pro Golfer Zach Johnson's Success: Chiropractic Care",
+"post": "What does pro golfer extraordinaire Zach Johnson attribute his success to?",
+"question": "Tap an article about the secret of a pro golfer",
+"isImagePost": true
+},
+{
+"id": 186,
+"iPost": "news254",
+"title": "12 in 2012: Doctor-Prescribed New Year's Resolutions",
+"post": "Take a look at the top 12 doctor-prescribed New Year's resolutions before you finish your list.",
+"question": "Tap an article about '12 in 2012' new years resolution",
+"isImagePost": true
+},
+{
+"id": 187,
+"iPost": "empty",
+"title": "empty",
+"post": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+"question": "Tap a user post that contains the words 'the rest is merely tenacity'",
+"isImagePost": false
+},
+{
+"id": 188,
+"iPost": "empty",
+"title": "empty",
+"post": "Press forward. Do not stop, do not linger in your journey, but strive for the mark set before you.",
+"question": "Tap a user post that contains the words 'Press forward.'",
+"isImagePost": false
+},
+{
+"id": 189,
+"iPost": "news255",
+"title": "Welcome to El Salvador: We've Been Expecting You",
+"post": "The view of Suchitoto, El Salvador.",
+"question": "Tap an article about El Salvador",
+"isImagePost": true
+},
+{
+"id": 190,
+"iPost": "news256",
+"title": "Did You Know Your Eye Makeup Could Be Making You Sick?",
+"post": "Is your eye makeup making you sick?",
+"question": "Tap an article about eye makeup",
+"isImagePost": true
+},
+{
+"id": 191,
+"iPost": "empty",
+"title": "empty",
+"post": "There will be obstacles. There will be doubters. There will be mistakes. But with hard work, there are no limits.",
+"question": "Tap a user post that contains the words 'There will be doubters'",
+"isImagePost": false
+},
+{
+"id": 192,
+"iPost": "empty",
+"title": "empty",
+"post": "Many of life’s failures are people who did not realize how close they were to success when they gave up.",
+"question": "Tap a user post that contains the words 'Many of life’s failures'",
+"isImagePost": false
+},
+{
+"id": 193,
+"iPost": "news257",
+"title": "Waste and Recycling Jobs: Opportunities Are Plentiful",
+"post": "Have you considered a career in waste and recycling?",
+"question": "Tap an article about jobs in waste and recycling",
+"isImagePost": true
+},
+{
+"id": 194,
+"iPost": "news258",
+"title": "The Magic Number for Millennials: $51,000",
+"post": "What does it take to make a millennial happy?",
+"question": "Tap an article about the magic number for millenials",
+"isImagePost": true
+},
+{
+"id": 195,
+"iPost": "empty",
+"title": "empty",
+"post": "They look up to me when my determination to succeed is strong enough.",
+"question": "Tap a user post that contains the words 'They look up to me'",
+"isImagePost": false
+},
+{
+"id": 196,
+"iPost": "empty",
+"title": "empty",
+"post": "The pessimist sees difficulty in every opportunity. But the optimist does in every difficulty.",
+"question": "Tap a user post that contains the words 'the optimist does in every difficulty'",
+"isImagePost": false
+},
+{
+"id": 197,
+"iPost": "news259",
+"title": "Surety Bonds: What They Are and Why They Matter",
+"post": "A surety bond, as the name suggests, means a sure thing - at least when it comes to the financial security of construction projects.",
+"question": "Tap an article about what surety bonds are",
+"isImagePost": true
+},
+{
+"id": 198,
+"iPost": "news260",
+"title": "Easy, Elegant Entertaining With a French Touch",
+"post": "The French dish Chicken Veronique will be the centerpiece at your dinner table.",
+"question": "Tap an article about a french dish (easy, elegant, entertaining)",
+"isImagePost": true
+},
+{
+"id": 199,
+"iPost": "empty",
+"title": "empty",
+"post": "If you hear a voice within you say ‘you cannot paint,’ then by all means paint and that voice will be silenced.",
+"question": "Tap a user post that contains the words 'If you hear a voice within you'",
+"isImagePost": false
+},
+{
+"id": 200,
+"iPost": "empty",
+"title": "empty",
+"post": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+"question": "Tap a user post that contains the words 'the airplane takes off against the wind'",
+"isImagePost": false
+},
+{
+"id": 201,
+"iPost": "news8",
+"title": "If you're feeling stressed and anxious, research says: feed the birds",
+"post": "The number of birds people might see was directly associated with better mental health.",
+"question": "Tap an article about feeding birds to relieve stress",
+"isImagePost": true
+},
+{
+"id": 202,
+"iPost": "news26",
+"title": "Galleries: getting empty or full",
+"post": "The new generation of millennials have a strong opinion for art galleries.",
+"question": "Tap an article about galleries",
+"isImagePost": true
+},
+{
+"id": 203,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t be pushed by your problems, be led by your dreams.",
+"question": "Tap a user post that contains the words 'be led by your dreams'",
+"isImagePost": false
+},
+{
+"id": 204,
+"iPost": "empty",
+"title": "empty",
+"post": "Leaders Are Never Satisfied; They Continually Strive To Be Better.",
+"question": "Tap a user post that contains the words 'Leaders Are Never Satisfied'",
+"isImagePost": false
+},
+{
+"id": 205,
+"iPost": "news12",
+"title": "Which Home Upgrades Are Worth It and Which Aren't",
+"post": "Come April, we're looking at the start of peak home buying season - the four months that generally account for more than 40 percent of annual housing transactions.",
+"question": "Tap an article about which home upgrades are worth it",
+"isImagePost": true
+},
+{
+"id": 206,
+"iPost": "news27",
+"title": "School Choice: A Lightbulb Moment",
+"post": "Most teachers will tell you that there is nothing more exciting than seeing the lightbulb moment, when, suddenly, everything clicks and a student understands a new concept.",
+"question": "Tap an article about choosing school",
+"isImagePost": true
+},
+{
+"id": 207,
+"iPost": "empty",
+"title": "empty",
+"post": "Leaders Are Innovative, Entrepreneurial, And Future-Oriented. They Focus On Getting The Job Done.",
+"question": "Tap a user post that contains the words 'Leaders Are Innovative'",
+"isImagePost": false
+},
+{
+"id": 208,
+"iPost": "empty",
+"title": "empty",
+"post": "Entrepreneurial Leadership Requires The Ability To Move Quickly When Opportunity Presents Itself.",
+"question": "Tap a user post that contains the words 'Entrepreneurial Leadership'",
+"isImagePost": false
+},
+{
+"id": 209,
+"iPost": "news17",
+"title": "Don't Discount Safe Driving This Summer",
+"post": "Summertime brings longer days and ideal driving conditions to much of the United States.",
+"question": "Tap an article about safe driving during the summer",
+"isImagePost": true
+},
+{
+"id": 210,
+"iPost": "news28",
+"title": "Encryption Technology for Your Privacy",
+"post": "Encryption and controversy seem to go hand in hand lately in the technology community. Case in point: ",
+"question": "Tap an article about encryption for privacy",
+"isImagePost": true
+},
+{
+"id": 211,
+"iPost": "empty",
+"title": "empty",
+"post": "Respect Is The Key Determinant Of High-Performance Leadership. How Much People Respect You Determines How Well They Perform.",
+"question": "Tap a user post that contains the words 'High-Performance Leadership'",
+"isImagePost": false
+},
+{
+"id": 212,
+"iPost": "empty",
+"title": "empty",
+"post": "The Three ‘C’s’ Of Leadership Are Consideration, Caring, And Courtesy. Be Polite To Everyone.",
+"question": "Tap a user post that contains the words 'Be Polite To Everyone'",
+"isImagePost": false
+},
+{
+"id": 213,
+"iPost": "news19",
+"title": "Two Meals in One: Arborio Rice, Perfect for Risotto & Arancini",
+"post": "It's been said that risotto waits for no one...",
+"question": "Tap an article about two meals in one (risotto & arancini)",
+"isImagePost": true
+},
+{
+"id": 214,
+"iPost": "news29",
+"title": "Three Simple Swaps for a Healthier Lunch",
+"post": "Choosing a healthy lunch doesn't have to be boring or a day-to-day challenge.",
+"question": "Tap an article about healthier lunch",
+"isImagePost": true
+},
+{
+"id": 215,
+"iPost": "empty",
+"title": "empty",
+"post": "Leaders Concentrate Single-Mindedly On One Thing– The Most Important Thing, And They Stay At It Until It’s Complete.",
+"question": "Tap a user post that contains the words 'Until It’s Complete'",
+"isImagePost": false
+},
+{
+"id": 216,
+"iPost": "empty",
+"title": "empty",
+"post": "The True Test Of Leadership Is How Well You Function In A Crisis.",
+"question": "Tap a user post that contains the words 'The True Test Of Leadership'",
+"isImagePost": false
+},
+{
+"id": 217,
+"iPost": "news25",
+"title": "The ABCs of Finance Apps",
+"post": "As back-to-school time sets in, personal finance becomes more complicated for many families. ",
+"question": "Tap an article about finance apps",
+"isImagePost": true
+},
+{
+"id": 218,
+"iPost": "news30",
+"title": "Bonds Protect Infrastructure Investment",
+"post": "Almost universal agreement surrounds the need to repair or replace America's aging infrastructure of roads, highways, bridges, dams, drinking and wastewater facilities.",
+"question": "Tap an article about bonds protecting infrastructure",
+"isImagePost": true
+},
+{
+"id": 219,
+"iPost": "empty",
+"title": "empty",
+"post": "Leaders Are Anticipatory Thinkers. They Consider All Consequences Of Their Behaviors Before They Act.",
+"question": "Tap a user post that contains the words 'Leaders Are Anticipatory Thinkers'",
+"isImagePost": false
+},
+{
+"id": 220,
+"iPost": "empty",
+"title": "empty",
+"post": "Superior Leaders Are Willing To Admit A Mistake And Cut Their Losses. Be Willing To Admit That You’ve Changed Your Mind. Don’t Persist When The Original Decision Turns Out To Be A Poor One.",
+"question": "Tap a user post that contains the words 'Superior Leaders Are Willing'",
+"isImagePost": false
+},
+{
+"id": 221,
+"iPost": "news31",
+"title": "Women Prioritize Family Needs Over Their Own Financial Security",
+"post": "What's holding women back from doing even better financially than they are?",
+"question": "Tap an article about women prioritizing family over financial security",
+"isImagePost": true
+},
+{
+"id": 222,
+"iPost": "news32",
+"title": "Scuba Therapy Helps Veterans Heal",
+"post": "Many of America's military veterans struggle with injuries and disabilities.",
+"question": "Tap an article about veterans and scuba therapy",
+"isImagePost": true
+},
+{
+"id": 223,
+"iPost": "empty",
+"title": "empty",
+"post": "Leaders Never Use The Word Failure. They Look Upon Setbacks As Learning Experiences",
+"question": "Tap a user post that contains the words 'They Look Upon Setbacks'",
+"isImagePost": false
+},
+{
+"id": 224,
+"iPost": "empty",
+"title": "empty",
+"post": "You are confined only by the walls you build yourself.",
+"question": "Tap a user post that contains the words 'You are confined'",
+"isImagePost": false
+},
+{
+"id": 225,
+"iPost": "news33",
+"title": "Why a Roth IRA May Be Ideally Suited for Millennials",
+"post": "When it comes to saving, a Roth IRA may be a Millennial's best friend.",
+"question": "Tap an article about Roth IRA",
+"isImagePost": true
+},
+{
+"id": 226,
+"iPost": "news34",
+"title": "Three Innovative Twists to Our Favorite Sandwiches",
+"post": "However you stack 'em or slice 'em, everyone loves a good sandwich -- especially when it incorporates healthy ingredients.",
+"question": "Tap an article about twists on sandwiches",
+"isImagePost": true
+},
+{
+"id": 227,
+"iPost": "empty",
+"title": "empty",
+"post": "You attract what you are, not what you want. If you want great, then be great.",
+"question": "Tap a user post that contains the words 'If you want great, then be great'",
+"isImagePost": false
+},
+{
+"id": 228,
+"iPost": "empty",
+"title": "empty",
+"post": "It’s not who you are that holds you behind, it’s who you think your are not.",
+"question": "Tap a user post that contains the words 'it’s who you think your are not'",
+"isImagePost": false
+},
+{
+"id": 229,
+"iPost": "news35",
+"title": "Summer Break Means 25 Percent Break for Educators, Administrators",
+"post": "Teachers deserve every break they can get.",
+"question": "Tap an article about summer break",
+"isImagePost": true
+},
+{
+"id": 230,
+"iPost": "news36",
+"title": "Not All Web Encryption Is Created Equal",
+"post": "If, like most people, you're unsure what all the hubbub is about surrounding end-to-end encryption, read on to get yourself educated.",
+"question": "Tap an article about web encryption",
+"isImagePost": true
+},
+{
+"id": 231,
+"iPost": "empty",
+"title": "empty",
+"post": "Stop being afraid of what could go wrong and think of what could go right.",
+"question": "Tap a user post that contains the words 'Stop being afraid'",
+"isImagePost": false
+},
+{
+"id": 232,
+"iPost": "empty",
+"title": "empty",
+"post": "You should never regret anything in life. If it’s good, it’s wonderful. If it’s bad, it is experience.",
+"question": "Tap a user post that contains the words 'If it’s good, it’s wonderful'",
+"isImagePost": false
+},
+{
+"id": 233,
+"iPost": "news37",
+"title": "Give the Gift of Connectivity, Without the Stress",
+"post": "Once again, tech is topping lots of wish lists. We've all been there.",
+"question": "Tap an article about the gift of connectivity",
+"isImagePost": true
+},
+{
+"id": 234,
+"iPost": "news38",
+"title": "Small Businesses Hold the Key to Employee Happiness",
+"post": "As the calendar flips to another year, many employees will consider starting the new year on the hunt for a new job.",
+"question": "Tap an article about employee happiness",
+"isImagePost": true
+},
+{
+"id": 235,
+"iPost": "empty",
+"title": "empty",
+"post": "If you have the power to make someone happy, do it. The world needs more of that.",
+"question": "Tap a user post that contains the words 'The world needs more'",
+"isImagePost": false
+},
+{
+"id": 236,
+"iPost": "empty",
+"title": "empty",
+"post": "Always believe that something wonderful is about to happen.",
+"question": "Tap a user post that contains the words 'Always believe that'",
+"isImagePost": false
+},
+{
+"id": 237,
+"iPost": "news39",
+"title": "Say Cheese! How What You Eat Affects Your Smile",
+"post": "Face it: We live in a selfie-centric society that, combined with our health-driven lifestyles, makes a smile more important today than it has been in the past. ",
+"question": "Tap an article about how food affects your smile",
+"isImagePost": true
+},
+{
+"id": 238,
+"iPost": "news40",
+"title": "It Pays to Prep Your Tires for Winter Roads",
+"post": " Driving safely in the winter can be a challenge, even for the most experienced driver.",
+"question": "Tap an article about prepearing tires for winter",
+"isImagePost": true
+},
+{
+"id": 239,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t be afraid to give up the good and go for great.",
+"question": "Tap a user post that contains the words 'Don’t be afraid to give up'",
+"isImagePost": false
+},
+{
+"id": 240,
+"iPost": "empty",
+"title": "empty",
+"post": "Remember that life’s greatest lessons are usually learned from worst times and from the worst mistakes.",
+"question": "Tap a user post that contains the words 'Remember that life’s greatest lessons'",
+"isImagePost": false
+},
+{
+"id": 241,
+"iPost": "news71",
+"title": "Crowdfunding App Opens Door to Invest in Music Innovation",
+"post": "DigiTrax Entertainment, Inc., a pioneer in the music technology industry, is offering forward-looking investors a chance to get involved in the future of music.",
+"question": "Tap an article about crowdfunding app",
+"isImagePost": true
+},
+{
+"id": 242,
+"iPost": "news72",
+"title": "Choosing Health Care Benefits - a Chore or a Labor of Love?",
+"post": "If you're like most Americans, you probably view benefits open enrollment as somewhat of a chore.",
+"question": "Tap an article about health care benefits",
+"isImagePost": true
+},
+{
+"id": 243,
+"iPost": "empty",
+"title": "empty",
+"post": "Do not wait to strike till the iron is hot. Make it hot by striking.",
+"question": "Tap a user post that contains the words 'Make it hot by striking'",
+"isImagePost": false
+},
+{
+"id": 244,
+"iPost": "empty",
+"title": "empty",
+"post": "Try to keep the good ideas to go for the great.",
+"question": "Tap a user post that contains the words 'Try to keep the good'",
+"isImagePost": false
+},
+{
+"id": 245,
+"iPost": "news73",
+"title": "How to Take a Stress-Free Holiday Road Trip",
+"post": "Holiday travel can be stressful, but it should be fun, too",
+"question": "Tap an article about stress-free hoiliday road trip",
+"isImagePost": true
+},
+{
+"id": 246,
+"iPost": "news74",
+"title": "Get An Edge on College Prep Tests",
+"post": "The college application process and the college prep testing that goes along with it can be overwhelming for students and families.",
+"question": "Tap an article about college prep tests",
+"isImagePost": true
+},
+{
+"id": 247,
+"iPost": "empty",
+"title": "empty",
+"post": "Do your duty and a little more and the future will take care of itself.",
+"question": "Tap a user post that contains the words 'Do your duty'",
+"isImagePost": false
+},
+{
+"id": 248,
+"iPost": "empty",
+"title": "empty",
+"post": "When you do the common things in life in an uncommon way, you will command the attention of the world.",
+"question": "Tap a user post that contains the words 'you will command the attention'",
+"isImagePost": false
+},
+{
+"id": 249,
+"iPost": "news75",
+"title": "Help Your Pets Avoid the Threat of Fleas",
+"post": "Pet owners love their four-legged friends.",
+"question": "Tap an article about pets avoiding fleas",
+"isImagePost": true
+},
+{
+"id": 250,
+"iPost": "news76",
+"title": "Identity Theft 101: What You Need To Know",
+"post": "Identity theft is nothing new. It's been around longer than the Internet itself",
+"question": "Tap an article about identity theft",
+"isImagePost": true
+},
+{
+"id": 251,
+"iPost": "empty",
+"title": "empty",
+"post": "To seek greatness is the only righteous vengeance.",
+"question": "Tap a user post that contains the words 'To seek greatness'",
+"isImagePost": false
+},
+{
+"id": 252,
+"iPost": "empty",
+"title": "empty",
+"post": "Every strike brings me closer to the next home run.",
+"question": "Tap a user post that contains the words 'Every strike brings'",
+"isImagePost": false
+},
+{
+"id": 253,
+"iPost": "news77",
+"title": "Creative Gift Giving Is Easier Than You Think",
+"post": "It's no secret that shopping for holiday gifts can be overwhelming.",
+"question": "Tap an article about easy creative gifts",
+"isImagePost": true
+},
+{
+"id": 254,
+"iPost": "news78",
+"title": "Defining Luxury: American Hardwoods",
+"post": "For everyone seeking to transform lackluster into extraordinary, the product choice is American hardwood.",
+"question": "Tap an article about luxurious american hardwoods",
+"isImagePost": true
+},
+{
+"id": 255,
+"iPost": "empty",
+"title": "empty",
+"post": "Only those who dare to fail greatly can ever achieve greatly.",
+"question": "Tap a user post that contains the words 'can ever achieve greatly'",
+"isImagePost": false
+},
+{
+"id": 256,
+"iPost": "empty",
+"title": "empty",
+"post": "Success is walking from failure to failure with no loss of enthusiasm.",
+"question": "Tap a user post that contains the words 'Success is walking from failure'",
+"isImagePost": false
+},
+{
+"id": 257,
+"iPost": "news79",
+"title": "Aim for Compliance by Design, Not by Accident",
+"post": "Besides the wide scope of expert coverage, other advantages of an outsourced approach to EHS compliance include:",
+"question": "Tap an article about complience by design",
+"isImagePost": true
+},
+{
+"id": 258,
+"iPost": "news80",
+"title": "Natural Snacks Make Nutritious Meals",
+"post": "Three square meals a day are a thing of the past.",
+"question": "Tap an article about natural snacks",
+"isImagePost": true
+},
+{
+"id": 259,
+"iPost": "empty",
+"title": "empty",
+"post": "Strength does not come from physical capacity. It comes from an indomitable will.",
+"question": "Tap a user post that contains the words 'It comes from an indomitable will'",
+"isImagePost": false
+},
+{
+"id": 260,
+"iPost": "empty",
+"title": "empty",
+"post": "The only place where success comes before work is in the dictionary.",
+"question": "Tap a user post that contains the words 'before work is in the dictionary'",
+"isImagePost": false
+},
+{
+"id": 261,
+"iPost": "news101",
+"title": "Making Halloween a Treat For Parents As Well As Kids",
+"post": "For most parents, Halloween involves at least one (if not more) occasion to take their children trick-or-treating.",
+"question": "Tap an article about making halloween a treat",
+"isImagePost": true
+},
+{
+"id": 262,
+"iPost": "news102",
+"title": "American Winemaking Family Continues with Next Generation",
+"post": "Family businesses, large and small, are vital to the US economy.",
+"question": "Tap an article about american winemaking",
+"isImagePost": true
+},
+{
+"id": 263,
+"iPost": "empty",
+"title": "empty",
+"post": "The only way of discovering the limits of the possible is to venture a little way past them into the impossible",
+"question": "Tap a user post that contains the words 'The only way of discovering the limits'",
+"isImagePost": false
+},
+{
+"id": 264,
+"iPost": "empty",
+"title": "empty",
+"post": "We can change our lives. We can do, have, and be exactly what we wish.",
+"question": "Tap a user post that contains the words 'We can change our lives'",
+"isImagePost": false
+},
+{
+"id": 265,
+"iPost": "news103",
+"title": "Haven't Tried Sardines? Try These",
+"post": "Wait! They have bones and scales?",
+"question": "Tap an article about trying sardines",
+"isImagePost": true
+},
+{
+"id": 266,
+"iPost": "news104",
+"title": "Water Treatment System Maintenance for the Well Owner",
+"post": "Water treatment can help household well owners address health risks and undesirable taste, odor, and smells",
+"question": "Tap an article about water treatment",
+"isImagePost": true
+},
+{
+"id": 267,
+"iPost": "empty",
+"title": "empty",
+"post": "The starting point of all achievement is desire. Keep this constantly in mind. Weak desires bring weak results, just as a small fire makes a small amount of heat.",
+"question": "Tap a user post that contains the words 'Keep this constantly in mind'",
+"isImagePost": false
+},
+{
+"id": 268,
+"iPost": "empty",
+"title": "empty",
+"post": "Be willing to sacrifice what you think you have today for the life that you want tomorrow.",
+"question": "Tap a user post that contains the words 'the life that you want tomorrow'",
+"isImagePost": false
+},
+{
+"id": 269,
+"iPost": "news105",
+"title": "Earth-Friendly American Ethanol: An Important Success Story",
+"post": "There is little question ethanol is helping America reduce its dependence on foreign oil",
+"question": "Tap an article about american ehtanol",
+"isImagePost": true
+},
+{
+"id": 270,
+"iPost": "news106",
+"title": "Sauces for the Win: Why They're A Hit At A Party",
+"post": "It's that time of year again--the time when families and friends come together to celebrate with food and open arms.",
+"question": "Tap an article about sauces",
+"isImagePost": true
+},
+{
+"id": 271,
+"iPost": "empty",
+"title": "empty",
+"post": "When you want to succeed as bad as you want to breathe, then you’ll be successful.",
+"question": "Tap a user post that contains the words 'then you’ll be successful'",
+"isImagePost": false
+},
+{
+"id": 272,
+"iPost": "empty",
+"title": "empty",
+"post": "There will be obstacles. There will be haters. There will be mistakes. But with hard work, there are no limits.",
+"question": "Tap a user post that contains the words 'There will be haters'",
+"isImagePost": false
+},
+{
+"id": 273,
+"iPost": "news107",
+"title": "Rehydrating for Optimal Health",
+"post": "Water is essential for life and health. Everyone knows this.",
+"question": "Tap an article about rehydrating",
+"isImagePost": true
+},
+{
+"id": 274,
+"iPost": "news108",
+"title": "Uber to Passengers: Our Drivers May Be Unsafe",
+"post": "They've reached what you could call the braking point.",
+"question": "Tap an article about uber and unsafe drivers",
+"isImagePost": true
+},
+{
+"id": 275,
+"iPost": "empty",
+"title": "empty",
+"post": "The devotion of thought to an honest achievement makes the achievement possible. ",
+"question": "Tap a user post that contains the words 'The devotion of thought'",
+"isImagePost": false
+},
+{
+"id": 276,
+"iPost": "empty",
+"title": "empty",
+"post": "Desire is the starting point of all achievement, not a hope, not a wish, but a keen pulsating desire which transcends everything.",
+"question": "Tap a user post that contains the words 'not a hope, not a wish'",
+"isImagePost": false
+},
+{
+"id": 277,
+"iPost": "news109",
+"title": "How to Help Your Child Get Over Math Anxiety",
+"post": "Were you a math whiz growing up, or did you struggle and feel anxious at the mere mention of math?",
+"question": "Tap an article about math anxiety",
+"isImagePost": true
+},
+{
+"id": 278,
+"iPost": "news110",
+"title": "Helping Pet Owners and Pets Go Green",
+"post": "You've switched from incandescent bulbs to low-wattage LEDs.",
+"question": "Tap an article about pet owners going green",
+"isImagePost": true
+},
+{
+"id": 279,
+"iPost": "empty",
+"title": "empty",
+"post": "Little minds are tamed and subdued by misfortune; but great minds rise above it.",
+"question": "Tap a user post that contains the words 'Little minds are tamed'",
+"isImagePost": false
+},
+{
+"id": 280,
+"iPost": "empty",
+"title": "empty",
+"post": "If you want something you never had you have to do something you’ve never done.",
+"question": "Tap a user post that contains the words 'do something you’ve never done'",
+"isImagePost": false
+},
+{
+"id": 281,
+"iPost": "news131",
+"title": "3D Printing Makes Safer, Stronger Airline Parts",
+"post": "The aerospace industry is getting a boost in manufacturing its parts, making them safer and stronger",
+"question": "Tap an article about 3D printing",
+"isImagePost": true
+},
+{
+"id": 282,
+"iPost": "news132",
+"title": "How Do Americans Perceive Satisfying Nutritional Needs?",
+"post": "Although consumers say they are at least somewhat knowledgeable about nutrition",
+"question": "Tap an article about american perception of nutrition",
+"isImagePost": true
+},
+{
+"id": 283,
+"iPost": "empty",
+"title": "empty",
+"post": "Apply yourself. Get all the education you can, but then, by God, do something. Don’t just stand there, make it happen.",
+"question": "Tap a user post that contains the words 'Apply yourself'",
+"isImagePost": false
+},
+{
+"id": 284,
+"iPost": "empty",
+"title": "empty",
+"post": "Forget the mistake. Remember the lesson.",
+"question": "Tap a user post that contains the words 'Forget the mistake'",
+"isImagePost": false
+},
+{
+"id": 285,
+"iPost": "news133",
+"title": "4 Ways to Cut Your Energy Bills (5 If You're Up to It)",
+"post": "Pity we don't all have the stamina of the greenest of greenies.",
+"question": "Tap an article about ways to cut energy bills",
+"isImagePost": true
+},
+{
+"id": 286,
+"iPost": "news134",
+"title": "Modern Landfills: Safe, Smart and Green",
+"post": "The average American generates a lot of trash and recyclables",
+"question": "Tap an article about modern landfills",
+"isImagePost": true
+},
+{
+"id": 287,
+"iPost": "empty",
+"title": "empty",
+"post": "Making mistakes is better than faking perfections.",
+"question": "Tap a user post that contains the words 'Making mistakes is better'",
+"isImagePost": false
+},
+{
+"id": 288,
+"iPost": "empty",
+"title": "empty",
+"post": "If you only do what you can do, you will never be more than you are now.",
+"question": "Tap a user post that contains the words 'If you only do what you can do'",
+"isImagePost": false
+},
+{
+"id": 289,
+"iPost": "news135",
+"title": "Super Fans From LA Meet Star of Harry Potter Movies in London",
+"post": "A Los Angeles family visiting the British capital was left amazed",
+"question": "Tap an article about fans from LA",
+"isImagePost": true
+},
+{
+"id": 290,
+"iPost": "news136",
+"title": "Tips for Improving or Protecting Well Water",
+"post": "Water wells provide an excellent source of good-tasting, safe drinking water for millions of Americans",
+"question": "Tap an article about better well water",
+"isImagePost": true
+},
+{
+"id": 291,
+"iPost": "empty",
+"title": "empty",
+"post": "The days you don’t want to are the days you have to if you want to reach your goal.",
+"question": "Tap a user post that contains the words 'The days you don’t want to'",
+"isImagePost": false
+},
+{
+"id": 292,
+"iPost": "empty",
+"title": "empty",
+"post": "Best lesson I have learned in life came from the worst feeling I ever felt in life.",
+"question": "Tap a user post that contains the words 'Best lesson I have learned'",
+"isImagePost": false
+},
+{
+"id": 293,
+"iPost": "news137",
+"title": "Fishing for Answers to the Perils of the Open Seas",
+"post": " While the movie Captain Phillips made for good entertainment, it highlighted a small sampling of the dangers fishing vessels and cargo ships face when traversing the open seas.",
+"question": "Tap an article about fishing",
+"isImagePost": true
+},
+{
+"id": 294,
+"iPost": "news138",
+"title": "Is Quick Cash Blinding College Students to Higher Fees?",
+"post": "Check cashing services may provide convenience for college students when tuition refund checks arrive",
+"question": "Tap an article about quick cash and college students",
+"isImagePost": true
+},
+{
+"id": 295,
+"iPost": "empty",
+"title": "empty",
+"post": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+"question": "Tap a user post that contains the words 'Challenges are what make life interesting'",
+"isImagePost": false
+},
+{
+"id": 296,
+"iPost": "empty",
+"title": "empty",
+"post": "Learning is the only thing the mind never exhausts, never fears, and never regrets.",
+"question": "Tap a user post that contains the words 'Learning is the only thing'",
+"isImagePost": false
+},
+{
+"id": 297,
+"iPost": "news139",
+"title": "It's Easy Being Green",
+"post": "Here are some tips for eco-friendly living:",
+"question": "Tap an article about being easy to be green",
+"isImagePost": true
+},
+{
+"id": 298,
+"iPost": "news140",
+"title": "Film Industry Will Thrive With E-Distribution, According to Analysts",
+"post": "From backroom meetings in Hollywood to studio lots in Burbank, distribution has been the buzzword for entertainment executives.",
+"question": "Tap an article about the film industry thriving with e-distribution",
+"isImagePost": true
+},
+{
+"id": 299,
+"iPost": "empty",
+"title": "empty",
+"post": "Have no fear of perfection; you’ll never reach it.",
+"question": "Tap a user post that contains the words 'Have no fear of perfection'",
+"isImagePost": false
+},
+{
+"id": 300,
+"iPost": "empty",
+"title": "empty",
+"post": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.",
+"question": "Tap a user post that contains the words 'Our deepest fear is that we are powerful'",
+"isImagePost": false
+},
+{
+"id": 301,
+"iPost": "news161",
+"title": "Quench Your Thirst, Balance Your Body's pH",
+"post": "Alkaline water can be an important component of balancing your body's pH.",
+"question": "Tap an article about quenching thirst",
+"isImagePost": true
+},
+{
+"id": 302,
+"iPost": "news162",
+"title": "What's for Dinner? Ham Chops and Scalloped Potatoes",
+"post": "Ham Chops and Scalloped Potatoes will quickly become a dinner staple.",
+"question": "Tap an article about ham chops and scalloped potatoes ",
+"isImagePost": true
+},
+{
+"id": 303,
+"iPost": "empty",
+"title": "empty",
+"post": "Your time is limited, so don’t waste it living someone else’s life.",
+"question": "Tap a user post that contains the words 'Your time is limited'",
+"isImagePost": false
+},
+{
+"id": 304,
+"iPost": "empty",
+"title": "empty",
+"post": "You were put on this Earth to achieve your greatest self, to live out your purpose, and to do it courageously.",
+"question": "Tap a user post that contains the words 'You were put on this Earth'",
+"isImagePost": false
+},
+{
+"id": 305,
+"iPost": "news163",
+"title": "Are Steps Causing Your Knees to Ache? There May Be a Solution",
+"post": "Don't let steps cause you unnecessary pain.",
+"question": "Tap an article about steps causing knee ache",
+"isImagePost": true
+},
+{
+"id": 306,
+"iPost": "news164",
+"title": "Genetically Modified Salmon Making Progress in Regulatory Review",
+"post": "AquAdvantage salmon grows to market weight twice as fast as a wild Atlantic salmon.",
+"question": "Tap an article about generically modified salmon",
+"isImagePost": true
+},
+{
+"id": 307,
+"iPost": "empty",
+"title": "empty",
+"post": "Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.",
+"question": "Tap a user post that contains the words 'You are braver than you think'",
+"isImagePost": false
+},
+{
+"id": 308,
+"iPost": "empty",
+"title": "empty",
+"post": "There is only one thing that makes a dream impossible to achieve: the fear of failure.",
+"question": "Tap a user post that contains the words 'There is only one thing'",
+"isImagePost": false
+},
+{
+"id": 309,
+"iPost": "news165",
+"title": "Florida Resort Gives the Golf Getaway a Makeover",
+"post": "Florida's Streamsong is leading the golf resort reboot.",
+"question": "Tap an article about a Florida resort",
+"isImagePost": true
+},
+{
+"id": 310,
+"iPost": "news166",
+"title": "Student Backpacks Are Literally a Big Pain",
+"post": "Doctors of chiropractic deal with backpacks' consequences.",
+"question": "Tap an article about student backpacks",
+"isImagePost": true
+},
+{
+"id": 311,
+"iPost": "empty",
+"title": "empty",
+"post": "Stop trying to be less of who you are. Let this time in your life cut you open and drain all of the things that are holding you back.",
+"question": "Tap a user post that contains the words 'Let this time in your life'",
+"isImagePost": false
+},
+{
+"id": 312,
+"iPost": "empty",
+"title": "empty",
+"post": "I’m not telling you it is going to be easy, I’m telling you it’s going to be worth it.",
+"question": "Tap a user post that contains the words 'I’m not telling you'",
+"isImagePost": false
+},
+{
+"id": 313,
+"iPost": "news167",
+"title": "Get Better Gas Mileage With New Technology",
+"post": "New technology like fuel-efficient spark plugs will save you money on gas.",
+"question": "Tap an article about better gas mileage",
+"isImagePost": true
+},
+{
+"id": 314,
+"iPost": "news168",
+"title": "Money Matters: Why Financial Literacy Counts in High School",
+"post": "Young adults should start learning how to manage their finances in high school.",
+"question": "Tap an article about financial literacy in high school",
+"isImagePost": true
+},
+{
+"id": 315,
+"iPost": "empty",
+"title": "empty",
+"post": "The very best thing you can do for the whole world is to make the best of yourself.",
+"question": "Tap a user post that contains the words 'make the best of yourself.'",
+"isImagePost": false
+},
+{
+"id": 316,
+"iPost": "empty",
+"title": "empty",
+"post": "Your true success in life begins only when you make the commitment to become excellent at what you do.",
+"question": "Tap a user post that contains the words 'Your true success in life begins'",
+"isImagePost": false
+},
+{
+"id": 317,
+"iPost": "news169",
+"title": "Internet by Satellite: What You Should Know",
+"post": "Satellite Internet is available anywhere in the U.S.",
+"question": "Tap an article about internet by satellite",
+"isImagePost": true
+},
+{
+"id": 318,
+"iPost": "news170",
+"title": "The Magic of gardening Gifts This Holiday",
+"post": "Tech is a growing trend for gift buying, and this year is expected to be at an all-time high.",
+"question": "Tap an article about gardening gifts",
+"isImagePost": true
+},
+{
+"id": 319,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t downgrade your dream just to fit your reality. Upgrade your conviction to match your destiny.",
+"question": "Tap a user post that contains the words 'Don’t downgrade your dream'",
+"isImagePost": false
+},
+{
+"id": 320,
+"iPost": "empty",
+"title": "empty",
+"post": "Free yourself from your past mistakes, by forgiving yourself for what you have done or went through. Every day is another chance to start over.",
+"question": "Tap a user post that contains the words 'by forgiving yourself'",
+"isImagePost": false
+},
+{
+"id": 321,
+"iPost": "news201",
+"title": "Heart-Healthy Helpings With Veggie Sliders",
+"post": "New research suggests raisins may reduce blood pressure. Try it out on veggie sliders with raisins.",
+"question": "Tap an article about veggie sliders",
+"isImagePost": true
+},
+{
+"id": 322,
+"iPost": "news202",
+"title": "Watermelon Kebabs: A Juicy School Snack",
+"post": "Watermelon is packed with vitamins, making recipes like Watermelon Kebabs perfect for school lunches.",
+"question": "Tap an article about watermenlon kebabs",
+"isImagePost": true
+},
+{
+"id": 323,
+"iPost": "empty",
+"title": "empty",
+"post": "Results happen over time, not overnight. Work hard, stay consistent, and be patient.",
+"question": "Tap a user post that contains the words 'Results happen over time'",
+"isImagePost": false
+},
+{
+"id": 324,
+"iPost": "empty",
+"title": "empty",
+"post": "It’s not whether you get knocked down. It’s whether you get back up.",
+"question": "Tap a user post that contains the words 'It’s whether you get back up'",
+"isImagePost": false
+},
+{
+"id": 325,
+"iPost": "news203",
+"title": "Cut Heating Costs by Winterizing Your Home",
+"post": "Save money on bills by winter-proofing your home this season.",
+"question": "Tap an article about cutting heating costs",
+"isImagePost": true
+},
+{
+"id": 326,
+"iPost": "news204",
+"title": "Picture Perfect Home Decorating Tips From a Pro",
+"post": "Decorating can be one of the most exciting times during your experience as a homeowner.",
+"question": "Tap an article about home decorating",
+"isImagePost": true
+},
+{
+"id": 327,
+"iPost": "empty",
+"title": "empty",
+"post": "Success is what happens after you have survived all of your disappointments.",
+"question": "Tap a user post that contains the words 'Success is what happens'",
+"isImagePost": false
+},
+{
+"id": 328,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t try to be perfect. Just try to be better than you were yesterday.",
+"question": "Tap a user post that contains the words 'Don’t try to be perfect'",
+"isImagePost": false
+},
+{
+"id": 329,
+"iPost": "news205",
+"title": "Hearing Loss Takes Center Stage With Free Test",
+"post": "A free test can motivate those with hearing loss.",
+"question": "Tap an article about hearing loss",
+"isImagePost": true
+},
+{
+"id": 330,
+"iPost": "news206",
+"title": "Planning for Comfort During Long Road Trips",
+"post": "Endurance racer Patrick Long recommends tips for staying comfortable on road trips.",
+"question": "Tap an article about comfort during long road trips",
+"isImagePost": true
+},
+{
+"id": 331,
+"iPost": "empty",
+"title": "empty",
+"post": "Start where you are. Use what you have. Do what you can.",
+"question": "Tap a user post that contains the words 'Start where you are'",
+"isImagePost": false
+},
+{
+"id": 332,
+"iPost": "empty",
+"title": "empty",
+"post": "Strength does not come from physical capacity. It comes from your mind capacity.",
+"question": "Tap a user post that contains the words 'It comes from your mind capacity'",
+"isImagePost": false
+},
+{
+"id": 333,
+"iPost": "news207",
+"title": "Science Competition For Students",
+"post": "How cool would it be to show off your idea for some innovative technology that could exist 20 years from now?",
+"question": "Tap an article about science competition",
+"isImagePost": true
+},
+{
+"id": 334,
+"iPost": "news208",
+"title": "Celebrate the Winter Season With Easy Ginger Glazed Ham Recipe",
+"post": "Hosting a dinner party soon?",
+"question": "Tap an article about a ginger glazed ham recipe",
+"isImagePost": true
+},
+{
+"id": 335,
+"iPost": "empty",
+"title": "empty",
+"post": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
+"question": "Tap a user post that contains the words 'Perseverance is the hard work'",
+"isImagePost": false
+},
+{
+"id": 336,
+"iPost": "empty",
+"title": "empty",
+"post": "Fortune always favors the brave, and never helps a man who does not help himself.",
+"question": "Tap a user post that contains the words 'Fortune always favors the brave'",
+"isImagePost": false
+},
+{
+"id": 337,
+"iPost": "news209",
+"title": "The Top State for Robotics Innovation? Florida Will Surprise You",
+"post": "Lifelike animatronics, next-generation surgeons and mechanical warfighters",
+"question": "Tap an article about the top US state for robotics",
+"isImagePost": true
+},
+{
+"id": 338,
+"iPost": "news210",
+"title": "Tips to Keep Your Computer Running Smoothly",
+"post": "Take steps to keep your PC running smoothly.",
+"question": "Tap an article about computers running smoothly",
+"isImagePost": true
+},
+{
+"id": 339,
+"iPost": "empty",
+"title": "empty",
+"post": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+"question": "Tap a user post that contains the words 'Perfection is not attainable'",
+"isImagePost": false
+},
+{
+"id": 340,
+"iPost": "empty",
+"title": "empty",
+"post": "I will succeed if my determination to succeed is strong enough.",
+"question": "Tap a user post that contains the words 'I will succeed if my determination'",
+"isImagePost": false
+},
+{
+"id": 341,
+"iPost": "news211",
+"title": "Tackle Ice and Snow from the Ground Up",
+"post": "Walking in a winter wonderland may inspire warm feelings, but winter driving has the opposite effect.",
+"question": "Tap an article about tackling ice and snow",
+"isImagePost": true
+},
+{
+"id": 342,
+"iPost": "news212",
+"title": "Christmas Comes Early with Family Holiday Movies on UPtv",
+"post": "The holidays are almost here, and fans of uplifting Christmas television can look forward to 45 films on UPtv",
+"question": "Tap an article about christmas coming early with UPtv",
+"isImagePost": true
+},
+{
+"id": 343,
+"iPost": "empty",
+"title": "empty",
+"post": "Challenges will make you stronger and overcoming them is what makes life meaningful.",
+"question": "Tap a user post that contains the words 'Challenges will make you stronger'",
+"isImagePost": false
+},
+{
+"id": 344,
+"iPost": "empty",
+"title": "empty",
+"post": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+"question": "Tap a user post that contains the words 'Success is not final'",
+"isImagePost": false
+},
+{
+"id": 345,
+"iPost": "news213",
+"title": "Why Do You Love American Lamb?",
+"post": "Lamb recipes are great for holiday gatherings, like this pecan-crusted rack of lamb.",
+"question": "Tap an article about american lamb",
+"isImagePost": true
+},
+{
+"id": 346,
+"iPost": "news214",
+"title": "Winter Recipes are Knocking: Hello Onions",
+"post": "Pasta Italiano with Onion and Pork uses convenient ingredients and only takes 30-45 minutes to prepare.",
+"question": "Tap an article about winter cooking recipes",
+"isImagePost": true
+},
+{
+"id": 347,
+"iPost": "empty",
+"title": "empty",
+"post": "Hard times don’t create heroes. It is during the hard times when the ‘hero’ within us is revealed.",
+"question": "Tap a user post that contains the words 'Hard times don’t create heroes'",
+"isImagePost": false
+},
+{
+"id": 348,
+"iPost": "empty",
+"title": "empty",
+"post": "Strength doesn’t come from what you can do. It comes from overcoming the things you once thought you couldn’t.",
+"question": "Tap a user post that contains the words 'It comes from overcoming'",
+"isImagePost": false
+},
+{
+"id": 349,
+"iPost": "news215",
+"title": "Refreshing Communities Through Outdoor Gardens",
+"post": "The Pepsi Refresh Project enables communities to create gardens and other initiatives.",
+"question": "Tap an article about refreshing communities through gardens",
+"isImagePost": true
+},
+{
+"id": 350,
+"iPost": "news216",
+"title": "Solving the Mobile Music Puzzle",
+"post": "Some people are reluctant to switch phone brands for fear of losing their music, but not anymore.",
+"question": "Tap an article about mobile music",
+"isImagePost": true
+},
+{
+"id": 351,
+"iPost": "empty",
+"title": "empty",
+"post": "We don’t develop courage by being happy every day. We develop it by surviving difficult times and challenging adversity.",
+"question": "Tap a user post that contains the words 'We don’t develop courage'",
+"isImagePost": false
+},
+{
+"id": 352,
+"iPost": "empty",
+"title": "empty",
+"post": "No matter how hard times may get, always hold your head up and be strong; show them you’re not as weak as they think you are.",
+"question": "Tap a user post that contains the words 'No matter how hard times may get'",
+"isImagePost": false
+},
+{
+"id": 353,
+"iPost": "news217",
+"title": "Staircase Solution: Steps Don't Have to Be Your Enemy",
+"post": "Feeling intimidated by your staircase? You're not alone.",
+"question": "Tap an article about staircase solution",
+"isImagePost": true
+},
+{
+"id": 354,
+"iPost": "news218",
+"title": "Prepare Your Vehicle for Fall",
+"post": "Fall presents new driving difficulties for everyone -- especially teenagers.",
+"question": "Tap an article about preparing a vehicle for fall",
+"isImagePost": true
+},
+{
+"id": 355,
+"iPost": "empty",
+"title": "empty",
+"post": "Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.",
+"question": "Tap a user post that contains the words 'Inaction breeds doubt and fear'",
+"isImagePost": false
+},
+{
+"id": 356,
+"iPost": "empty",
+"title": "empty",
+"post": "Believe in yourself, take on your challenges, dig deep within yourself to conquer fears. Never let anyone bring you down. You got to keep going.",
+"question": "Tap a user post that contains the words 'take on your challenges'",
+"isImagePost": false
+},
+{
+"id": 357,
+"iPost": "news219",
+"title": "Hybrid Cars: The Performance Cars of the Future",
+"post": "Hybrid cars can hold their own on the racetrack.",
+"question": "Tap an article about hybrid cars",
+"isImagePost": true
+},
+{
+"id": 358,
+"iPost": "news220",
+"title": "Computers: An Afterschool Necessity for Many Young Students",
+"post": "If they don't already, your child will soon rely on computers for much of their homework needs.",
+"question": "Tap an article about computers being a necessity for young students",
+"isImagePost": true
+},
+{
+"id": 359,
+"iPost": "empty",
+"title": "empty",
+"post": "Until you’re broken, you don’t know what you’re made of. It gives you the ability to build yourself all over again, but stronger than ever.",
+"question": "Tap a user post that contains the words 'Until you’re broken'",
+"isImagePost": false
+},
+{
+"id": 360,
+"iPost": "empty",
+"title": "empty",
+"post": "When you fear your struggles, your struggles consume you. When you face your struggles, you overcome them.",
+"question": "Tap a user post that contains the words 'When you face your struggles'",
+"isImagePost": false
+},
+{
+"id": 361,
+"iPost": "news261",
+"title": "Are You at Risk for Heart Failure? 5 Need-to-Know Facts",
+"post": "If you're at risk of heart failure, see a physician before it's too late.",
+"question": "Tap an article about risk of hear faliure",
+"isImagePost": true
+},
+{
+"id": 362,
+"iPost": "news262",
+"title": "Gifts From Home for the Holidays",
+"post": "Homemade fruit bread is an ideal gift for friends and family with a sweet tooth.",
+"question": "Tap an article about gifts from home",
+"isImagePost": true
+},
+{
+"id": 363,
+"iPost": "empty",
+"title": "empty",
+"post": "Our greatest glory is not in never falling, but in fixing what's broken.",
+"question": "Tap a user post that contains the words 'fixing what's broken'",
+"isImagePost": false
+},
+{
+"id": 364,
+"iPost": "empty",
+"title": "empty",
+"post": "All our dreams can come true, if we have the courage to pursue them.",
+"question": "Tap a user post that contains the words 'All our dreams can come true'",
+"isImagePost": false
+},
+{
+"id": 365,
+"iPost": "news263",
+"title": "Fitness Sauna Promotes Health and Profit for Small Businesses",
+"post": "Fitness, dance, MMA studios, spas and gyms looking for the next big trend may start to heat things up with FitBomb's new specialized fitness sauna.",
+"question": "Tap an article about fitness sauna",
+"isImagePost": true
+},
+{
+"id": 366,
+"iPost": "news264",
+"title": "Your Carry-On Guide to Enjoying Business Travel",
+"post": "Why you should look forward to your next flight.",
+"question": "Tap an article about carry-on on business travel",
+"isImagePost": true
+},
+{
+"id": 367,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t be pushed around by the fears in your mind. Lead your mind forward.",
+"question": "Tap a user post that contains the words 'Lead your mind forward'",
+"isImagePost": false
+},
+{
+"id": 368,
+"iPost": "empty",
+"title": "empty",
+"post": "Always wake up with a smile knowing that today you are going to have fun accomplishing what others are too afraid to do.",
+"question": "Tap a user post that contains the words 'Always wake up with a smile'",
+"isImagePost": false
+},
+{
+"id": 369,
+"iPost": "news265",
+"title": "High Tech Pearls Are Captivating the Younger Jewelry Consumer",
+"post": "These aren't your Grandma's pearls!",
+"question": "Tap an article about high tech pearls",
+"isImagePost": true
+},
+{
+"id": 370,
+"iPost": "news266",
+"title": "Where the Jobs Are: Why Relocating May Be the Best Option",
+"post": "If you want the best job for you, it might be time to relocate.",
+"question": "Tap an article about relocating for jobs",
+"isImagePost": true
+},
+{
+"id": 371,
+"iPost": "empty",
+"title": "empty",
+"post": "When you know what you want, and want it bad enough, you will work hard enough to get it.",
+"question": "Tap a user post that contains the words 'work hard enough to get it'",
+"isImagePost": false
+},
+{
+"id": 372,
+"iPost": "empty",
+"title": "empty",
+"post": "Do the impossible then do what’s possible; and suddenly you are doing the impossible.",
+"question": "Tap a user post that contains the words 'Do the impossible'",
+"isImagePost": false
+},
+{
+"id": 373,
+"iPost": "news267",
+"title": "5 Tips for Perfect Wedding Photos",
+"post": "Your wedding is a once-in-a-lifetime occasion -- something to be celebrated and cherished.",
+"question": "Tap an article about tips for wedding photos",
+"isImagePost": true
+},
+{
+"id": 374,
+"iPost": "news268",
+"title": "Online Portal Offers Quick and Easy Way to Charter Flights",
+"post": "Savvy travelers recognize the benefits of flying privately, including convenience, comfort, and confidentiality.",
+"question": "Tap an article about an online portal for charter flights",
+"isImagePost": true
+},
+{
+"id": 375,
+"iPost": "empty",
+"title": "empty",
+"post": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+"question": "Tap a user post that contains the words 'Nothing can be done'",
+"isImagePost": false
+},
+{
+"id": 376,
+"iPost": "empty",
+"title": "empty",
+"post": "Without passion, you don’t have energy. Without energy, you have nothing.",
+"question": "Tap a user post that contains the words 'Without passion, you don’t'",
+"isImagePost": false
+},
+{
+"id": 377,
+"iPost": "news269",
+"title": "Step-By-Step: Living With Osteoporosis",
+"post": "Installing a stairlift can make life with Osteoporosis much easier.",
+"question": "Tap an article about living with osteoporosis",
+"isImagePost": true
+},
+{
+"id": 378,
+"iPost": "news270",
+"title": "5 Ways to Raise Capital and Start a Business",
+"post": "Generate capital for your business in today's economy.",
+"question": "Tap an article about ways to raise capital",
+"isImagePost": true
+},
+{
+"id": 379,
+"iPost": "empty",
+"title": "empty",
+"post": "You don’t have to be great to start, but you have work for your success.",
+"question": "Tap a user post that contains the words 'but you have work for your success'",
+"isImagePost": false
+},
+{
+"id": 380,
+"iPost": "empty",
+"title": "empty",
+"post": "Losing is not final, failure is not fatal: it is the courage to continue that counts.",
+"question": "Tap a user post that contains the words 'Losing is not final'",
+"isImagePost": false
+},
+{
+"id": 381,
+"iPost": "news271",
+"title": "Wellness Travel Is on the Rise",
+"post": "As travelers lead healthier, more active lifestyles, wellness activities like yoga are becoming part of their vacations.",
+"question": "Tap an article about wellness travel",
+"isImagePost": true
+},
+{
+"id": 382,
+"iPost": "news272",
+"title": "Popping the Question Over the Holidays? What Every Guy Should Know",
+"post": "Congratulations, guys, on being so in love that you can save yourself at least one big headache this holiday season.",
+"question": "Tap an article about popping the question",
+"isImagePost": true
+},
+{
+"id": 383,
+"iPost": "empty",
+"title": "empty",
+"post": "As soon as something stops being fun, I think it’s time to move on. Life is too short to be unhappy. Waking up stressed and miserable is not a good way to live.",
+"question": "Tap a user post that contains the words 'I think it’s time to move on.'",
+"isImagePost": false
+},
+{
+"id": 384,
+"iPost": "empty",
+"title": "empty",
+"post": "Everything is either an opportunity to grow or an obstacle to keep you from growing. You get to choose.",
+"question": "Tap a user post that contains the words 'You get to choose.'",
+"isImagePost": false
+},
+{
+"id": 385,
+"iPost": "news273",
+"title": "Some Jobs Really Are a Pain in the Back",
+"post": "Do you know where to turn if work-related back pain hits?",
+"question": "Tap an article about jobs being a pain in the back",
+"isImagePost": true
+},
+{
+"id": 386,
+"iPost": "news274",
+"title": "If You Have to Hold This Article at Arm's Length, You Should Read This",
+"post": "As the author Oscar Wilde said, With age comes wisdom.",
+"question": "Tap an article about holding that article at arm's length",
+"isImagePost": true
+},
+{
+"id": 387,
+"iPost": "empty",
+"title": "empty",
+"post": "Hardships often prepare ordinary people for an extraordinary destiny.",
+"question": "Tap a user post that contains the words 'Hardships often prepare'",
+"isImagePost": false
+},
+{
+"id": 388,
+"iPost": "empty",
+"title": "empty",
+"post": "Many things can make a dream impossible to achieve: the fear of failure.",
+"question": "Tap a user post that contains the words 'Many things can make'",
+"isImagePost": false
+},
+{
+"id": 389,
+"iPost": "news275",
+"title": "E-Wallet App Protects Family Debit Card Number",
+"post": "A simple solution: Prepaid credit cards with unique one-time-use numbers distinct from a family's debit card number and bank account.",
+"question": "Tap an article about an e-wallet app",
+"isImagePost": true
+},
+{
+"id": 390,
+"iPost": "news276",
+"title": "Holiday Health Check-List: Use It or Lose It",
+"post": "Don't let your flexible spending account go to waste.",
+"question": "Tap an article about a holiday health check-list",
+"isImagePost": true
+},
+{
+"id": 391,
+"iPost": "empty",
+"title": "empty",
+"post": "Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+"question": "Tap a user post that contains the words 'Most of the important things'",
+"isImagePost": false
+},
+{
+"id": 392,
+"iPost": "empty",
+"title": "empty",
+"post": "If you can tune into your purpose and really align with it, setting goals so that your vision is an expression of that purpose, then life flows much more easily.",
+"question": "Tap a user post that contains the words 'If you can tune into your purpose'",
+"isImagePost": false
+},
+{
+"id": 393,
+"iPost": "news277",
+"title": "Winning the Financial Security Lottery",
+"post": "You don't have to win the lottery to obtain financial security.",
+"question": "Tap an article about winning the financial security lottery",
+"isImagePost": true
+},
+{
+"id": 394,
+"iPost": "news278",
+"title": "Beat the Crowds: Visit Europe During the Shoulder Seasons",
+"post": "Schedule your European trip when crowds are smaller, and temperatures cooler.",
+"question": "Tap an article about beating the crowds in europe",
+"isImagePost": true
+},
+{
+"id": 395,
+"iPost": "empty",
+"title": "empty",
+"post": "Believe in yourself, believe in your mind, dig deep within yourself to conquer fears. Never let anyone bring you down. You got to keep going.",
+"question": "Tap a user post that contains the words 'believe in your mind'",
+"isImagePost": false
+},
+{
+"id": 396,
+"iPost": "empty",
+"title": "empty",
+"post": "It’s not about perfect. It’s about effort. And when you bring that effort every single day, that’s where transformation happens. That’s how change occurs.",
+"question": "Tap a user post that contains the words 'It’s not about perfect'",
+"isImagePost": false
+},
+{
+"id": 397,
+"iPost": "news279",
+"title": "A Guy's Guide to Selecting the Perfect Engagement Ring",
+"post": "Ring shopping? Get some help because your bride deserves a one-of-a-kind ring.",
+"question": "Tap an article about selecting engagement ring",
+"isImagePost": true
+},
+{
+"id": 398,
+"iPost": "news280",
+"title": "2013: The Year of the Unemployed Worker",
+"post": "Will 2014 see a better job market than 2013?",
+"question": "Tap an article about unemployment in 2013",
+"isImagePost": true
+},
+{
+"id": 399,
+"iPost": "empty",
+"title": "empty",
+"post": "Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.",
+"question": "Tap a user post that contains the words 'Success is no accident'",
+"isImagePost": false
+},
+{
+"id": 400,
+"iPost": "empty",
+"title": "empty",
+"post": "When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there.",
+"question": "Tap a user post that contains the words 'When obstacles arise'",
+"isImagePost": false
+},
+{
+"id": 401,
+"iPost": "news41",
+"title": "How Self-Publishing Made This Author A Best-Seller",
+"post": "Her first foray into publishing began, as many picture the life of an author, with a traditional publishing deal.",
+"question": "Tap an article about self-publishing",
+"isImagePost": true
+},
+{
+"id": 402,
+"iPost": "news42",
+"title": "Are You Eating Enough Vegetables a Day?",
+"post": "Only nine percent of Americans are meeting their daily recommended consumption of vegetables",
+"question": "Tap an article about eating vegetables daily",
+"isImagePost": true
+},
+{
+"id": 403,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t talk, just act. Don’t say, just show. Don’t promise, just prove.",
+"question": "Tap a user post that contains the words 'Don’t talk, just act'",
+"isImagePost": false
+},
+{
+"id": 404,
+"iPost": "empty",
+"title": "empty",
+"post": "Never stop doing great just because someone doesn’t give you credit.",
+"question": "Tap a user post that contains the words 'doesn’t give you credit'",
+"isImagePost": false
+},
+{
+"id": 405,
+"iPost": "news43",
+"title": "Center Offers Hope and Help for Binge Eating Disorder",
+"post": "Many individuals who struggle with food and weight may be undiagnosed with the mental health illness of binge eating disorder (BED), according to a leading health pscychologist.",
+"question": "Tap an article about help for binge eating disorder",
+"isImagePost": true
+},
+{
+"id": 406,
+"iPost": "news44",
+"title": "Student Preparation Program Yields College Scholarships",
+"post": "Many high school students who might not have seen college as an option are now ready to pursue advanced education as Dell Scholars, thanks to a unique nonprofit education program.",
+"question": "Tap an article about student preparation program",
+"isImagePost": true
+},
+{
+"id": 407,
+"iPost": "empty",
+"title": "empty",
+"post": "Discipline is doing what needs to be done, even if you don’t want to.",
+"question": "Tap a user post that contains the words 'even if you don’t want to.'",
+"isImagePost": false
+},
+{
+"id": 408,
+"iPost": "empty",
+"title": "empty",
+"post": "Work while they sleep. Learn while they party. Save while they spend. Live like they dream.",
+"question": "Tap a user post that contains the words 'Work while they sleep.'",
+"isImagePost": false
+},
+{
+"id": 409,
+"iPost": "news45",
+"title": "Bed and Breakfasts Give Travel a Personal Touch",
+"post": "Travelers seeking a personal touch and insider stories would do well to consider staying at a local bed and breakfast (B&B).",
+"question": "Tap an article about bed and breakfasts",
+"isImagePost": true
+},
+{
+"id": 410,
+"iPost": "news46",
+"title": "Simple Supplement Promotes Deep Sleep",
+"post": "Many people have trouble falling asleep, and there are many sleep supplement products available to help.",
+"question": "Tap an article about a deep sleep supplement",
+"isImagePost": true
+},
+{
+"id": 411,
+"iPost": "empty",
+"title": "empty",
+"post": "The key to success is to focus our conscious mind on things we desire, not things we fear.",
+"question": "Tap a user post that contains the words 'The key to success'",
+"isImagePost": false
+},
+{
+"id": 412,
+"iPost": "empty",
+"title": "empty",
+"post": "Never apologize for having high standards, people who really want to be in your life will rise to meet them.",
+"question": "Tap a user post that contains the words 'Never apologize '",
+"isImagePost": false
+},
+{
+"id": 413,
+"iPost": "news47",
+"title": "Top Tips for Timely Performance Driving",
+"post": "To that point, you never know when you're going to need to become a Timely Performance Driver.",
+"question": "Tap an article about tips for performance driving",
+"isImagePost": true
+},
+{
+"id": 414,
+"iPost": "news48",
+"title": "April Fools' Fake Out: How to Sneak Healthy Twists Into Kids' Favorites",
+"post": "Getting kids to eat healthy foods is a constant battle for many parents, but it's easy to pack nutrition into some everyday favorites without little ones being any the wiser.",
+"question": "Tap an article about april fools",
+"isImagePost": true
+},
+{
+"id": 415,
+"iPost": "empty",
+"title": "empty",
+"post": "If it doesn’t challenge you, it won’t change you.",
+"question": "Tap a user post that contains the words 'If it doesn’t challenge you'",
+"isImagePost": false
+},
+{
+"id": 416,
+"iPost": "empty",
+"title": "empty",
+"post": "Never give up on a dream just because of the time it will take to accomplish it, time will pass anyway.",
+"question": "Tap a user post that contains the words 'Never give up on a dream'",
+"isImagePost": false
+},
+{
+"id": 417,
+"iPost": "news49",
+"title": "Folding Drones are the New Hot Item for the Holidays",
+"post": "Every holiday season has its hot tech item - from smartwatches to game consoles and now to folding drones.",
+"question": "Tap an article about folding drones",
+"isImagePost": true
+},
+{
+"id": 418,
+"iPost": "news50",
+"title": "New App Bridges Gap Between News and Social Media",
+"post": "We live in a digital world that is constantly evolving.",
+"question": "Tap an article about a new app for news and social media",
+"isImagePost": true
+},
+{
+"id": 419,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t fear failure. Fear being in the exact same place next year as you are today.",
+"question": "Tap a user post that contains the words 'Don’t fear failure'",
+"isImagePost": false
+},
+{
+"id": 420,
+"iPost": "empty",
+"title": "empty",
+"post": "A hill is just another opportunity to leave your competition behind.",
+"question": "Tap a user post that contains the words 'leave your competition behind'",
+"isImagePost": false
+},
+{
+"id": 421,
+"iPost": "news51",
+"title": "Americans Are Flossing in the Strangest Places",
+"post": "Where have you flossed other than your bathroom? If you're like nearly 40 percent of Americans, the answer is… in a car.",
+"question": "Tap an article about americans flossing places",
+"isImagePost": true
+},
+{
+"id": 422,
+"iPost": "news52",
+"title": "How This Startup Will Kill The Banner Ad",
+"post": "It has been 25 years since the first banner ad hit the internet. ",
+"question": "Tap an article about a startup removing banner ads",
+"isImagePost": true
+},
+{
+"id": 423,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t quit. You’re already in pain. You’re already hurt. Get a reward from it.",
+"question": "Tap a user post that contains the words 'You’re already in pain'",
+"isImagePost": false
+},
+{
+"id": 424,
+"iPost": "empty",
+"title": "empty",
+"post": "Hustle until you no longer need to introduce yourself.",
+"question": "Tap a user post that contains the words 'Hustle until you no longer'",
+"isImagePost": false
+},
+{
+"id": 425,
+"iPost": "news53",
+"title": "How Ethanol Can Impact Your Engine",
+"post": "When consumers fill their tanks at the gas station, they will see signs reading may contain 10 percent Ethanol.",
+"question": "Tap an article about ethanol impacting engine",
+"isImagePost": true
+},
+{
+"id": 426,
+"iPost": "news54",
+"title": "A Delicious and Warm Pear Salad for Winter",
+"post": "The cold, blistering months can take a toll on our mental and physical health, but a colorful mix of seasonal ingredients can keep you going strong until springtime.",
+"question": "Tap an article about a pear salad for the winter",
+"isImagePost": true
+},
+{
+"id": 427,
+"iPost": "empty",
+"title": "empty",
+"post": "Be selective in your battles for sometimes peace is better than being right.",
+"question": "Tap a user post that contains the words 'Be selective in your battles'",
+"isImagePost": false
+},
+{
+"id": 428,
+"iPost": "empty",
+"title": "empty",
+"post": "You didn’t come this far only to come this far.",
+"question": "Tap a user post that contains the words 'You didn’t come this'",
+"isImagePost": false
+},
+{
+"id": 429,
+"iPost": "news55",
+"title": "Remote Possibilities: Where Mobility and Productivity Meet",
+"post": "There is a revolution that has been taking place for quite some time in the business world, and it's changing the way workers use the telephone and companies do business.",
+"question": "Tap an article about remote possibilities",
+"isImagePost": true
+},
+{
+"id": 430,
+"iPost": "news56",
+"title": "Even During School Year, Fun Reading Important for Kids",
+"post": "Most young kids love reading, but when the busy school year starts, it can be challenging to find the time to encourage them to read for fun.",
+"question": "Tap an article about fun reading important for kids",
+"isImagePost": true
+},
+{
+"id": 431,
+"iPost": "empty",
+"title": "empty",
+"post": "If we keep doing what we are doing, we’re going to keep getting what we’re getting.",
+"question": "Tap a user post that contains the words 'If we keep doing what we are doing'",
+"isImagePost": false
+},
+{
+"id": 432,
+"iPost": "empty",
+"title": "empty",
+"post": "You will never know your limits until you push yourself to them.",
+"question": "Tap a user post that contains the words 'You will never know your limits'",
+"isImagePost": false
+},
+{
+"id": 433,
+"iPost": "news57",
+"title": "How to Age with Optimism",
+"post": "Having a glass half full approach to life has long been considered important for overall wellness.",
+"question": "Tap an article about aging with optimism",
+"isImagePost": true
+},
+{
+"id": 434,
+"iPost": "news58",
+"title": "Enjoy Wearing Contact Lenses Again",
+"post": "Contact lenses allow those individuals who need vision correction the freedom to see better without the inconvenience of glasses.",
+"question": "Tap an article about wearing contact lenses",
+"isImagePost": true
+},
+{
+"id": 435,
+"iPost": "empty",
+"title": "empty",
+"post": "Do what you have to do until you can succeed.",
+"question": "Tap a user post that contains the words 'until you can succeed'",
+"isImagePost": false
+},
+{
+"id": 436,
+"iPost": "empty",
+"title": "empty",
+"post": "The man on top of the mountain didn’t fall there.",
+"question": "Tap a user post that contains the words 'The man on top of the mountain'",
+"isImagePost": false
+},
+{
+"id": 437,
+"iPost": "news59",
+"title": "This Subscription Box Helps People Do Good and Feel Good",
+"post": "In today's busy world, the convenience of products and services delivered directly to your home makes life easier.",
+"question": "Tap an article about a subscription box",
+"isImagePost": true
+},
+{
+"id": 438,
+"iPost": "news60",
+"title": "Florida Invests In Seaports, State Is Key Player in Global Marketplace",
+"post": "Summer may be over, but Florida's economy isn't cooling down.",
+"question": "Tap an article about Florida investing in seaports",
+"isImagePost": true
+},
+{
+"id": 439,
+"iPost": "empty",
+"title": "empty",
+"post": "If your dreams don’t scare you, they are not big enough.",
+"question": "Tap a user post that contains the words 'they are not big enough.'",
+"isImagePost": false
+},
+{
+"id": 440,
+"iPost": "empty",
+"title": "empty",
+"post": "If you can’t handle stress, you won’t manage success.",
+"question": "Tap a user post that contains the words 'you won’t manage success'",
+"isImagePost": false
+},
+{
+"id": 441,
+"iPost": "news81",
+"title": "Pointers for Packing the Perfect Summer Picnic",
+"post": "Whether you're planning an outdoor outing for your whole family or just a party of two, you're sure to have a great time",
+"question": "Tap an article about pointers for a summer picnic",
+"isImagePost": true
+},
+{
+"id": 442,
+"iPost": "news82",
+"title": "7 Ways to Improve Energy Efficiency",
+"post": "With Old Man Winter just around the corner, now is the time for homeowners to start considering how to make their abode more energy-efficient.",
+"question": "Tap an article about ways to improve energy efficiency",
+"isImagePost": true
+},
+{
+"id": 443,
+"iPost": "empty",
+"title": "empty",
+"post": "The secret of getting ahead is getting started.",
+"question": "Tap a user post that contains the words 'The secret of getting ahead'",
+"isImagePost": false
+},
+{
+"id": 444,
+"iPost": "empty",
+"title": "empty",
+"post": "Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.",
+"question": "Tap a user post that contains the words 'Unless someone like you'",
+"isImagePost": false
+},
+{
+"id": 445,
+"iPost": "news83",
+"title": "Go Green and Save Green with a High-Efficiency Water Heater",
+"post": "As energy costs rise, the green movement and conservation efforts have become popular topics.",
+"question": "Tap an article about going green with a water heater",
+"isImagePost": true
+},
+{
+"id": 446,
+"iPost": "news84",
+"title": "Small Town Mayor Tackles Big Challenges",
+"post": "The quest for the goats is an example of the quirky challenges facing Mayor Berry",
+"question": "Tap an article about a small town mayor",
+"isImagePost": true
+},
+{
+"id": 447,
+"iPost": "empty",
+"title": "empty",
+"post": "Whatever the mind of man can conceive and believe, it can achieve.",
+"question": "Tap a user post that contains the words 'Whatever the mind of man'",
+"isImagePost": false
+},
+{
+"id": 448,
+"iPost": "empty",
+"title": "empty",
+"post": "Whether you believe in yourself or not, you’re right.",
+"question": "Tap a user post that contains the words 'you believe in yourself or not'",
+"isImagePost": false
+},
+{
+"id": 449,
+"iPost": "news85",
+"title": "Sustained Happiness Starts from Within",
+"post": "Everybody has been happy, but the problem is they're not able to maintain it",
+"question": "Tap an article about sustained happiness",
+"isImagePost": true
+},
+{
+"id": 450,
+"iPost": "news86",
+"title": "The Uberization of America?",
+"post": "Doesn't sound as warm and fuzzy as that other sobriquet -- the sharing economy -- used to describe the Uberization of America, does it?",
+"question": "Tap an article about the 'uberization' of america",
+"isImagePost": true
+},
+{
+"id": 451,
+"iPost": "empty",
+"title": "empty",
+"post": "Appriciate your time, so don’t waste it living someone else’s life. Don’t be trapped by dogma.",
+"question": "Tap a user post that contains the words 'Appriciate your time'",
+"isImagePost": false
+},
+{
+"id": 452,
+"iPost": "empty",
+"title": "empty",
+"post": "It is not the strength of the body that counts, but the strength of the spirit.",
+"question": "Tap a user post that contains the words 'but the strength of the spirit'",
+"isImagePost": false
+},
+{
+"id": 453,
+"iPost": "news87",
+"title": "What You Don't Know About the Impact of Vision in Your Child's Life",
+"post": "Just when you are getting used to having your children home for the summer, you realize -- it's already almost time to send them back to school.",
+"question": "Tap an article about the impact of vision in children",
+"isImagePost": true
+},
+{
+"id": 454,
+"iPost": "news88",
+"title": "Understanding Your Pet's Immune System",
+"post": " In my practice, I've always used probiotics in general -; as animals need probiotics just like humans.",
+"question": "Tap an article about pet's immune system",
+"isImagePost": true
+},
+{
+"id": 455,
+"iPost": "empty",
+"title": "empty",
+"post": "Concentrate all your thoughts upon the work at hand. The sun’s rays do not burn until brought to a focus.",
+"question": "Tap a user post that contains the words 'Concentrate all your thoughts'",
+"isImagePost": false
+},
+{
+"id": 456,
+"iPost": "empty",
+"title": "empty",
+"post": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do.",
+"question": "Tap a user post that contains the words 'Knowing is not enough'",
+"isImagePost": false
+},
+{
+"id": 457,
+"iPost": "news89",
+"title": "The Best Way to Find Deals on the Internet",
+"post": "Have you ever had the problem of receiving so many deals in your email inbox that you don't have time to sift through them all?",
+"question": "Tap an article about finding the best deals",
+"isImagePost": true
+},
+{
+"id": 458,
+"iPost": "news90",
+"title": "Holiday Beers Dating Back to Antiquitys",
+"post": "With the craft beer market growing an astounding 20 percent each year, brewers are looking for more ways to stand out from the crowd.",
+"question": "Tap an article about holiday beers",
+"isImagePost": true
+},
+{
+"id": 459,
+"iPost": "empty",
+"title": "empty",
+"post": "If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward. ",
+"question": "Tap a user post that contains the words 'if you can’t run then walk'",
+"isImagePost": false
+},
+{
+"id": 460,
+"iPost": "empty",
+"title": "empty",
+"post": "Life shrinks or expands in proportion to one’s courage.",
+"question": "Tap a user post that contains the words 'Life shrinks or expands'",
+"isImagePost": false
+},
+{
+"id": 461,
+"iPost": "news111",
+"title": "Digital Streaming Versus DVD Market",
+"post": "Ask any movie studio executive if the DVD gravy train is dead...",
+"question": "Tap an article about streaming vs DVD",
+"isImagePost": true
+},
+{
+"id": 462,
+"iPost": "news112",
+"title": "Eclectic Father's Day Gift Ideas for Dad",
+"post": "What is it about Father's Day that can hang up the savviest gift giver?",
+"question": "Tap an article about father's day gift ideas",
+"isImagePost": true
+},
+{
+"id": 463,
+"iPost": "empty",
+"title": "empty",
+"post": "Make your habits so specific and your dreams so inspiring that motivation will take care of itself.",
+"question": "Tap a user post that contains the words 'Make your habits so specific'",
+"isImagePost": false
+},
+{
+"id": 464,
+"iPost": "empty",
+"title": "empty",
+"post": "Never stop being productive just because of the time it will take to accomplish it. The time will pass anyway.",
+"question": "Tap a user post that contains the words 'Never stop being productive'",
+"isImagePost": false
+},
+{
+"id": 465,
+"iPost": "news113",
+"title": "Payday for Instagram Users",
+"post": "Imagine getting paid just to post on Instagram about brands and local businesses you are interested in.",
+"question": "Tap an article about payment for instagram users",
+"isImagePost": true
+},
+{
+"id": 466,
+"iPost": "news114",
+"title": "Body Fuel: The Best Foods to Make The Most of Your Sweat Session",
+"post": "Before a Workout Eat?",
+"question": "Tap an article about the best 'body fuel' foods",
+"isImagePost": true
+},
+{
+"id": 467,
+"iPost": "empty",
+"title": "empty",
+"post": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+"question": "Tap a user post that contains the words 'You have feet in your shoes.'",
+"isImagePost": false
+},
+{
+"id": 468,
+"iPost": "empty",
+"title": "empty",
+"post": "There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self.",
+"question": "Tap a user post that contains the words 'True nobility lies in being'",
+"isImagePost": false
+},
+{
+"id": 469,
+"iPost": "news115",
+"title": "Which Redevelopments Really Pay Off?",
+"post": "If you don't care about blowing tens of thousands of dollars on upgrades that add little or nothing to your house's value",
+"question": "Tap an article about redevelopments",
+"isImagePost": true
+},
+{
+"id": 470,
+"iPost": "news116",
+"title": "Camden Preserve Offers Opportunity for Developers",
+"post": "Is developing new, high-quality land an American dream of the past?",
+"question": "Tap an article about Camden Preserve",
+"isImagePost": true
+},
+{
+"id": 471,
+"iPost": "empty",
+"title": "empty",
+"post": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+"question": "Tap a user post that contains the words 'Now is the time to understand'",
+"isImagePost": false
+},
+{
+"id": 472,
+"iPost": "empty",
+"title": "empty",
+"post": "Stop hating yourself for everything you aren’t and start loving yourself for everything you already are.",
+"question": "Tap a user post that contains the words 'Stop hating yourself'",
+"isImagePost": false
+},
+{
+"id": 473,
+"iPost": "news117",
+"title": "How to Make the Most of Your Greater Fort Lauderdale Vacation",
+"post": "Are you thinking about planning a Florida vacation?",
+"question": "Tap an article about vacation in Greater Fort Lauderdale",
+"isImagePost": true
+},
+{
+"id": 474,
+"iPost": "news118",
+"title": "Four Tips to Keep Your Kids' Teeth Healthy And Clean",
+"post": "February is National Children's Dental Health Month",
+"question": "Tap an article about keeping kids' teeth healthy and clean",
+"isImagePost": true
+},
+{
+"id": 475,
+"iPost": "empty",
+"title": "empty",
+"post": "People do not decide to become extraordinary. They decide to accomplish extraordinary things.",
+"question": "Tap a user post that contains the words 'They decide to accomplish'",
+"isImagePost": false
+},
+{
+"id": 476,
+"iPost": "empty",
+"title": "empty",
+"post": "You’ve gotta let go of that stuff from the past because it just doesn’t matter! The only thing that matters is what you choose to be now.",
+"question": "Tap a user post that contains the words 'You’ve gotta let go'",
+"isImagePost": false
+},
+{
+"id": 477,
+"iPost": "news119",
+"title": "3 Things to Know Before Ride-Booking a Car",
+"post": "If you were some innocent fleeing a terrorist attack, would you expect to be charged four times the normal cost of a car ride?",
+"question": "Tap an article about things to know before ride-booking",
+"isImagePost": true
+},
+{
+"id": 478,
+"iPost": "news120",
+"title": "When on an Association Board, Education Is a Must",
+"post": "Running a community association can be a rewarding but difficult task",
+"question": "Tap an article about education in association board",
+"isImagePost": true
+},
+{
+"id": 479,
+"iPost": "empty",
+"title": "empty",
+"post": "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.",
+"question": "Tap a user post that contains the words 'Life is a gift'",
+"isImagePost": false
+},
+{
+"id": 480,
+"iPost": "empty",
+"title": "empty",
+"post": "Successful people ask better questions, and as a result, they get better answers.",
+"question": "Tap a user post that contains the words 'they get better answers.'",
+"isImagePost": false
+},
+{
+"id": 481,
+"iPost": "news141",
+"title": "Planning Your Holiday Menu: 4 Ways to a Tasty Meal",
+"post": "'Tis the season -- time to break out the decorations, don that holiday sweater and dive into the delicious entertaining season.",
+"question": "Tap an article about a holiday meal (4 ways)",
+"isImagePost": true
+},
+{
+"id": 482,
+"iPost": "news142",
+"title": "How to Select Interior Finishings for Your Home",
+"post": "Set the stage of any space in your home.",
+"question": "Tap an article about interior finishing for home",
+"isImagePost": true
+},
+{
+"id": 483,
+"iPost": "empty",
+"title": "empty",
+"post": "I attribute my success to this: I never gave or took any excuse.",
+"question": "Tap a user post that contains the words 'I attribute my success'",
+"isImagePost": false
+},
+{
+"id": 484,
+"iPost": "empty",
+"title": "empty",
+"post": "We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.",
+"question": "Tap a user post that contains the words 'We must believe that we are'",
+"isImagePost": false
+},
+{
+"id": 485,
+"iPost": "news143",
+"title": "Solar Power Helps Homeowners Slash Energy Bills",
+"post": "Savvy consumers are turning to solar energy to beat the escalating price of electricity.",
+"question": "Tap an article about solar power",
+"isImagePost": true
+},
+{
+"id": 486,
+"iPost": "news144",
+"title": "New Television Series Pays Homage to America's Artisans",
+"post": "In the '50s and '60s, certain classes, such as home economics and woodshop, were required in most high schools.",
+"question": "Tap an article about a new television series",
+"isImagePost": true
+},
+{
+"id": 487,
+"iPost": "empty",
+"title": "empty",
+"post": "You have the power to change the course of your life with each thought, habit, and action. Make it count.",
+"question": "Tap a user post that contains the words 'Make it count.'",
+"isImagePost": false
+},
+{
+"id": 488,
+"iPost": "empty",
+"title": "empty",
+"post": "He who wishes to be rich in a day will be hanged in a year.",
+"question": "Tap a user post that contains the words 'He who wishes to be rich'",
+"isImagePost": false
+},
+{
+"id": 489,
+"iPost": "news145",
+"title": "Stem Cells, Biologics Could Be Answer to Next Generation Therapies",
+"post": "Biotech stocks tend to have their ups and downs among the investment community.",
+"question": "Tap an article about stem cells",
+"isImagePost": true
+},
+{
+"id": 490,
+"iPost": "news146",
+"title": "Dealers Make Smart Moves in Bullish Auto Market",
+"post": "Indications are rosy for U.S. auto sales now that the recession is in the rearview mirror.",
+"question": "Tap an article about auto market dealers",
+"isImagePost": true
+},
+{
+"id": 491,
+"iPost": "empty",
+"title": "empty",
+"post": "Deep down you know what you want. Deep down you have what it takes.",
+"question": "Tap a user post that contains the words 'Deep down you have what it takes'",
+"isImagePost": false
+},
+{
+"id": 492,
+"iPost": "empty",
+"title": "empty",
+"post": "If you had one shot, or one opportunity to seize everything you ever wanted in one moment. Would you capture it or just let it slip?",
+"question": "Tap a user post that contains the words 'If you had one shot'",
+"isImagePost": false
+},
+{
+"id": 493,
+"iPost": "news147",
+"title": "Educated New Year's Resolution: Going Back to College",
+"post": "If planning to finish college, make sure the school you are considering is accredited.",
+"question": "Tap an article about a new year's resolution of going to college",
+"isImagePost": true
+},
+{
+"id": 494,
+"iPost": "news148",
+"title": "5 Free Ways to Work and Collaborate",
+"post": "Software like Skype and join.me make it easy to collaborate.",
+"question": "Tap an article about 5 wats to work and collaborate",
+"isImagePost": true
+},
+{
+"id": 495,
+"iPost": "empty",
+"title": "empty",
+"post": "Create what’s possible; and suddenly you are doing the impossible.",
+"question": "Tap a user post that contains the words 'Create what’s possible'",
+"isImagePost": false
+},
+{
+"id": 496,
+"iPost": "empty",
+"title": "empty",
+"post": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+"question": "Tap a user post that contains the words 'The greatest danger for most'",
+"isImagePost": false
+},
+{
+"id": 497,
+"iPost": "news149",
+"title": "Welcome Your Holiday Guests With Inviting Lighting",
+"post": "Everyone is starting to spruce up their homes for holiday entertaining.",
+"question": "Tap an article about lighting for holday guests",
+"isImagePost": true
+},
+{
+"id": 498,
+"iPost": "news150",
+"title": "Managing Technology To Keep Mobile Workers Happy",
+"post": "Walk into any coffee shop and there you'll see them - the freelancers, hunched over their laptops at corner tables",
+"question": "Tap an article about technology for mobile workers",
+"isImagePost": true
+},
+{
+"id": 499,
+"iPost": "empty",
+"title": "empty",
+"post": "Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements.",
+"question": "Tap a user post that contains the words 'Cherish your visions'",
+"isImagePost": false
+},
+{
+"id": 500,
+"iPost": "empty",
+"title": "empty",
+"post": "I am not a product of my circumstances. I am a product of my decisions.",
+"question": "Tap a user post that contains the words 'I am a product of my decisions'",
+"isImagePost": false
+},
+{
+"id": 501,
+"iPost": "news171",
+"title": "Mobile Payment App Gives Apple Pay a Run for Its Money",
+"post": "This fall, like clockwork, Apple, Inc. will launch its iPhone 8, with yet another new operating system.",
+"question": "Tap an article about a mobile payment app",
+"isImagePost": true
+},
+{
+"id": 502,
+"iPost": "news172",
+"title": "New York Restaurateur and Chef Gets Kids Cooking",
+"post": "Some of my earliest memories are of being in the kitchen with my grandma.",
+"question": "Tap an article about a chef getting kids to cook",
+"isImagePost": true
+},
+{
+"id": 503,
+"iPost": "empty",
+"title": "empty",
+"post": "The secret of change is to focus all of your energy, not on fighting the old, but on building the new.",
+"question": "Tap a user post that contains the words 'The secret of change'",
+"isImagePost": false
+},
+{
+"id": 504,
+"iPost": "empty",
+"title": "empty",
+"post": "You have the greatness. At some point, you have to unleash the potential and make your move.",
+"question": "Tap a user post that contains the words 'You have the greatness'",
+"isImagePost": false
+},
+{
+"id": 505,
+"iPost": "news173",
+"title": "Drinking Water: An Invaluable Resource Taken for Granted",
+"post": "Drinking water goes through an extensive cleaning process before it arrives at your tap.",
+"question": "Tap an article about drinking water",
+"isImagePost": true
+},
+{
+"id": 506,
+"iPost": "news174",
+"title": "Painting Isn't Just An Art, It Can Be Fun Too",
+"post": "Rebecca Romijn's Skin Wars showcases the best of body painting.",
+"question": "Tap an article about painting being fun",
+"isImagePost": true
+},
+{
+"id": 507,
+"iPost": "empty",
+"title": "empty",
+"post": "Fifty years from now you will be more disappointed by the things you didn’t do than by the things you did.",
+"question": "Tap a user post that contains the words 'Fifty years from now'",
+"isImagePost": false
+},
+{
+"id": 508,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t be pushed around by the fears in your mind. Create, don't destroy.",
+"question": "Tap a user post that contains the words 'Create, don't destroy'",
+"isImagePost": false
+},
+{
+"id": 509,
+"iPost": "news175",
+"title": "Give Seniors a Lift With Household Chores",
+"post": "Simplify the lift of your elderly loved ones.",
+"question": "Tap an article about helping seniors with chores",
+"isImagePost": true
+},
+{
+"id": 510,
+"iPost": "news176",
+"title": "Avoid a Roadside Mayday This Summer",
+"post": "Do some summer vehicle maintenance before the annual road trip this year.",
+"question": "Tap an article about avoiding roadside mayday",
+"isImagePost": true
+},
+{
+"id": 511,
+"iPost": "empty",
+"title": "empty",
+"post": "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.",
+"question": "Tap a user post that contains the words 'I learned that courage'",
+"isImagePost": false
+},
+{
+"id": 512,
+"iPost": "empty",
+"title": "empty",
+"post": "Make your whole life be the determination you can muster, your gifts will take you places that will amaze you.",
+"question": "Tap a user post that contains the words 'Make your whole life'",
+"isImagePost": false
+},
+{
+"id": 513,
+"iPost": "news177",
+"title": "Reading Tips From the Experts",
+"post": "Practice is important to overcome gaps in reading levels.",
+"question": "Tap an article about reading tips",
+"isImagePost": true
+},
+{
+"id": 514,
+"iPost": "news178",
+"title": "Gifts That Can Change Lives",
+"post": "This year, think beyond the traditional with these unique and inspirational ideas.",
+"question": "Tap an article about gifts that change lifes",
+"isImagePost": true
+},
+{
+"id": 515,
+"iPost": "empty",
+"title": "empty",
+"post": "Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.",
+"question": "Tap a user post that contains the words 'Learn from the past'",
+"isImagePost": false
+},
+{
+"id": 516,
+"iPost": "empty",
+"title": "empty",
+"post": "Create your reality; then do what’s possible; and suddenly you are doing the impossible.",
+"question": "Tap a user post that contains the words 'Create your reality'",
+"isImagePost": false
+},
+{
+"id": 517,
+"iPost": "news179",
+"title": "Precious Metals Investing 2017: Keep an Eye on Silver",
+"post": "Precious metals experts see silver prices rising over the long term",
+"question": "Tap an article about investing in precious metals",
+"isImagePost": true
+},
+{
+"id": 518,
+"iPost": "news180",
+"title": "Snack Attack! Healthy Snacks, Happy Kids",
+"post": "California Raisin Cinnamon Fruit Roll Ups make a wholesome, hearty snack that kids will love.",
+"question": "Tap an article about healthy snatcks and happy kids",
+"isImagePost": true
+},
+{
+"id": 519,
+"iPost": "empty",
+"title": "empty",
+"post": "Limitations live only in our minds. If we overcome our minds, our possibilities become limitless.",
+"question": "Tap a user post that contains the words 'If we overcome our minds'",
+"isImagePost": false
+},
+{
+"id": 520,
+"iPost": "empty",
+"title": "empty",
+"post": "What your heart believes, and the heart desire, you can achieve.",
+"question": "Tap a user post that contains the words 'What your heart believes'",
+"isImagePost": false
+},
+{
+"id": 521,
+"iPost": "news221",
+"title": "How to Make an Impression At Holiday Parties",
+"post": "The right accessory can make your next holiday party.",
+"question": "Tap an article about making an impression at holiday parties",
+"isImagePost": true
+},
+{
+"id": 522,
+"iPost": "news222",
+"title": "Local Community Newspapers Go Digital",
+"post": "Small, local newspapers have been valued community resources across the United States for approximately 200 years",
+"question": "Tap an article about newspapers going digital",
+"isImagePost": true
+},
+{
+"id": 523,
+"iPost": "empty",
+"title": "empty",
+"post": "The greatest things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+"question": "Tap a user post that contains the words 'The greatest things in the world'",
+"isImagePost": false
+},
+{
+"id": 524,
+"iPost": "empty",
+"title": "empty",
+"post": "Success is the ability to go from one failure to another with no loss of enthusiasm.",
+"question": "Tap a user post that contains the words 'then life flows much more easily'",
+"isImagePost": false
+},
+{
+"id": 525,
+"iPost": "news223",
+"title": "Whom Does NASA Call to Recover Lost Data?",
+"post": "Data-recovery expert John Bordynuik has read tapes for MIT, Harvard and NASA, among others.",
+"question": "Tap an article about NASA recovering lost data",
+"isImagePost": true
+},
+{
+"id": 526,
+"iPost": "news224",
+"title": "Want to Take The Road Less Traveled? Here's How",
+"post": "Off-road driving on scenic, challenging trails can be fun, but it's completely different than cruising down the road",
+"question": "Tap an article about taking less traveled road",
+"isImagePost": true
+},
+{
+"id": 527,
+"iPost": "empty",
+"title": "empty",
+"post": "Strength doesn’t come from what you can do. It comes from the things you once thought you couldn’t.",
+"question": "Tap a user post that contains the words 'It comes from the things'",
+"isImagePost": false
+},
+{
+"id": 528,
+"iPost": "empty",
+"title": "empty",
+"post": "Don’t think about what might go wrong. Think about what might go right.",
+"question": "Tap a user post that contains the words 'Think about what might go right.'",
+"isImagePost": false
+},
+{
+"id": 529,
+"iPost": "news225",
+"title": "Artificial Intelligence Platform Music to Producers' Ears",
+"post": "Memphis hip-hop artist CxRD using The Music Builder.",
+"question": "Tap an article about artificial inteligence music platform",
+"isImagePost": true
+},
+{
+"id": 530,
+"iPost": "news226",
+"title": "Spicing up Cold-Weather Desserts With Spirits",
+"post": "Coconut Snowball",
+"question": "Tap an article about cold wather desserts",
+"isImagePost": true
+},
+{
+"id": 531,
+"iPost": "empty",
+"title": "empty",
+"post": "One small positive thought in the morning can change your whole day.",
+"question": "Tap a user post that contains the words 'One small positive thought'",
+"isImagePost": false
+},
+{
+"id": 532,
+"iPost": "empty",
+"title": "empty",
+"post": "Your problem isn’t the problem, it’s your attitude about the problem.",
+"question": "Tap a user post that contains the words 'Your problem isn’t the problem'",
+"isImagePost": false
+},
+{
+"id": 533,
+"iPost": "news227",
+"title": "Shake Off the Salt Habit",
+"post": "Improve your health by cooking with less salt and not adding salt to ready-to-eat foods.",
+"question": "Tap an article about stop the salt habit",
+"isImagePost": true
+},
+{
+"id": 534,
+"iPost": "news228",
+"title": "Junk Removal Company Targets Greener Techniques",
+"post": "1-800-GOT-JUNK? is taking the initiative for more environmentally friendly junk removal.",
+"question": "Tap an article about green techniques in junk removal",
+"isImagePost": true
+},
+{
+"id": 535,
+"iPost": "empty",
+"title": "empty",
+"post": "Positive thinking will let you do everything better than negative thinking will.",
+"question": "Tap a user post that contains the words 'Positive thinking'",
+"isImagePost": false
+},
+{
+"id": 536,
+"iPost": "empty",
+"title": "empty",
+"post": "Keep your face always toward the sunshine – and shadows will fall behind you.",
+"question": "Tap a user post that contains the words 'hadows will fall behind you.'",
+"isImagePost": false
+},
+{
+"id": 537,
+"iPost": "news229",
+"title": "Napa Valley Holiday Traditions from Marc Mondavi and Family",
+"post": "Janice Mondavi and her daughter Angelina Mondavi enjoy making roasts together with their family to celebrate the holiday season.",
+"question": "Tap an article about napa valley holiday traditions",
+"isImagePost": true
+},
+{
+"id": 538,
+"iPost": "news230",
+"title": "Bates Family Grows as Daughters Become Moms",
+"post": "What is it about families and reality TV that have us tuning in on a regular basis?",
+"question": "Tap an article about Bates family growing",
+"isImagePost": true
+},
+{
+"id": 539,
+"iPost": "empty",
+"title": "empty",
+"post": "Your mind is a powerful thing. When you fill it with positive thoughts, your life will start to change.",
+"question": "Tap a user post that contains the words 'Your mind is a powerful thing'",
+"isImagePost": false
+},
+{
+"id": 540,
+"iPost": "empty",
+"title": "empty",
+"post": "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+"question": "Tap a user post that contains the words 'Remember that not getting'",
+"isImagePost": false
+},
+{
+"id": 541,
+"iPost": "news231",
+"title": "Fresh PEI Mussels: The Year Round Treat",
+"post": "Mussels are a healthy and sustainable seafood option.",
+"question": "Tap an article about PEI mussels",
+"isImagePost": true
+},
+{
+"id": 542,
+"iPost": "news232",
+"title": "Award-Winning Sweet Cornbread Shrimp Cakes With Mango Salsa",
+"post": "This recipe took top honors and $5,000 at the 2012 National Cornbread Cook-Off.",
+"question": "Tap an article about sweet cornbread shrimp cakes",
+"isImagePost": true
+},
+{
+"id": 543,
+"iPost": "empty",
+"title": "empty",
+"post": "If you believe it will work out, you’ll see opportunities. If you believe it won’t, you will see obstacles.",
+"question": "Tap a user post that contains the words 'If you believe it will work out'",
+"isImagePost": false
+},
+{
+"id": 544,
+"iPost": "empty",
+"title": "empty",
+"post": "Spend more of your time on what gives you energy and less of your time on what takes it away.",
+"question": "Tap a user post that contains the words 'Spend more of your time'",
+"isImagePost": false
+},
+{
+"id": 545,
+"iPost": "news233",
+"title": "Safe Water Program Aims to Save Lives",
+"post": "Access to safe drinking water saves lives.",
+"question": "Tap an article about a safe water program",
+"isImagePost": true
+},
+{
+"id": 546,
+"iPost": "news234",
+"title": "Like Old Chicago, the Music Plays",
+"post": "DJ Lade (pictured) uses music as his creative outlet.",
+"question": "Tap an article about old chicago and music plays",
+"isImagePost": true
+},
+{
+"id": 547,
+"iPost": "empty",
+"title": "empty",
+"post": "You can’t always control what goes on outside, but you can always control what goes on inside.",
+"question": "Tap a user post that contains the words 'You can’t always control'",
+"isImagePost": false
+},
+{
+"id": 548,
+"iPost": "empty",
+"title": "empty",
+"post": "Whatever you hold in your mind on a consistent basis is exactly what you will experience in your life.",
+"question": "Tap a user post that contains the words 'Whatever you hold in your mind'",
+"isImagePost": false
+},
+{
+"id": 549,
+"iPost": "news235",
+"title": "Crowdfunding's Latest Effort: Preventing Youth Sports Injuries",
+"post": "Athletic TIPS program goes big.",
+"question": "Tap an article about crowdfunding preventing sports injuries",
+"isImagePost": true
+},
+{
+"id": 550,
+"iPost": "news236",
+"title": "Encourage Reading With Tips From Dr. Seuss",
+"post": "Read aloud to your kids, and encourage them to practice their skills by reading aloud, too.",
+"question": "Tap an article about reding tips from Dr. Seuss",
+"isImagePost": true
+},
+{
+"id": 551,
+"iPost": "empty",
+"title": "empty",
+"post": "Instead of worrying about what you cannot control, shift your energy to what you can create.",
+"question": "Tap a user post that contains the words 'Instead of worrying'",
+"isImagePost": false
+},
+{
+"id": 552,
+"iPost": "empty",
+"title": "empty",
+"post": "Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you.",
+"question": "Tap a user post that contains the words 'Optimism is a happiness magnet'",
+"isImagePost": false
+},
+{
+"id": 553,
+"iPost": "news237",
+"title": "Shopping Local Helps You And Your Community",
+"post": "Shopping at independently owned stores boosts your local economy",
+"question": "Tap an article about shopping local",
+"isImagePost": true
+},
+{
+"id": 554,
+"iPost": "news238",
+"title": "Small Wineries Find Creative Ways to Thrive",
+"post": "A real-life David and Goliath battle is brewing in California wine country, as smaller wineries fight to compete against behemoth wine companies",
+"question": "Tap an article about small wineries",
+"isImagePost": true
+},
+{
+"id": 555,
+"iPost": "empty",
+"title": "empty",
+"post": "Look for something positive in each day, even if some days you have to look a little harder.",
+"question": "Tap a user post that contains the words 'Look for something positive'",
+"isImagePost": false
+},
+{
+"id": 556,
+"iPost": "empty",
+"title": "empty",
+"post": "Whatever is worrying you right now, forget about it. Take a deep breath, stay positive and know that things will get better.",
+"question": "Tap a user post that contains the words 'Take a deep breath'",
+"isImagePost": false
+},
+{
+"id": 557,
+"iPost": "news239",
+"title": "Florida Remains Launch Pad to Space Thanks to Private Firms",
+"post": "Since the first U.S. moon landing in 1969, we have been fascinated with the mystery of space.",
+"question": "Tap an article about Florida remaining a launch pad",
+"isImagePost": true
+},
+{
+"id": 558,
+"iPost": "news240",
+"title": "Major Maryland Piano Store to Close Its Doors",
+"post": "Blame it on kids who can download music from iTunes with a swipe of a finger.",
+"question": "Tap an article about a Maryland piano store",
+"isImagePost": true
+},
+{
+"id": 559,
+"iPost": "empty",
+"title": "empty",
+"post": "It’s gonna get harder before it gets easier. But it will get better, you just gotta make it through the hard stuff first.",
+"question": "Tap a user post that contains the words 'It’s gonna get harder'",
+"isImagePost": false
+},
+{
+"id": 560,
+"iPost": "empty",
+"title": "empty",
+"post": "Everything will work out in the end. You don’t need to know how. You just have to trust that it will.",
+"question": "Tap a user post that contains the words 'You don’t need to know how.'",
+"isImagePost": false
+},
+{
+"id": 561,
+"iPost": "news281",
+"title": "Easy Ways to Make Your Media Space More Enjoyable",
+"post": "Achieve the perfect lighting to enhance your viewing experience.",
+"question": "Tap an article about ways to make your media space more enjoyable",
+"isImagePost": true
+},
+{
+"id": 562,
+"iPost": "news282",
+"title": "Coupling Finances: What All Newlyweds Should Know",
+"post": "It's a catchphrase that's been described as perhaps the first I do for newlyweds, and it's especially relevant as we head into wedding season.",
+"question": "Tap an article about couple finances",
+"isImagePost": true
+},
+{
+"id": 563,
+"iPost": "empty",
+"title": "empty",
+"post": "Hard times do not build strong people. It is during the hard times when the ‘hero’ within us is revealed.",
+"question": "Tap a user post that contains the words 'Hard times do not build'",
+"isImagePost": false
+},
+{
+"id": 564,
+"iPost": "empty",
+"title": "empty",
+"post": "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.",
+"question": "Tap a user post that contains the words 'Character cannot be developed'",
+"isImagePost": false
+},
+{
+"id": 565,
+"iPost": "news283",
+"title": "Climb Stairs Without Hurting Yourself",
+"post": "Getting Up Stairs Shouldn't Be Painful.",
+"question": "Tap an article about climbing stairs",
+"isImagePost": true
+},
+{
+"id": 566,
+"iPost": "news284",
+"title": "How Far Are Kids Willing to Go to Help Aging Parents?",
+"post": "Do your kids have your back? Apparently more so than many of you think.",
+"question": "Tap an article about kids helping aging parents",
+"isImagePost": true
+},
+{
+"id": 567,
+"iPost": "empty",
+"title": "empty",
+"post": "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.",
+"question": "Tap a user post that contains the words 'It takes 20 years'",
+"isImagePost": false
+},
+{
+"id": 568,
+"iPost": "empty",
+"title": "empty",
+"post": "Make yourself the goal and your gifts will take you places that will amaze you.",
+"question": "Tap a user post that contains the words 'Make yourself the goal'",
+"isImagePost": false
+},
+{
+"id": 569,
+"iPost": "news285",
+"title": "Millennial Travel Is on the Rise",
+"post": "Millennials are drawn to the adventure of tall ships.",
+"question": "Tap an article about millenial travel on the rise",
+"isImagePost": true
+},
+{
+"id": 570,
+"iPost": "news286",
+"title": "Choosing the Right Watch for Your Personal Style",
+"post": "Accessorize your overall look.",
+"question": "Tap an article about choosing a watch",
+"isImagePost": true
+},
+{
+"id": 571,
+"iPost": "empty",
+"title": "empty",
+"post": "Believe in yourself. You are stronger than you think, more talented than you know, and capable of more than you imagine.",
+"question": "Tap a user post that contains the words 'You are stronger than you think'",
+"isImagePost": false
+},
+{
+"id": 572,
+"iPost": "empty",
+"title": "empty",
+"post": "Strength does not come from physical capacity. It has always been within.",
+"question": "Tap a user post that contains the words 'It has always been within'",
+"isImagePost": false
+},
+{
+"id": 573,
+"iPost": "news287",
+"title": "Want to Hire a Millennial? You Can't Afford It",
+"post": "They're expensive.",
+"question": "Tap an article about hiring a millenial",
+"isImagePost": true
+},
+{
+"id": 574,
+"iPost": "news288",
+"title": "Women Face Challenges When It Comes to Health Coverage",
+"post": "Choose the right health insurance plan for you.",
+"question": "Tap an article about women challenges with health coverage",
+"isImagePost": true
+},
+{
+"id": 575,
+"iPost": "empty",
+"title": "empty",
+"post": "Life is not about waiting for the storm to pass but learning to dance in the rain.",
+"question": "Tap a user post that contains the words 'Life is not about waiting'",
+"isImagePost": false
+},
+{
+"id": 576,
+"iPost": "empty",
+"title": "empty",
+"post": "There is no greater thing you can do with your life and your work than follow your passions – in a way that serves the world and you.",
+"question": "Tap a user post that contains the words 'There is no greater thing'",
+"isImagePost": false
+},
+{
+"id": 577,
+"iPost": "news289",
+"title": "The Latest Job Benefit Helps Employees Pay Off Student Debt",
+"post": "What perk would most entice you to accept one job offer over another?",
+"question": "Tap an article about job benefits paying off student debt",
+"isImagePost": true
+},
+{
+"id": 578,
+"iPost": "news290",
+"title": "Could Egg Freezing Be Right for You?",
+"post": "These days it's popular to talk about 40 being the new 30.",
+"question": "Tap an article about egg freezing",
+"isImagePost": true
+},
+{
+"id": 579,
+"iPost": "empty",
+"title": "empty",
+"post": "Work for that feeling that you have accomplished something…Don’t waste your time on this earth without making a mark.",
+"question": "Tap a user post that contains the words 'Work for that feeling'",
+"isImagePost": false
+},
+{
+"id": 580,
+"iPost": "empty",
+"title": "empty",
+"post": "The man who says he can, and the man who says he can’t are both correct.",
+"question": "Tap a user post that contains the words 'The man who says he can'",
+"isImagePost": false
+},
+{
+"id": 581,
+"iPost": "news291",
+"title": "Getting the Best Price for Your House to Help Finance Your Retirement",
+"post": "Your house is likely your biggest financial asset.",
+"question": "Tap an article about getting the best price for your house",
+"isImagePost": true
+},
+{
+"id": 582,
+"iPost": "news292",
+"title": "Go Green on Your Grass With Electric Lawn Mowers",
+"post": "DR Pro-SP self-propelled 62V battery mower",
+"question": "Tap an article about electric lawn mowers",
+"isImagePost": true
+},
+{
+"id": 583,
+"iPost": "empty",
+"title": "empty",
+"post": "You just got to stay focused and believe in yourself and trust your own ability and judgment.",
+"question": "Tap a user post that contains the words 'You just got to stay focused'",
+"isImagePost": false
+},
+{
+"id": 584,
+"iPost": "empty",
+"title": "empty",
+"post": "The most useful tool in your belt is to do what you are afraid to do.",
+"question": "Tap a user post that contains the words 'The most useful tool in'",
+"isImagePost": false
+},
+{
+"id": 585,
+"iPost": "news293",
+"title": "How Brand Marketers Increase Loyalty and Reach",
+"post": "Did you know that advertisers spend more than $400 billion in the United States?",
+"question": "Tap an article about increasing loyalty and reach",
+"isImagePost": true
+},
+{
+"id": 586,
+"iPost": "news294",
+"title": "6 Health Tips Every Boomer and Senior Should Know Before Traveling",
+"post": "Avid travelers Marvin and Reva Mallon.",
+"question": "Tap an article about health tips for boomers and seniors",
+"isImagePost": true
+},
+{
+"id": 587,
+"iPost": "empty",
+"title": "empty",
+"post": "You don’t learn to walk by following rules. You learn by doing, and by falling over.",
+"question": "Tap a user post that contains the words 'You learn by doing'",
+"isImagePost": false
+},
+{
+"id": 588,
+"iPost": "empty",
+"title": "empty",
+"post": "The biggest issue for us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+"question": "Tap a user post that contains the words 'The biggest issue for us'",
+"isImagePost": false
+},
+{
+"id": 589,
+"iPost": "news295",
+"title": "The Man's Guide to Selecting Wedding Bands",
+"post": "Grooms, make a platinum promise on your wedding day.",
+"question": "Tap an article about wedding bands",
+"isImagePost": true
+},
+{
+"id": 590,
+"iPost": "news296",
+"title": "Discount Retailer Plans Hiring Events",
+"post": "Dollar General will be holding hundreds of job fairs nationwide.",
+"question": "Tap an article about retailer planning hiring events",
+"isImagePost": true
+},
+{
+"id": 591,
+"iPost": "empty",
+"title": "empty",
+"post": "You don’t need to be better than anyone else, you just need to be better than you used to be.",
+"question": "Tap a user post that contains the words 'You don’t need to be better'",
+"isImagePost": false
+},
+{
+"id": 592,
+"iPost": "empty",
+"title": "empty",
+"post": "Fortune always favours the brave, and never helps a man who does not help himself.",
+"question": "Tap a user post that contains the words 'Fortune always favours'",
+"isImagePost": false
+},
+{
+"id": 593,
+"iPost": "news297",
+"title": "How to Build Better, Stronger Bones in Kids",
+"post": "It's been ingrained in our heads since we were little: building strong bones is important.",
+"question": "Tap an article about stronger bones in kids",
+"isImagePost": true
+},
+{
+"id": 594,
+"iPost": "news298",
+"title": "A Primer for First-Time Homebuyers",
+"post": "Finally ready to take the plunge? Join the club.",
+"question": "Tap an article about primer for new homebuyers",
+"isImagePost": true
+},
+{
+"id": 595,
+"iPost": "empty",
+"title": "empty",
+"post": "We don’t become strong by being happy every day. We develop it by surviving difficult times and challenging adversity.",
+"question": "Tap a user post that contains the words 'We don’t become strong'",
+"isImagePost": false
+},
+{
+"id": 596,
+"iPost": "empty",
+"title": "empty",
+"post": "A real decision is measured by the fact that you’ve taken a new action. If there’s no action, you haven’t truly decided.",
+"question": "Tap a user post that contains the words 'If there’s no action'",
+"isImagePost": false
+},
+{
+"id": 597,
+"iPost": "news299",
+"title": "What the H? Rhum Finally Arrives to the Cocktail Party",
+"post": "Just as Miami has mojitos and Mexico has margaritas, so too is a French Caribbean Island.",
+"question": "Tap an article about Rhum at the cocktail party",
+"isImagePost": true
+},
+{
+"id": 598,
+"iPost": "news300",
+"title": "Home Selling: Which Fixes Are Worth It to Lure Buyers?",
+"post": "A new roof can boost your home's curb appeal.",
+"question": "Tap an article about home selling",
+"isImagePost": true
+},
+{
+"id": 599,
+"iPost": "empty",
+"title": "empty",
+"post": "When something is important enough, you do it even if the odds are not in your favour.",
+"question": "Tap a user post that contains the words 'When something is important enough'",
+"isImagePost": false
+},
+{
+"id": 600,
+"iPost": "empty",
+"title": "empty",
+"post": "I am not a product of my circumstances. I decide my future.",
+"question": "Tap a user post that contains the words 'I decide my future'",
+"isImagePost": false
+}
+]

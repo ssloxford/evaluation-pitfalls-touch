@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "question": "Count the number of horses in the following images",
+        "designation": "horse",
+        "images": ["horse1", "horse2", "horse3", "horse4", "horse5", "horse6", "horse7", "horse8", "horse9", "horse10", "horse11", "horse12", "horse13", "horse14", "horse15", "horse16", "horse17", "horse18", "horse19", "horse20"],
+        "occurances": [1,1,2,1,1,3,2,1,2,1,1,2,3,1,1,2,1,2,1,1]
+    },
+    {
+        "id": 2,
+        "question": "Count the number of cows in the following images",
+        "designation": "cow",
+        "images": ["cow1", "cow2", "cow3", "cow4", "cow5", "cow6","cow7", "cow8", "cow9", "cow10", "cow11", "cow12","cow13", "cow14", "cow15", "cow16", "cow17", "cow18", "cow19", "cow20"],
+        "occurances": [1,2,1,2,1,1,2,1,3,1,3,1,2,1,1,1,2,1,2,1]
+    },
+    {
+        "id": 3,
+        "question": "Count the number of dogs in the following images",
+        "designation": "dog",
+        "images": ["dog1", "dog2", "dog3", "dog4", "dog5", "dog6", "dog7","dog8", "dog9", "dog10", "dog11", "dog12", "dog13", "dog14","dog15", "dog16", "dog17", "dog18", "dog19", "dog20"],
+        "occurances": [1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,1,3]
+    },
+    {
+        "id": 4,
+        "question": "Count the number of cats in the following images",
+        "designation": "cat",
+        "images": ["cat1", "cat2", "cat3", "cat4", "cat5", "cat6", "cat7", "cat8", "cat9", "cat10", "cat11", "cat12", "cat13", "cat14", "cat15", "cat16","cat17", "cat18", "cat19", "cat20"],
+        "occurances": [1,1,1,1,1,1,2,2,1,1,2,2,1,1,2,1,2,1,1,2]
+    },
+    {
+        "id": 5,
+        "question": "Count the number of elephants in the following images",
+        "designation": "elephant",
+        "images": ["ele1", "ele2", "ele3", "ele4", "ele5", "ele6", "ele7", "ele8", "ele9", "ele10", "ele11", "ele12", "ele13", "ele14", "ele15","ele16", "ele17", "ele18", "ele19", "ele20"],
+        "occurances": [2,1,1,2,3,2,2,1,1,1,1,2,2,2,2,1,2,1,1,1]
+    },
+    {
+        "id": 6,
+        "question": "Count the number of giraffes in the following images",
+        "designation": "giraffe",
+        "images": ["gir1", "gir2", "gir3", "gir4", "gir5", "gir6", "gir7", "gir8", "gir9", "gir10", "gir11", "gir12","gir13", "gir14", "gir15", "gir16", "gir17", "gir18","gir19", "gir20"],
+        "occurances": [1,2,1,2,1,1,1,1,2,1,1,1,2,2,2,2,1,2,2,2]
+    },
+    {
+        "id": 7,
+        "question": "Count the number of zebras in the following images",
+        "designation": "zebra",
+        "images": ["zeb1", "zeb2", "zeb3", "zeb4", "zeb5", "zeb6", "zeb7", "zeb8", "zeb9", "zeb10", "zeb11", "zeb12", "zeb13", "zeb14", "zeb15", "zeb16", "zeb17", "zeb18", "zeb19", "zeb20"],
+        "occurances": [3,2,2,2,2,1,2,2,1,1,1,2,2,3,3,1,3,2,2,1]
+    },
+    {
+        "id": 8,
+        "question": "Count the number of bears in the following images",
+        "designation": "bear",
+        "images": ["ber1", "ber2", "ber3", "ber4", "ber5", "ber6", "ber7", "ber8", "ber9", "ber10", "ber11", "ber12", "ber13", "ber14", "ber15", "ber16", "ber17", "ber18", "ber19", "ber20"],
+        "occurances": [1,1,2,2,1,1,1,2,1,1,2,1,1,1,2,2,1,2,2,1]
+    },
+    {
+        "id": 9,
+        "question": "Count the number of sheep in the following images",
+        "designation": "sheep",
+        "images": ["shep1", "shep2", "shep3", "shep4", "shep5", "shep6", "shep7", "shep8", "shep9", "shep10", "shep11", "shep12", "shep13", "shep14", "shep15", "shep16", "shep17", "shep18", "shep19", "shep20"],
+        "occurances": [1,1,1,2,2,1,1,1,2,2,2,1,1,2,2,1,3,2,2,1]
+    },
+    {
+        "id": 10,
+        "question": "Count the number of pizzas in the following images",
+        "designation": "pizza",
+        "images": ["piz1", "piz2", "piz3", "piz4", "piz5", "piz6", "piz7", "piz8", "piz9", "piz10", "piz11", "piz12", "piz13", "piz14", "piz15", "piz16", "piz17", "piz18", "piz19", "piz20"],
+        "occurances": [1,1,2,1,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,2]
+    }
+]
