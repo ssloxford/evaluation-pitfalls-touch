@@ -2,7 +2,7 @@
 
 Artifacts for "[Common Evaluation Pitfalls in Touch-Based Authentication Systems](https://arxiv.org/)".
 
-<p align="center"><img src="https://raw.githubusercontent.com/ssloxford/seeing-red/master/images/overview.png" width="70%"></p>
+<p align="center"><img src="https://github.com/ssloxford/evaluation-pitfalls-touch/blob/main/images/overview.png" width="70%"></p>
 
 ## Data
 The data used in this paper is available on [http://example.com/](http://example.com/).
@@ -50,11 +50,11 @@ To use this repository, you will also need `docker`. Then complete the following
 1. `git clone https://github.com/ssloxford/evaluation-pitfalls-touch.git`
 2. `cd evaluation-pitfalls-touch/data`
 3. `wget https://github.com/ssloxford/short-lived-adversarial-perturbations/releases/download/usenix21/data.zip`
-    - (Optional) If you would like to generate the feature.csv yourself run `wget https://github.com/ssloxford/short-lived-adversarial-perturbations/releases/download/usenix21/data.zip` instead.
+    - (Optional) If you would like to generate the feature.csv yourself run: <br/> `wget https://github.com/ssloxford/short-lived-adversarial-perturbations/releases/download/usenix21/data.zip` instead.
 4. `unzip features.zip`
     - (Optional) `unzip data_files.zip`
 4. `cd .. && docker build -t evaluation-pitfalls-touch .`
-5. To start and connect to the docker container use `docker run -it -v $(pwd)/data:/touch/data --name evaluation-pitfalls-touch  evaluation-pitfalls-touch`
+5. To start and connect to the docker container use: <br/> `docker run -it -v $(pwd)/data:/touch/data --name evaluation-pitfalls-touch  evaluation-pitfalls-touch`
     - (Optional) `cd data && python3 feature_extraction.py && cd ..`
 6. You can now run the experiments - for instance `cd experiments && python3 p2_single_phone_model.py`
 
