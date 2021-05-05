@@ -30,8 +30,7 @@ EERS = []
 user_eer_map = {}
 
 for user in users:
-
-    if len(session_user_touches[user]) < 2:
+    if len(user_touches[user]) < 10:
         continue
 
     temp_eer_map = []
