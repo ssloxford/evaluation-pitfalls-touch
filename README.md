@@ -5,9 +5,9 @@ Artifacts for "[Common Evaluation Pitfalls in Touch-Based Authentication Systems
 <p align="center"><img src="https://github.com/ssloxford/evaluation-pitfalls-touch/blob/main/images/overview.png" width="70%"></p>
 
 ## Data
-The data used in this paper is available on [http://example.com/](http://example.com/).
+The data used in this paper is available on [ORA](https://ora.ox.ac.uk/objects/uuid:5f1abaa7-52a4-430b-9208-128d9f1832fd).
 
-The `features.zip` contains the `features.csv` which is the only file needed to recreate the experiments presented in the paper.
+The `features.zip` file contains the `features.csv` which is the only file needed to recreate the experiments presented in the paper.
 
 If you would like to perform the feature extraction yourself, the `data_files.zip` folder contains all the necessary files with the following structure:
 ```
@@ -49,8 +49,8 @@ To use this repository, you will also need `docker`. Then complete the following
 
 1. `git clone https://github.com/ssloxford/evaluation-pitfalls-touch.git`
 2. `cd evaluation-pitfalls-touch/data`
-3. `wget https://github.com/ssloxford/short-lived-adversarial-perturbations/releases/download/usenix21/data.zip`
-    - (Optional) If you would like to generate the feature.csv yourself run: <br/> `wget https://github.com/ssloxford/short-lived-adversarial-perturbations/releases/download/usenix21/data.zip` instead.
+3. `wget 'https://ora.ox.ac.uk/objects/uuid:5f1abaa7-52a4-430b-9208-128d9f1832fd/download_file?safe_filename=features.zip&type_of_work=Dataset' -O 'features.zip'`
+    - (Optional) If you would like to generate the feature.csv yourself run: <br/> `wget 'https://ora.ox.ac.uk/objects/uuid:5f1abaa7-52a4-430b-9208-128d9f1832fd/download_file?safe_filename=data_files.zip&type_of_work=Dataset' -O 'data_files.zip'` instead.
 4. `unzip features.zip`
     - (Optional) `unzip data_files.zip`
 4. `cd .. && docker build -t evaluation-pitfalls-touch .`
