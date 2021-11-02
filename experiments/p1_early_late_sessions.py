@@ -100,7 +100,7 @@ for sanitize_length in range(args.sanitize_length_min, args.sanitize_length_max 
     sanitize_length_column.extend([sanitize_length] * lusers)
 
 utils.export_csv_three_columns(
-    "../results/p1_sessions/early_late_sessions_"
+    "../results/" + args.classifier + "/p1_sessions/early_late_sessions_"
     + str(args.sanitize_length_min)
     + "_"
     + str(args.sanitize_length_max)

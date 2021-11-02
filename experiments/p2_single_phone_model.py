@@ -94,4 +94,4 @@ for result in results:
         export['unauthorized'].append(result[4])
 
 df = pd.DataFrame(export)
-df.to_csv("../results/p2_phone_models/phone_" + args.phone + ".csv", index=False)
+df.to_csv("../results/" + args.classifier + "/p2_phone_models/phone_" + args.phone + ".csv", index=False)

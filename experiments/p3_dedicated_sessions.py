@@ -77,6 +77,6 @@ for user in users:
 
 df = pd.DataFrame(results)
 if args.randomized:
-    df.to_csv("../results/p3_training_selection/dedicated_randomized_sessions.csv", index=False)
+    df.to_csv("../results/" + args.classifier + "/p3_training_selection/dedicated_randomized_sessions.csv", index=False)
 else:
-    df.to_csv("../results/p3_training_selection/dedicated_sessions.csv", index=False)
+    df.to_csv("../results/" + args.classifier + "/p3_training_selection/dedicated_sessions.csv", index=False)

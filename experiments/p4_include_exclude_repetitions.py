@@ -35,7 +35,7 @@ for random_state in range(1, 11):
     sample_size_column = []
 
     f = open(
-        "../results/p4_include_excludes/include_exclude_"
+        "../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/include_exclude_"
         + str(args.game)
         + "_"
         + str(args.direction)

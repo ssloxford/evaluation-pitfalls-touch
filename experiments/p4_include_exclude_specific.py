@@ -15,6 +15,7 @@ parser.add_argument("-dataset", default="../data/features.csv")
 parser.add_argument('-sample_size', default=400, type=int)
 parser.add_argument('-random_state', default=42, type=int) # random state for reproducability
 parser.add_argument('-jobs', default=6, type=int) # parallelization parameter   
+parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
@@ -67,9 +68,7 @@ def user_exclude_eer(user):
     X_train = scaler.fit_transform(X_train)
     X_test = scaler.transform(X_test)
 
-    clf = svm.SVC(gamma="scale")
-    clf.fit(X_train, y_train)
-    y_pred = clf.decision_function(X_test)
+    y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
     fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
     results_exclude['eer'].append(eer)
@@ -141,7 +140,7 @@ for user in subsampled_users:
     user_include_eer(user)
 
 df = pd.DataFrame(results_include)
-df.to_csv("../results/p4_include_excludes/include_" + str(args.sample_size) + ".csv", index=False)
+df.to_csv("../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/include_" + str(args.sample_size) + ".csv", index=False)
 
 df2 = pd.DataFrame(results_exclude)
-df2.to_csv("../results/p4_include_excludes/exclude_" + str(args.sample_size) + ".csv", index=False)
+df2.to_csv("../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/exclude_" + str(args.sample_size) + ".csv", index=False)

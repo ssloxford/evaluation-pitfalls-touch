@@ -92,7 +92,7 @@ for sample_size in [
         stds.append(res[1])
 
     utils.export_csv_two_columns(
-        "../results/p1_subsamples/subsample_" + str(sample_size) + "_users.csv",
+        "../results/" + args.classifier + "/p1_subsamples/subsample_" + str(sample_size) + "_users.csv",
         "eer",
         "std",
         eers,

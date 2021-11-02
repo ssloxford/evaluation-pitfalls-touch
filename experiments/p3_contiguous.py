@@ -78,4 +78,4 @@ for user in users:
     results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
 
 df = pd.DataFrame(results)
-df.to_csv("../results/p3_training_selection/contiguous.csv", index=False)
+df.to_csv("../results/" + args.classifier + "/p3_training_selection/contiguous.csv", index=False)

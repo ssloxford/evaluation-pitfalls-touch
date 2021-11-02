@@ -81,7 +81,7 @@ for aggregation_length in range(2, args.aggregation_length_max + 1):
     aggregation_length_column.extend([aggregation_length] * len(users))
 
 utils.export_csv_two_columns(
-    "../results/p5_aggregations/aggregation_2-"
+    "../results/" + args.classifier + "/p5_aggregations/aggregation_2-"
     + str(args.aggregation_length_max)
     + "_"
     + str(args.random_state)

@@ -81,12 +81,7 @@ def user_eer(sample_size):
         results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
 
     df = pd.DataFrame(results)
-    df.to_csv("../results/p2_phone_models/subsample_" + str(sample_size) + ".csv", index=False)
+    df.to_csv("../results/" + args.classifier + "/p2_phone_models/subsample_" + str(sample_size) + ".csv", index=False)
 
 for sample_size in [70, 19, 73, 50, 68, 55, 71, 34, 30]:
     user_eer(sample_size)
-
-    print(args.classifier)
-    print(sample_size)
-    print(results)
-    print("")

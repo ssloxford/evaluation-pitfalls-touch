@@ -95,7 +95,7 @@ for i in range(len(eer_swipes_pairs)):
         batch.append(1)
 
 utils.export_csv_three_columns(
-    "../results/general/swipes_count_vs_performance.csv",
+    "../results/" + args.classifier + "/general/swipes_count_vs_performance.csv",
     "eer",
     "swipes",
     "batch",

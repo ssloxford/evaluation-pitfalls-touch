@@ -83,4 +83,4 @@ for random_state in range(100):
         )
     )
 
-utils.export_csv("../results/general/unrealistic.csv", EERS)
+utils.export_csv("../results/" + args.classifier + "/general/unrealistic.csv", EERS)

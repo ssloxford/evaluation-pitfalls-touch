@@ -53,4 +53,4 @@ for user in users:
     eer = utils.calculate_eer(y_test, y_pred)
     EERS.append(eer)
 
-utils.export_csv("../results/general/per_user_eer.csv", EERS)
+utils.export_csv("../results/" + args.classifier + "/general/per_user_eer.csv", EERS)

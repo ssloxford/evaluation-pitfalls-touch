@@ -80,4 +80,4 @@ for user in users:
 
 
 df = pd.DataFrame(results)
-df.to_csv("../results/p3_training_selection/randomized.csv", index=False)
+df.to_csv("../results/" + args.classifier + "/p3_training_selection/randomized.csv", index=False)

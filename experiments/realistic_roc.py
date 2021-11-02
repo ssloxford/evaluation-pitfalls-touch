@@ -18,6 +18,7 @@ parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
+parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 (
@@ -65,9 +66,7 @@ for user in subsampled_users:
     X_train = scaler.fit_transform(X_train)
     X_test = scaler.transform(X_test)
 
-    clf = svm.SVC(gamma="scale")
-    clf.fit(X_train, y_train)
-    y_pred = clf.decision_function(X_test)
+    y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
     fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
     results['eer'].append(eer)
@@ -86,5 +85,5 @@ for user in subsampled_users:
     results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
 
 df = pd.DataFrame(results)
-df.to_csv("../results/general/realistic_roc.csv", index=False)
+df.to_csv("../results/" + args.classifier + "/general/realistic_roc.csv", index=False)
 

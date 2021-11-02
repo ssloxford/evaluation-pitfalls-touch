@@ -17,6 +17,7 @@ parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
+parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
@@ -90,4 +91,4 @@ for user in users:
 
 
 df = pd.DataFrame(results)
-df.to_csv("../results/p5_aggregations/aggregation_" + str(args.aggregation_length) + ".csv", index=False)
+df.to_csv("../results/" + args.classifier + "/p5_aggregations/aggregation_" + str(args.aggregation_length) + ".csv", index=False)

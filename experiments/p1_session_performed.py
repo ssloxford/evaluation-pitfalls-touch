@@ -68,7 +68,7 @@ for sanitize_length in range(2, 32):
     sanitize_length_column.extend([sanitize_length] * lusers)
 
 utils.export_csv_two_columns(
-    "../results/p1_sessions/sessions_performed.csv",
+    "../results/" + args.classifier + "/p1_sessions/sessions_performed.csv",
     "sanitize_length",
     "eer",
     sanitize_length_column,
