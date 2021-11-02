@@ -15,6 +15,7 @@ parser.add_argument(
     "-random_state", default=1, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
+parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
@@ -53,6 +54,12 @@ for aggregation_length in range(2, args.aggregation_length_max + 1):
         scaler = StandardScaler()
         X_train = scaler.fit_transform(X_train)
 
+        if args.classifier == "svm":
+            pass
+        elif args.classifier == "random_forest":
+            pass
+        elif args.classifier == "neural_network":
+            pass
         clf = svm.SVC(gamma="scale")
         clf.fit(X_train, y_train)
 

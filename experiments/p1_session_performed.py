@@ -11,6 +11,7 @@ parser.add_argument("-dataset", default="../data/features.csv")
 parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
+parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
@@ -58,9 +59,7 @@ for sanitize_length in range(2, 32):
         X_train = scaler.fit_transform(X_train)
         X_test = scaler.transform(X_test)
 
-        clf = svm.SVC(gamma="scale")
-        clf.fit(X_train, y_train)
-        y_pred = clf.decision_function(X_test)
+        y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
         eer = utils.calculate_eer(y_test, y_pred)
 

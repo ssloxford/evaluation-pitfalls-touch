@@ -1,12 +1,18 @@
 import random
 import pandas as pd
 import math
+import numpy as np
 
 from sklearn.metrics import accuracy_score, roc_curve
 from scipy.optimize import brentq
 from scipy.interpolate import interp1d
 from sklearn.utils import shuffle
 
+from sklearn import svm
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout, Activation, BatchNormalization
 
 def preprocessing(
     dataset_path,
@@ -71,6 +77,47 @@ def preprocessing(
             random.Random(state).shuffle(user_touches_shuffled[user])
 
     return users, user_touches, user_touches_shuffled, session_user_touches
+
+
+def classify(X_train, y_train, X_test, classifier):
+    if classifier == "svm":
+        clf = svm.SVC()
+        clf.fit(X_train, y_train)
+        y_pred = clf.decision_function(X_test)
+        return y_pred
+    elif classifier == "knn":
+        neighbors = 18
+        if len(X_train) < 18:
+            neighbors = len(X_train)
+        neigh = KNeighborsClassifier(n_neighbors=neighbors)
+        neigh.fit(X_train, y_train)
+        y_pred = neigh.predict_proba(X_test)
+        y_pred = [item[1] for item in y_pred]
+        return y_pred
+    elif classifier == "random_forest":
+        clf = RandomForestClassifier()
+        clf.fit(X_train, y_train)
+        y_pred = clf.predict_proba(X_test)
+        y_pred = [item[1] for item in y_pred]
+        return y_pred
+    elif classifier == "neural_network":
+        model = Sequential()
+        model.add(Dense(30))
+        model.add(BatchNormalization())
+        model.add(Activation('relu'))
+        model.add(Dropout(0.3))
+        model.add(Dense(30))
+        model.add(BatchNormalization())
+        model.add(Activation('relu'))
+        model.add(Dropout(0.3))
+        model.add(Dense(15))
+        model.add(BatchNormalization())
+        model.add(Activation('relu'))
+        model.add(Dense(1, activation='sigmoid'))
+        model.compile(optimizer='Adam',loss='binary_crossentropy',metrics=['accuracy'])
+        model.fit(x=np.array(X_train),y=np.array(y_train),batch_size=20,epochs=50,verbose=0)
+        y_pred = model.predict(X_test).reshape(1,-1)[0]
+        return y_pred
 
 
 def export_csv(storage_path, eers):

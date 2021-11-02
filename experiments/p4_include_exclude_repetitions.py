@@ -14,6 +14,7 @@ parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
+parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 for random_state in range(1, 11):
@@ -73,9 +74,7 @@ for random_state in range(1, 11):
             X_train = scaler.fit_transform(X_train)
             X_test = scaler.transform(X_test)
 
-            clf = svm.SVC(gamma="scale")
-            clf.fit(X_train, y_train)
-            y_pred = clf.decision_function(X_test)
+            y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
             eer = utils.calculate_eer(y_test, y_pred)
 
@@ -109,9 +108,7 @@ for random_state in range(1, 11):
                 X_train = scaler.fit_transform(X_train)
                 X_test = scaler.transform(X_test)
 
-                clf = svm.SVC(gamma="scale")
-                clf.fit(X_train, y_train)
-                y_pred = clf.decision_function(X_test)
+                y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
                 eer = utils.calculate_eer(y_test, y_pred)
                 eers.append(eer)  # EER for one of the two groups
