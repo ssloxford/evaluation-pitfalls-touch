@@ -1,6 +1,7 @@
 import statistics
 import argparse
 import utils as utils
+import pandas as pd
 import random
 import numpy as np, scipy.stats as st
 
@@ -25,12 +26,18 @@ users, user_touches, user_touches_shuffled, session_user_touches = utils.preproc
     random_state=args.random_state,
 )
 
-
 def user_eer(sample_size):
     random.shuffle(users)
     subsampled_users = users[:sample_size]
 
-    EERS = []
+    results = {
+        "eer": [],
+        "fpr": [],
+        "tpr": [],
+        "authorized": [],
+        "unauthorized": []
+    }
+
     for user in subsampled_users:
         if len(user_touches[user]) < 10:
             return
@@ -57,20 +64,27 @@ def user_eer(sample_size):
 
         y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
-        eer = utils.calculate_eer(y_test, y_pred)
-        EERS.append(eer)
+        fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
+        results['eer'].append(eer)
+        results['fpr'].append(list(np.around(fpr, 3)))
+        results['tpr'].append(list(np.around(tpr, 3)))
 
-    EERS = np.array(EERS) * 100
-    return [
-        statistics.mean(EERS),
-        statistics.stdev(EERS),
-        statistics.mean(EERS)
-        - st.t.interval(0.95, len(EERS) - 1, loc=np.mean(EERS), scale=st.sem(EERS))[0],
-    ]
+        authorized = []
+        unauthorized = []
+        for i in range(len(y_test)):
+            if y_test[i] == 0:
+                unauthorized.append(y_pred[i])
+            else:
+                authorized.append(y_pred[i])
 
+        results['authorized'].append(list(np.around(authorized, 3)))
+        results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
+
+    df = pd.DataFrame(results)
+    df.to_csv("../results/p2_phone_models/subsample_" + str(sample_size) + ".csv", index=False)
 
 for sample_size in [70, 19, 73, 50, 68, 55, 71, 34, 30]:
-    results = Parallel(n_jobs=args.jobs)([delayed(user_eer)(sample_size)])
+    user_eer(sample_size)
 
     print(args.classifier)
     print(sample_size)

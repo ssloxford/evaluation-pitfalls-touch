@@ -1,6 +1,9 @@
 import statistics
 import argparse
 import utils as utils
+import pandas as pd
+import random
+import numpy as np
 
 from sklearn import svm
 from sklearn.preprocessing import StandardScaler
@@ -8,7 +11,7 @@ from sklearn.utils import shuffle
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-dataset", default="../data/features.csv")
-parser.add_argument("-direction", default="right")  # up, down, right, left
+parser.add_argument("-direction", default="down")  # up, down, right, left
 parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
@@ -27,7 +30,13 @@ users, user_touches, user_touches_shuffled, session_user_touches = utils.preproc
     random_state=args.random_state,
 )
 
-EERS = []
+results = {
+    "eer": [],
+    "fpr": [],
+    "tpr": [],
+    "authorized": [],
+    "unauthorized": []
+}
 user_eer_map = {}
 
 for user in users:
@@ -59,7 +68,21 @@ for user in users:
 
     y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
-    eer = utils.calculate_eer(y_test, y_pred)
-    EERS.append(eer)
+    fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
+    results['eer'].append(eer)
+    results['fpr'].append(list(np.around(fpr, 3)))
+    results['tpr'].append(list(np.around(tpr, 3)))
 
-utils.export_csv("../results/general/direction_" + str(args.direction) + ".csv", EERS)
+    authorized = []
+    unauthorized = []
+    for i in range(len(y_test)):
+      if y_test[i] == 0:
+        unauthorized.append(y_pred[i])
+      else:
+        authorized.append(y_pred[i])
+
+    results['authorized'].append(list(np.around(authorized, 3)))
+    results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
+
+df = pd.DataFrame(results)
+df.to_csv("../results/general/direction_" + str(args.direction) + ".csv", index=False)

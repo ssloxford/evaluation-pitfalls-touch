@@ -1,6 +1,9 @@
 import statistics
 import argparse
 import utils as utils
+import pandas as pd
+import random
+import numpy as np
 
 from sklearn import svm
 from sklearn.preprocessing import StandardScaler
@@ -20,12 +23,15 @@ users, user_touches, user_touches_shuffled, session_user_touches = utils.preproc
     random_state=args.random_state,
 )
 
-EERS = []
-user_eer_map = {}
+results = {
+    "eer": [],
+    "fpr": [],
+    "tpr": [],
+    "authorized": [],
+    "unauthorized": []
+}
 
 for user in users:
-    session_eer = []
-
     if len(session_user_touches[user]) < 2:
         continue
 
@@ -50,10 +56,21 @@ for user in users:
 
         y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
-        eer = utils.calculate_eer(y_test, y_pred)
-        session_eer.append(eer)
+        fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
+        results['eer'].append(eer)
+        results['fpr'].append(list(np.around(fpr, 3)))
+        results['tpr'].append(list(np.around(tpr, 3)))
 
-    EERS.append(statistics.mean(session_eer))
+        authorized = []
+        unauthorized = []
+        for i in range(len(y_test)):
+            if y_test[i] == 0:
+                unauthorized.append(y_pred[i])
+            else:
+                authorized.append(y_pred[i])
 
+        results['authorized'].append(list(np.around(authorized, 3)))
+        results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
 
-utils.export_csv("../results/p3_training_selection/intra_session.csv", EERS)
+df = pd.DataFrame(results)
+df.to_csv("../results/p3_training_selection/intra_session.csv", index=False)
