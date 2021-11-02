@@ -112,6 +112,15 @@ def export_csv_three_columns(
     f.close()
 
 
+def calculate_roc(y_test, y_pred):
+    fpr, tpr, thresholds = roc_curve(y_test, y_pred)
+
+    eer = brentq(lambda x: 1.0 - x - interp1d(fpr, tpr)(x), 0.0, 1.0)
+    thresh = interp1d(fpr, thresholds)(eer)
+
+    return fpr,tpr,eer
+
+
 def calculate_eer(y_test, y_pred):
     fpr, tpr, thresholds = roc_curve(y_test, y_pred)
 

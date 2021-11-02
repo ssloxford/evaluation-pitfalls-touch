@@ -1,6 +1,9 @@
 import statistics
 import argparse
 import utils as utils
+import pandas as pd
+import random
+import numpy as np
 
 from sklearn import svm
 from sklearn.preprocessing import StandardScaler
@@ -10,7 +13,7 @@ from joblib import Parallel, delayed
 parser = argparse.ArgumentParser()
 parser.add_argument("-dataset", default="../data/features.csv")
 parser.add_argument(
-    "-phone", default="iPhone 7"
+    "-phone", default="iPhone XS Max"
 )  # "iPhone 6s Plus", "iPhone 7 Plus", "iPhone 8 Plus","iPhone 6s", "iPhone 7", "iPhone 8","iPhone X", "iPhone XS", "iPhone XS Max"
 parser.add_argument(
     "-random_state", default=42, type=int
@@ -25,8 +28,15 @@ users, user_touches, user_touches_shuffled, session_user_touches = utils.preproc
     random_state=args.random_state,
     phone=args.phone,
 )
-EERS = []
 
+
+export = {
+    "eer": [],
+    "fpr": [],
+    "tpr": [],
+    "authorized": [],
+    "unauthorized": []
+}
 
 def user_eer(user):
     if len(user_touches[user]) < 10:
@@ -56,11 +66,33 @@ def user_eer(user):
     clf.fit(X_train, y_train)
     y_pred = clf.decision_function(X_test)
 
-    eer = utils.calculate_eer(y_test, y_pred)
+    fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
+    
+    authorized = []
+    unauthorized = []
+    for i in range(len(y_test)):
+      if y_test[i] == 0:
+        unauthorized.append(y_pred[i])
+      else:
+        authorized.append(y_pred[i])
 
-    return eer
+    fpr = list(np.around(fpr, 3))
+    tpr = list(np.around(tpr, 3))
+    authorized = list(np.around(authorized, 3))
+    unauthorized = list(np.around(random.sample(unauthorized,len(authorized)), 3))
+    
+    return (eer,fpr,tpr,authorized,unauthorized)
 
 
-EERS = Parallel(n_jobs=args.jobs)([delayed(user_eer)(user) for user in users])
+results = Parallel(n_jobs=args.jobs)([delayed(user_eer)(user) for user in users])
 
-utils.export_csv("../results/p2_phone_models/phone_" + args.phone + ".csv", EERS)
+for result in results:
+    if result != None:
+        export['eer'].append(result[0])
+        export['fpr'].append(result[1])
+        export['tpr'].append(result[2])
+        export['authorized'].append(result[3])
+        export['unauthorized'].append(result[4])
+
+df = pd.DataFrame(export)
+df.to_csv("../results/p2_phone_models/phone_" + args.phone + ".csv", index=False)
