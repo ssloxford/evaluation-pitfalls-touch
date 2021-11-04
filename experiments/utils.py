@@ -2,6 +2,8 @@ import random
 import pandas as pd
 import math
 import numpy as np
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 from sklearn.metrics import accuracy_score, roc_curve
 from scipy.optimize import brentq

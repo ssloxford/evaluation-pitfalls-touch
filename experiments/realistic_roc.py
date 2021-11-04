@@ -4,6 +4,7 @@ import utils as utils
 import random
 import numpy as np
 import pandas as pd
+import os
 
 from sklearn import svm
 from sklearn.preprocessing import StandardScaler
@@ -84,6 +85,10 @@ for user in subsampled_users:
     results['authorized'].append(list(np.around(authorized, 3)))
     results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
 
+directory = "../results/" + args.classifier + "/general"
+if not os.path.exists(directory):
+    os.makedirs(directory)
+file = directory + '/realistic_roc.csv'
 df = pd.DataFrame(results)
-df.to_csv("../results/" + args.classifier + "/general/realistic_roc.csv", index=False)
+df.to_csv(file, index=False)
 
