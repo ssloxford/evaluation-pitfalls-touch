@@ -1,4 +1,4 @@
-import statistics
+import os
 import argparse
 import utils as utils
 import pandas as pd
@@ -80,8 +80,13 @@ def user_eer(sample_size):
         results['authorized'].append(list(np.around(authorized, 3)))
         results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
 
+    storage_path = "../results/" + args.classifier + "/p2_phone_models/subsample_" + str(sample_size) + ".csv"
+    directory = "/".join(storage_path.split("/")[:-1])
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
     df = pd.DataFrame(results)
-    df.to_csv("../results/" + args.classifier + "/p2_phone_models/subsample_" + str(sample_size) + ".csv", index=False)
+    df.to_csv(storage_path, index=False)
 
 for sample_size in [70, 19, 73, 50, 68, 55, 71, 34, 30]:
     user_eer(sample_size)

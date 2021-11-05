@@ -1,3 +1,4 @@
+import os
 import statistics
 import argparse
 import utils as utils
@@ -34,16 +35,12 @@ for random_state in range(1, 11):
     included_EERS = []
     sample_size_column = []
 
-    f = open(
-        "../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/include_exclude_"
-        + str(args.game)
-        + "_"
-        + str(args.direction)
-        + "_"
-        + str(random_state)
-        + ".csv",
-        "a",
-    )
+    storage_path = "../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/include_exclude_" + str(args.game) + "_" + str(args.direction) + "_" + str(random_state) + ".csv"
+    directory = "/".join(storage_path.split("/")[:-1])
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+    f = open(storage_path,"a")
     f.write("sample_size,include_eer,exclude_eer\n")
 
     for sample_size in range(10, 471, 5):

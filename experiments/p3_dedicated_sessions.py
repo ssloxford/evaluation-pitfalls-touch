@@ -1,4 +1,4 @@
-import statistics
+import os
 import argparse
 import utils as utils
 import pandas as pd
@@ -75,8 +75,16 @@ for user in users:
     results['authorized'].append(list(np.around(authorized, 3)))
     results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
 
-df = pd.DataFrame(results)
+
+
 if args.randomized:
-    df.to_csv("../results/" + args.classifier + "/p3_training_selection/dedicated_randomized_sessions.csv", index=False)
+   storage_path = "../results/" + args.classifier + "/p3_training_selection/dedicated_randomized_sessions.csv"
 else:
-    df.to_csv("../results/" + args.classifier + "/p3_training_selection/dedicated_sessions.csv", index=False)
+   storage_path = "../results/" + args.classifier + "/p3_training_selection/dedicated_sessions.csv"
+
+directory = "/".join(storage_path.split("/")[:-1])
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
+df = pd.DataFrame(results)
+df.to_csv(storage_path, index=False)

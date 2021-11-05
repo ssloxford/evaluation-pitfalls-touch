@@ -85,10 +85,11 @@ for user in subsampled_users:
     results['authorized'].append(list(np.around(authorized, 3)))
     results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
 
-directory = "../results/" + args.classifier + "/general"
+storage_path = "../results/" + args.classifier + "/general/realistic_roc.csv"
+directory = "/".join(storage_path.split("/")[:-1])
 if not os.path.exists(directory):
     os.makedirs(directory)
-file = directory + '/realistic_roc.csv'
+
 df = pd.DataFrame(results)
-df.to_csv(file, index=False)
+df.to_csv(storage_path, index=False)
 

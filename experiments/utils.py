@@ -123,6 +123,10 @@ def classify(X_train, y_train, X_test, classifier):
 
 
 def export_csv(storage_path, eers):
+    directory = "/".join(storage_path.split("/")[:-1])
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
     f = open(storage_path, "w")
     f.write("eer\n")
 
@@ -134,6 +138,10 @@ def export_csv(storage_path, eers):
 
 
 def export_csv_two_columns(storage_path, column_1, column_2, eers_1, eers_2):
+    directory = "/".join(storage_path.split("/")[:-1])
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
     f = open(storage_path, "w")
     f.write(column_1 + "," + column_2 + "\n")
 
@@ -147,6 +155,10 @@ def export_csv_two_columns(storage_path, column_1, column_2, eers_1, eers_2):
 def export_csv_three_columns(
     storage_path, column_1, column_2, column_3, eers_1, eers_2, eers_3
 ):
+    directory = "/".join(storage_path.split("/")[:-1])
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
     f = open(storage_path, "w")
     f.write(column_1 + "," + column_2 + "," + column_3 + "\n")
 

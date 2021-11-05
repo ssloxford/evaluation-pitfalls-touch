@@ -1,4 +1,4 @@
-import statistics
+import os
 import argparse
 import utils as utils
 import pandas as pd
@@ -93,5 +93,11 @@ for result in results:
         export['authorized'].append(result[3])
         export['unauthorized'].append(result[4])
 
+
+storage_path = "../results/" + args.classifier + "/p2_phone_models/phone_" + args.phone + ".csv"
+directory = "/".join(storage_path.split("/")[:-1])
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
 df = pd.DataFrame(export)
-df.to_csv("../results/" + args.classifier + "/p2_phone_models/phone_" + args.phone + ".csv", index=False)
+df.to_csv(storage_path, index=False)

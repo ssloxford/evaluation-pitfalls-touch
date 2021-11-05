@@ -1,4 +1,4 @@
-import statistics
+import os
 import argparse
 import utils as utils
 import pandas as pd
@@ -139,8 +139,18 @@ for user in subsampled_users:
     user_exclude_eer(user)
     user_include_eer(user)
 
+storage_path_include = "../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/include_" + str(args.sample_size) + ".csv"
+directory = "/".join(storage_path_include.split("/")[:-1])
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
 df = pd.DataFrame(results_include)
-df.to_csv("../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/include_" + str(args.sample_size) + ".csv", index=False)
+df.to_csv(storage_path_include, index=False)
+
+storage_path_exclude = "../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/exclude_" + str(args.sample_size) + ".csv"
+directory = "/".join(storage_path_exclude.split("/")[:-1])
+if not os.path.exists(directory):
+    os.makedirs(directory)
 
 df2 = pd.DataFrame(results_exclude)
-df2.to_csv("../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/exclude_" + str(args.sample_size) + ".csv", index=False)
+df2.to_csv(storage_path_exclude, index=False)

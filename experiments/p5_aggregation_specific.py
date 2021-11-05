@@ -4,6 +4,7 @@ import utils as utils
 import numpy as np
 import pandas as pd
 import random
+import os
 
 from sklearn import svm
 from sklearn.preprocessing import StandardScaler
@@ -89,6 +90,10 @@ def user_eer(user, aggregation_length_user):
 for user in users:
     user_eer(user, args.aggregation_length)
 
+storage_path = "../results/" + args.classifier + "/p5_aggregations/aggregation_" + str(args.aggregation_length) + ".csv"
+directory = "/".join(storage_path.split("/")[:-1])
+if not os.path.exists(directory):
+    os.makedirs(directory)
 
 df = pd.DataFrame(results)
-df.to_csv("../results/" + args.classifier + "/p5_aggregations/aggregation_" + str(args.aggregation_length) + ".csv", index=False)
+df.to_csv(storage_path, index=False)
