@@ -4,7 +4,6 @@ FROM ubuntu:20.04
 ARG DEBIAN_FRONTEND=noninteractive
 
 COPY experiments /touch/experiments
-COPY results /touch/results
 
 WORKDIR /touch
 
