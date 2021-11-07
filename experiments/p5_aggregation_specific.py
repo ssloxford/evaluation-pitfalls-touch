@@ -10,6 +10,10 @@ from sklearn import svm
 from sklearn.preprocessing import StandardScaler
 from sklearn.utils import shuffle
 from joblib import Parallel, delayed
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.neighbors import KNeighborsClassifier
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout, Activation, BatchNormalization
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-dataset", default="../data/features.csv")
@@ -61,15 +65,65 @@ def user_eer(user, aggregation_length_user):
     scaler = StandardScaler()
     X_train = scaler.fit_transform(X_train)
 
-    clf = svm.SVC(gamma="scale")
-    clf.fit(X_train, y_train)
+    if args.classifier == "svm":
+        clf = svm.SVC(gamma="scale")
+        clf.fit(X_train, y_train)
 
-    y_pred = []
+        y_pred = []
 
-    for i in range(len(X_test)):
-        y_pred_aggregation = clf.decision_function(scaler.transform(X_test[i]))
+        for i in range(len(X_test)):
+            y_pred_aggregation = clf.decision_function(scaler.transform(X_test[i]))
 
-        y_pred.append(statistics.mean(y_pred_aggregation))
+            y_pred.append(statistics.mean(y_pred_aggregation))
+    elif args.classifier == "random_forest":
+        clf = RandomForestClassifier()
+        clf.fit(X_train, y_train)          
+
+        y_pred = []
+
+        for i in range(len(X_test)):
+            y_pred_aggregation = clf.predict_proba(scaler.transform(X_test[i]))
+            y_pred_aggregation = [item[1] for item in y_pred_aggregation]
+
+            y_pred.append(statistics.mean(y_pred_aggregation))
+    elif args.classifier == "neural_network":
+        model = Sequential()
+        model.add(Dense(30))
+        model.add(BatchNormalization())
+        model.add(Activation('relu'))
+        model.add(Dropout(0.3))
+        model.add(Dense(30))
+        model.add(BatchNormalization())
+        model.add(Activation('relu'))
+        model.add(Dropout(0.3))
+        model.add(Dense(15))
+        model.add(BatchNormalization())
+        model.add(Activation('relu'))
+        model.add(Dense(1, activation='sigmoid'))
+        model.compile(optimizer='Adam',loss='binary_crossentropy',metrics=['accuracy'])
+        model.fit(x=np.array(X_train),y=np.array(y_train),batch_size=20,epochs=50,verbose=0)
+        
+        y_pred = []
+
+        for i in range(len(X_test)):
+            y_pred_aggregation = model.predict(scaler.transform(X_test[i])).reshape(1,-1)[0]
+
+            y_pred.append(statistics.mean(y_pred_aggregation))
+
+    elif args.classifier == "knn":
+        neighbors = 18
+        if len(X_train) < 18:
+            neighbors = len(X_train)
+        neigh = KNeighborsClassifier(n_neighbors=neighbors)
+        neigh.fit(X_train, y_train)
+
+        y_pred = []
+        
+        for i in range(len(X_test)):
+            y_pred_aggregation = neigh.predict_proba(scaler.transform(X_test[i]))
+            y_pred_aggregation = [item[1] for item in y_pred_aggregation]
+
+            y_pred.append(statistics.mean(y_pred_aggregation))
 
     fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
     results['eer'].append(eer)
