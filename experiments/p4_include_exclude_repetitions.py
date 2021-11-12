@@ -35,7 +35,7 @@ for random_state in range(1, 11):
     included_EERS = []
     sample_size_column = []
 
-    storage_path = "../results/" + args.classifier + "/" + args.classifier + "/p4_include_excludes/include_exclude_" + str(args.game) + "_" + str(args.direction) + "_" + str(random_state) + ".csv"
+    storage_path = "../results/" + args.classifier + "/p4_include_excludes/include_exclude_" + str(args.game) + "_" + str(args.direction) + "_" + str(random_state) + ".csv"
     directory = "/".join(storage_path.split("/")[:-1])
     if not os.path.exists(directory):
         os.makedirs(directory)
