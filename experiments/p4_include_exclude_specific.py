@@ -139,7 +139,7 @@ for user in subsampled_users:
     user_exclude_eer(user)
     user_include_eer(user)
 
-storage_path_include = "../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/include_" + str(args.sample_size) + ".csv"
+storage_path_include = "../results/" + args.classifier + "/" + args.classifier + "/p4_include_excludes/include_" + str(args.sample_size) + ".csv"
 directory = "/".join(storage_path_include.split("/")[:-1])
 if not os.path.exists(directory):
     os.makedirs(directory)
@@ -147,7 +147,7 @@ if not os.path.exists(directory):
 df = pd.DataFrame(results_include)
 df.to_csv(storage_path_include, index=False)
 
-storage_path_exclude = "../" + args.classifier + "/results/" + args.classifier + "/p4_include_excludes/exclude_" + str(args.sample_size) + ".csv"
+storage_path_exclude = "../results/" + args.classifier + "/" + args.classifier + "/p4_include_excludes/exclude_" + str(args.sample_size) + ".csv"
 directory = "/".join(storage_path_exclude.split("/")[:-1])
 if not os.path.exists(directory):
     os.makedirs(directory)
