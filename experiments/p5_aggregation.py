@@ -19,7 +19,9 @@ parser.add_argument(
     "-random_state", default=1, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
-parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
+parser.add_argument(
+    "-classifier", default="svm"
+)  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
@@ -70,7 +72,7 @@ for aggregation_length in range(2, args.aggregation_length_max + 1):
                 y_pred.append(statistics.mean(y_pred_aggregation))
         elif args.classifier == "random_forest":
             clf = RandomForestClassifier()
-            clf.fit(X_train, y_train)          
+            clf.fit(X_train, y_train)
 
             y_pred = []
 
@@ -83,23 +85,33 @@ for aggregation_length in range(2, args.aggregation_length_max + 1):
             model = Sequential()
             model.add(Dense(30))
             model.add(BatchNormalization())
-            model.add(Activation('relu'))
+            model.add(Activation("relu"))
             model.add(Dropout(0.3))
             model.add(Dense(30))
             model.add(BatchNormalization())
-            model.add(Activation('relu'))
+            model.add(Activation("relu"))
             model.add(Dropout(0.3))
             model.add(Dense(15))
             model.add(BatchNormalization())
-            model.add(Activation('relu'))
-            model.add(Dense(1, activation='sigmoid'))
-            model.compile(optimizer='Adam',loss='binary_crossentropy',metrics=['accuracy'])
-            model.fit(x=np.array(X_train),y=np.array(y_train),batch_size=20,epochs=50,verbose=0)
-            
+            model.add(Activation("relu"))
+            model.add(Dense(1, activation="sigmoid"))
+            model.compile(
+                optimizer="Adam", loss="binary_crossentropy", metrics=["accuracy"]
+            )
+            model.fit(
+                x=np.array(X_train),
+                y=np.array(y_train),
+                batch_size=20,
+                epochs=50,
+                verbose=0,
+            )
+
             y_pred = []
 
             for i in range(len(X_test)):
-                y_pred_aggregation = model.predict(scaler.transform(X_test[i])).reshape(1,-1)[0]
+                y_pred_aggregation = model.predict(scaler.transform(X_test[i])).reshape(
+                    1, -1
+                )[0]
 
                 y_pred.append(statistics.mean(y_pred_aggregation))
 
@@ -111,13 +123,12 @@ for aggregation_length in range(2, args.aggregation_length_max + 1):
             neigh.fit(X_train, y_train)
 
             y_pred = []
-            
+
             for i in range(len(X_test)):
                 y_pred_aggregation = neigh.predict_proba(scaler.transform(X_test[i]))
                 y_pred_aggregation = [item[1] for item in y_pred_aggregation]
 
                 y_pred.append(statistics.mean(y_pred_aggregation))
-        
 
         eer = utils.calculate_eer(y_test, y_pred)
         return eer
@@ -130,7 +141,9 @@ for aggregation_length in range(2, args.aggregation_length_max + 1):
     aggregation_length_column.extend([aggregation_length] * len(users))
 
 utils.export_csv_two_columns(
-    "../results/" + args.classifier + "/p5_aggregations/aggregation_2-"
+    "../results/"
+    + args.classifier
+    + "/p5_aggregations/aggregation_2-"
     + str(args.aggregation_length_max)
     + "_"
     + str(args.random_state)

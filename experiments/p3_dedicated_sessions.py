@@ -16,7 +16,9 @@ parser.add_argument(
 parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
-parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
+parser.add_argument(
+    "-classifier", default="svm"
+)  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
@@ -26,13 +28,7 @@ users, user_touches, user_touches_shuffled, session_user_touches = utils.preproc
     random_state=args.random_state,
 )
 
-results = {
-    "eer": [],
-    "fpr": [],
-    "tpr": [],
-    "authorized": [],
-    "unauthorized": []
-}
+results = {"eer": [], "fpr": [], "tpr": [], "authorized": [], "unauthorized": []}
 
 for user in users:
     # At least 2 measurments are needed
@@ -59,28 +55,37 @@ for user in users:
 
     y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
-    fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
-    results['eer'].append(eer)
-    results['fpr'].append(list(np.around(fpr, 3)))
-    results['tpr'].append(list(np.around(tpr, 3)))
+    fpr, tpr, eer = utils.calculate_roc(y_test, y_pred)
+    results["eer"].append(eer)
+    results["fpr"].append(list(np.around(fpr, 3)))
+    results["tpr"].append(list(np.around(tpr, 3)))
 
     authorized = []
     unauthorized = []
     for i in range(len(y_test)):
-      if y_test[i] == 0:
-        unauthorized.append(y_pred[i])
-      else:
-        authorized.append(y_pred[i])
+        if y_test[i] == 0:
+            unauthorized.append(y_pred[i])
+        else:
+            authorized.append(y_pred[i])
 
-    results['authorized'].append(list(np.around(authorized, 3)))
-    results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
-
+    results["authorized"].append(list(np.around(authorized, 3)))
+    results["unauthorized"].append(
+        list(np.around(random.sample(unauthorized, len(authorized)), 3))
+    )
 
 
 if args.randomized:
-   storage_path = "../results/" + args.classifier + "/p3_training_selection/dedicated_randomized_sessions.csv"
+    storage_path = (
+        "../results/"
+        + args.classifier
+        + "/p3_training_selection/dedicated_randomized_sessions.csv"
+    )
 else:
-   storage_path = "../results/" + args.classifier + "/p3_training_selection/dedicated_sessions.csv"
+    storage_path = (
+        "../results/"
+        + args.classifier
+        + "/p3_training_selection/dedicated_sessions.csv"
+    )
 
 directory = "/".join(storage_path.split("/")[:-1])
 if not os.path.exists(directory):

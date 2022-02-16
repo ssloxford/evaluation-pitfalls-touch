@@ -3,7 +3,8 @@ import pandas as pd
 import math
 import numpy as np
 import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
 from sklearn.metrics import accuracy_score, roc_curve
 from scipy.optimize import brentq
@@ -15,6 +16,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, Activation, BatchNormalization
+
 
 def preprocessing(
     dataset_path,
@@ -106,19 +108,27 @@ def classify(X_train, y_train, X_test, classifier):
         model = Sequential()
         model.add(Dense(30))
         model.add(BatchNormalization())
-        model.add(Activation('relu'))
+        model.add(Activation("relu"))
         model.add(Dropout(0.3))
         model.add(Dense(30))
         model.add(BatchNormalization())
-        model.add(Activation('relu'))
+        model.add(Activation("relu"))
         model.add(Dropout(0.3))
         model.add(Dense(15))
         model.add(BatchNormalization())
-        model.add(Activation('relu'))
-        model.add(Dense(1, activation='sigmoid'))
-        model.compile(optimizer='Adam',loss='binary_crossentropy',metrics=['accuracy'])
-        model.fit(x=np.array(X_train),y=np.array(y_train),batch_size=20,epochs=50,verbose=0)
-        y_pred = model.predict(X_test).reshape(1,-1)[0]
+        model.add(Activation("relu"))
+        model.add(Dense(1, activation="sigmoid"))
+        model.compile(
+            optimizer="Adam", loss="binary_crossentropy", metrics=["accuracy"]
+        )
+        model.fit(
+            x=np.array(X_train),
+            y=np.array(y_train),
+            batch_size=20,
+            epochs=50,
+            verbose=0,
+        )
+        y_pred = model.predict(X_test).reshape(1, -1)[0]
         return y_pred
 
 
@@ -179,7 +189,7 @@ def calculate_roc(y_test, y_pred):
     eer = brentq(lambda x: 1.0 - x - interp1d(fpr, tpr)(x), 0.0, 1.0)
     thresh = interp1d(fpr, thresholds)(eer)
 
-    return fpr,tpr,eer
+    return fpr, tpr, eer
 
 
 def calculate_eer(y_test, y_pred):

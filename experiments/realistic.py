@@ -16,7 +16,9 @@ parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
-parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
+parser.add_argument(
+    "-classifier", default="svm"
+)  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 EERS = []

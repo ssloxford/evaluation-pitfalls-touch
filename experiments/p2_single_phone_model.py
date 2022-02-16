@@ -19,7 +19,9 @@ parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
-parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
+parser.add_argument(
+    "-classifier", default="svm"
+)  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
@@ -31,13 +33,8 @@ users, user_touches, user_touches_shuffled, session_user_touches = utils.preproc
 )
 
 
-export = {
-    "eer": [],
-    "fpr": [],
-    "tpr": [],
-    "authorized": [],
-    "unauthorized": []
-}
+export = {"eer": [], "fpr": [], "tpr": [], "authorized": [], "unauthorized": []}
+
 
 def user_eer(user):
     if len(user_touches[user]) < 10:
@@ -65,36 +62,38 @@ def user_eer(user):
 
     y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
-    fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
-    
+    fpr, tpr, eer = utils.calculate_roc(y_test, y_pred)
+
     authorized = []
     unauthorized = []
     for i in range(len(y_test)):
-      if y_test[i] == 0:
-        unauthorized.append(y_pred[i])
-      else:
-        authorized.append(y_pred[i])
+        if y_test[i] == 0:
+            unauthorized.append(y_pred[i])
+        else:
+            authorized.append(y_pred[i])
 
     fpr = list(np.around(fpr, 3))
     tpr = list(np.around(tpr, 3))
     authorized = list(np.around(authorized, 3))
-    unauthorized = list(np.around(random.sample(unauthorized,len(authorized)), 3))
-    
-    return (eer,fpr,tpr,authorized,unauthorized)
+    unauthorized = list(np.around(random.sample(unauthorized, len(authorized)), 3))
+
+    return (eer, fpr, tpr, authorized, unauthorized)
 
 
 results = Parallel(n_jobs=args.jobs)([delayed(user_eer)(user) for user in users])
 
 for result in results:
     if result != None:
-        export['eer'].append(result[0])
-        export['fpr'].append(result[1])
-        export['tpr'].append(result[2])
-        export['authorized'].append(result[3])
-        export['unauthorized'].append(result[4])
+        export["eer"].append(result[0])
+        export["fpr"].append(result[1])
+        export["tpr"].append(result[2])
+        export["authorized"].append(result[3])
+        export["unauthorized"].append(result[4])
 
 
-storage_path = "../results/" + args.classifier + "/p2_phone_models/phone_" + args.phone + ".csv"
+storage_path = (
+    "../results/" + args.classifier + "/p2_phone_models/phone_" + args.phone + ".csv"
+)
 directory = "/".join(storage_path.split("/")[:-1])
 if not os.path.exists(directory):
     os.makedirs(directory)

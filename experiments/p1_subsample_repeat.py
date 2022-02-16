@@ -15,7 +15,9 @@ parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
-parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
+parser.add_argument(
+    "-classifier", default="svm"
+)  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
@@ -92,7 +94,11 @@ for sample_size in [
         stds.append(res[1])
 
     utils.export_csv_two_columns(
-        "../results/" + args.classifier + "/p1_subsamples/subsample_" + str(sample_size) + "_users.csv",
+        "../results/"
+        + args.classifier
+        + "/p1_subsamples/subsample_"
+        + str(sample_size)
+        + "_users.csv",
         "eer",
         "std",
         eers,

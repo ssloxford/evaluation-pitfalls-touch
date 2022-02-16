@@ -17,7 +17,9 @@ parser.add_argument("-dataset", default="../data/features.csv")
 parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
-parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
+parser.add_argument(
+    "-classifier", default="svm"
+)  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 iphone_to_class = {

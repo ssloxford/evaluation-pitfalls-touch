@@ -22,23 +22,20 @@ parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
-parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
+parser.add_argument(
+    "-classifier", default="svm"
+)  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 users, user_touches, user_touches_shuffled, session_user_touches = utils.preprocessing(
     dataset_path=args.dataset,
-    game="swipe", 
-    direction="left", 
+    game="swipe",
+    direction="left",
     random_state=args.random_state,
 )
 
-results = {
-    "eer": [],
-    "fpr": [],
-    "tpr": [],
-    "authorized": [],
-    "unauthorized": []
-}
+results = {"eer": [], "fpr": [], "tpr": [], "authorized": [], "unauthorized": []}
+
 
 def user_eer(user, aggregation_length_user):
 
@@ -77,7 +74,7 @@ def user_eer(user, aggregation_length_user):
             y_pred.append(statistics.mean(y_pred_aggregation))
     elif args.classifier == "random_forest":
         clf = RandomForestClassifier()
-        clf.fit(X_train, y_train)          
+        clf.fit(X_train, y_train)
 
         y_pred = []
 
@@ -90,23 +87,33 @@ def user_eer(user, aggregation_length_user):
         model = Sequential()
         model.add(Dense(30))
         model.add(BatchNormalization())
-        model.add(Activation('relu'))
+        model.add(Activation("relu"))
         model.add(Dropout(0.3))
         model.add(Dense(30))
         model.add(BatchNormalization())
-        model.add(Activation('relu'))
+        model.add(Activation("relu"))
         model.add(Dropout(0.3))
         model.add(Dense(15))
         model.add(BatchNormalization())
-        model.add(Activation('relu'))
-        model.add(Dense(1, activation='sigmoid'))
-        model.compile(optimizer='Adam',loss='binary_crossentropy',metrics=['accuracy'])
-        model.fit(x=np.array(X_train),y=np.array(y_train),batch_size=20,epochs=50,verbose=0)
-        
+        model.add(Activation("relu"))
+        model.add(Dense(1, activation="sigmoid"))
+        model.compile(
+            optimizer="Adam", loss="binary_crossentropy", metrics=["accuracy"]
+        )
+        model.fit(
+            x=np.array(X_train),
+            y=np.array(y_train),
+            batch_size=20,
+            epochs=50,
+            verbose=0,
+        )
+
         y_pred = []
 
         for i in range(len(X_test)):
-            y_pred_aggregation = model.predict(scaler.transform(X_test[i])).reshape(1,-1)[0]
+            y_pred_aggregation = model.predict(scaler.transform(X_test[i])).reshape(
+                1, -1
+            )[0]
 
             y_pred.append(statistics.mean(y_pred_aggregation))
 
@@ -118,17 +125,17 @@ def user_eer(user, aggregation_length_user):
         neigh.fit(X_train, y_train)
 
         y_pred = []
-        
+
         for i in range(len(X_test)):
             y_pred_aggregation = neigh.predict_proba(scaler.transform(X_test[i]))
             y_pred_aggregation = [item[1] for item in y_pred_aggregation]
 
             y_pred.append(statistics.mean(y_pred_aggregation))
 
-    fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
-    results['eer'].append(eer)
-    results['fpr'].append(list(np.around(fpr, 3)))
-    results['tpr'].append(list(np.around(tpr, 3)))
+    fpr, tpr, eer = utils.calculate_roc(y_test, y_pred)
+    results["eer"].append(eer)
+    results["fpr"].append(list(np.around(fpr, 3)))
+    results["tpr"].append(list(np.around(tpr, 3)))
 
     authorized = []
     unauthorized = []
@@ -138,13 +145,22 @@ def user_eer(user, aggregation_length_user):
         else:
             authorized.append(y_pred[i])
 
-    results['authorized'].append(list(np.around(authorized, 3)))
-    results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
+    results["authorized"].append(list(np.around(authorized, 3)))
+    results["unauthorized"].append(
+        list(np.around(random.sample(unauthorized, len(authorized)), 3))
+    )
+
 
 for user in users:
     user_eer(user, args.aggregation_length)
 
-storage_path = "../results/" + args.classifier + "/p5_aggregations/aggregation_" + str(args.aggregation_length) + ".csv"
+storage_path = (
+    "../results/"
+    + args.classifier
+    + "/p5_aggregations/aggregation_"
+    + str(args.aggregation_length)
+    + ".csv"
+)
 directory = "/".join(storage_path.split("/")[:-1])
 if not os.path.exists(directory):
     os.makedirs(directory)

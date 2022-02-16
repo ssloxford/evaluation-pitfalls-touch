@@ -10,7 +10,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-dataset", default="../data/features.csv")
 parser.add_argument("-sanitize_length_min", default=3, type=int)
 parser.add_argument("-sanitize_length_max", default=15, type=int)
-parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
+parser.add_argument(
+    "-classifier", default="svm"
+)  # classifier svm, random_forest, neural_network, knn
 parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
@@ -100,7 +102,9 @@ for sanitize_length in range(args.sanitize_length_min, args.sanitize_length_max 
     sanitize_length_column.extend([sanitize_length] * lusers)
 
 utils.export_csv_three_columns(
-    "../results/" + args.classifier + "/p1_sessions/early_late_sessions_"
+    "../results/"
+    + args.classifier
+    + "/p1_sessions/early_late_sessions_"
     + str(args.sanitize_length_min)
     + "_"
     + str(args.sanitize_length_max)

@@ -18,7 +18,9 @@ parser.add_argument(
     "-random_state", default=42, type=int
 )  # random state for reproducability
 parser.add_argument("-jobs", default=6, type=int)  # parallelization parameter
-parser.add_argument("-classifier", default="svm")  # classifier svm, random_forest, neural_network, knn
+parser.add_argument(
+    "-classifier", default="svm"
+)  # classifier svm, random_forest, neural_network, knn
 args = parser.parse_args()
 
 (
@@ -33,13 +35,7 @@ args = parser.parse_args()
     random_state=args.random_state,
 )
 
-results = {
-    "eer": [],
-    "fpr": [],
-    "tpr": [],
-    "authorized": [],
-    "unauthorized": []
-}
+results = {"eer": [], "fpr": [], "tpr": [], "authorized": [], "unauthorized": []}
 
 random.Random(args.random_state).shuffle(users)
 subsampled_users = users[: args.sample_size]
@@ -53,7 +49,6 @@ for user in subsampled_users:
     users_copy.remove(user)
     user_groups = utils.partition_list(users_copy)
 
-    
     for user_group in user_groups:
         (
             X_train,
@@ -74,10 +69,10 @@ for user in subsampled_users:
 
         y_pred = utils.classify(X_train, y_train, X_test, classifier=args.classifier)
 
-        fpr,tpr,eer = utils.calculate_roc(y_test, y_pred)
-        results['eer'].append(eer)
-        results['fpr'].append(list(np.around(fpr, 3)))
-        results['tpr'].append(list(np.around(tpr, 3)))
+        fpr, tpr, eer = utils.calculate_roc(y_test, y_pred)
+        results["eer"].append(eer)
+        results["fpr"].append(list(np.around(fpr, 3)))
+        results["tpr"].append(list(np.around(tpr, 3)))
 
         authorized = []
         unauthorized = []
@@ -87,8 +82,10 @@ for user in subsampled_users:
             else:
                 authorized.append(y_pred[i])
 
-        results['authorized'].append(list(np.around(authorized, 3)))
-        results['unauthorized'].append(list(np.around(random.sample(unauthorized,len(authorized)), 3)))
+        results["authorized"].append(list(np.around(authorized, 3)))
+        results["unauthorized"].append(
+            list(np.around(random.sample(unauthorized, len(authorized)), 3))
+        )
 
 storage_path = "../results/" + args.classifier + "/general/unrealistic_roc.csv"
 directory = "/".join(storage_path.split("/")[:-1])
@@ -97,4 +94,3 @@ if not os.path.exists(directory):
 
 df = pd.DataFrame(results)
 df.to_csv(storage_path, index=False)
-
