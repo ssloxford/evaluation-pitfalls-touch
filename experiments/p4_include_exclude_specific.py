@@ -104,7 +104,6 @@ def user_include_eer(user):
     users_copy.remove(user)
     user_groups = utils.partition_list(users_copy)
 
-    eers = []
     for user_group in user_groups:
         (
             X_train,
