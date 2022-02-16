@@ -1,8 +1,7 @@
 import argparse
 import csv
-import statistics
 from collections import defaultdict
-from datetime import date, datetime
+from datetime import datetime
 
 import utils as utils
 from joblib import Parallel, delayed

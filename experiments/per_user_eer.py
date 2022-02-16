@@ -1,5 +1,4 @@
 import argparse
-import statistics
 
 import utils as utils
 from sklearn import svm

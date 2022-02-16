@@ -1,6 +1,5 @@
 import argparse
 import random
-import statistics
 from pprint import pprint
 
 import matplotlib.pyplot as plt

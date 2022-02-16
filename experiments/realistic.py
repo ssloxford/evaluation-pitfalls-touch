@@ -1,7 +1,6 @@
 import argparse
 import random
 import statistics
-from pprint import pprint
 
 import utils as utils
 from joblib import Parallel, delayed
