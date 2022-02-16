@@ -1,7 +1,7 @@
-import statistics
 import argparse
-import utils as utils
+import statistics
 
+import utils as utils
 from sklearn import svm
 from sklearn.preprocessing import StandardScaler
 from sklearn.utils import shuffle

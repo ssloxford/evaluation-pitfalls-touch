@@ -1,16 +1,16 @@
+import argparse
 import random
 import statistics
-import argparse
-import pandas as pd
+from pprint import pprint
+
 import matplotlib.pyplot as plt
 import numpy as np
-
-from pprint import pprint
+import pandas as pd
 from sklearn import svm
+from sklearn.metrics import (accuracy_score, balanced_accuracy_score,
+                             plot_confusion_matrix)
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import accuracy_score, balanced_accuracy_score
-from sklearn.metrics import plot_confusion_matrix
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-dataset", default="../data/features.csv")

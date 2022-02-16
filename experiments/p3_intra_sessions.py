@@ -1,10 +1,10 @@
-import os
 import argparse
-import utils as utils
-import pandas as pd
+import os
 import random
-import numpy as np
 
+import numpy as np
+import pandas as pd
+import utils as utils
 from sklearn import svm
 from sklearn.preprocessing import StandardScaler
 

@@ -1,14 +1,15 @@
-import os
 import argparse
-import utils as utils
-import pandas as pd
+import os
 import random
-import numpy as np, scipy.stats as st
 
+import numpy as np
+import pandas as pd
+import scipy.stats as st
+import utils as utils
+from joblib import Parallel, delayed
 from sklearn import svm
 from sklearn.preprocessing import StandardScaler
 from sklearn.utils import shuffle
-from joblib import Parallel, delayed
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-dataset", default="../data/features.csv")

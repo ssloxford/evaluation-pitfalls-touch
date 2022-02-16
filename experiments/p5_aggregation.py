@@ -1,16 +1,17 @@
-import statistics
 import argparse
-import utils as utils
-import numpy as np
+import statistics
 
-from sklearn import svm
-from sklearn.preprocessing import StandardScaler
-from sklearn.utils import shuffle
+import numpy as np
+import utils as utils
 from joblib import Parallel, delayed
+from sklearn import svm
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.preprocessing import StandardScaler
+from sklearn.utils import shuffle
+from tensorflow.keras.layers import (Activation, BatchNormalization, Dense,
+                                     Dropout)
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Dropout, Activation, BatchNormalization
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-dataset", default="../data/features.csv")

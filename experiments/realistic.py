@@ -1,13 +1,13 @@
-import statistics
 import argparse
-import utils as utils
 import random
+import statistics
+from pprint import pprint
 
+import utils as utils
+from joblib import Parallel, delayed
 from sklearn import svm
 from sklearn.preprocessing import StandardScaler
 from sklearn.utils import shuffle
-from joblib import Parallel, delayed
-from pprint import pprint
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-dataset", default="../data/features.csv")

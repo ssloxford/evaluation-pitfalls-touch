@@ -1,21 +1,22 @@
-import random
-import pandas as pd
 import math
-import numpy as np
 import os
+import random
+
+import numpy as np
+import pandas as pd
 
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 
-from sklearn.metrics import accuracy_score, roc_curve
-from scipy.optimize import brentq
 from scipy.interpolate import interp1d
-from sklearn.utils import shuffle
-
+from scipy.optimize import brentq
 from sklearn import svm
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, roc_curve
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.utils import shuffle
+from tensorflow.keras.layers import (Activation, BatchNormalization, Dense,
+                                     Dropout)
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Dropout, Activation, BatchNormalization
 
 
 def preprocessing(
